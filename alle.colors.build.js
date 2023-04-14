@@ -1,61 +1,49 @@
 const path = require('path');
 const StyleDictionary = require('style-dictionary');
+
+// Style dictionary comes with some OOTB helper functions for parsing, transforming, and formatting
 const {minifyDictionary} = StyleDictionary.formatHelpers;
-// const { registerTransforms } = require('@tokens-studio/sd-transforms');
-// registerTransforms(StyleDictionary);
 
-// StyleDictionary.registerParser({
-//     pattern: /\.json$/,
-//     parse: ({ filePath, contents }) => {
-//         // grab the filename to use as top level key
-//         const filename = path.basename(filePath).replace('.json', '')
-
-//       return {[filename]: JSON.parse(contents)};
-//     }
-//   });
-
-// StyleDictionary.registerTransform({
-//     name: 'category/rename',
-//     transformer: function(token) {
-//         if token.
-//     }
-
-// });
-
+// custom transformer
+// create a name more in-line with Chakra usage
 StyleDictionary.registerTransform({
-    name: 'name/figma',
+    name: 'name/chakra',
     type: 'name',
+    // we don't need it here, but matchers can be defined as well
     // matcher: function(token) {
     //   return token.attributes.category === 'color';
     // },
     transformer: function(token) {
-        return token.path.join("-").toLowerCase();
+        return token.path.join(".").toLowerCase().replace(' ', '');
     }
   });
 
-  // create a comment that lets us map the final value back to figma name
+  // custom transformer
+  // create an attribute that lets us map the final value back to Figma name
   StyleDictionary.registerTransform({
-    name: 'comment/figma',
+    name: 'attribute/figma-name',
     type: 'attribute',
     transformer: function(token) {
         const _t = token;
-        _t.comment = token.path.join("/");
+        _t.figmaName = token.path.join("/");
         return _t;
     }
   });
 
+  // custom formatter
+  // cleans up and minifies style dictionary values
   StyleDictionary.registerFormat({
     name: 'chakra/minify',
     formatter: function({dictionary, platform, options, file}) {
         // clean up unused attributes
         return JSON.stringify(minifyDictionary(dictionary.tokens));
-
-        // return JSON.stringify(dictionary.tokens, null, 2);
       }
   })
 
+  // custom formatter
+  // dumps out token names, the original value or alias, and the figma name
   StyleDictionary.registerFormat({
-    name: 'chakra/with-comments',
+    name: 'chakra/custom',
     formatter: function({dictionary, platform, options, file}) {
         return dictionary.allTokens.map(token => {
             let value = JSON.stringify(token.value);
@@ -74,7 +62,7 @@ StyleDictionary.registerTransform({
                 });
               });
             }
-            return `Token Name:${token.name} | Original reference name: ${value};`
+            return `Token Name:${token.name} | Original value or alias name: ${value} | Figma name: ${token.figmaName};`
           }).join(`\n`)
       }
   })
@@ -83,37 +71,33 @@ StyleDictionary.registerTransform({
   
 
 const sd = StyleDictionary.extend({
-    // source: ['alle/**/*.json', '!alle/CRM.json'],
+    // short example applied to just the color tokens
     source: ['alle/ref-colors.json', 'alle/sem-colors.json'],
     platforms: {
         js: {
-        // transformGroup: 'tokens-studio',
-        // parsers: []
-        transforms: ['comment/figma', 'attribute/cti','name/figma',  'time/seconds'],
+        transforms: ['attribute/figma-name', 'name/chakra', 'attribute/cti', 'time/seconds'],
         buildPath: 'build/js/',
         files: [
+            // this default formatter outputs the entire style dictionary object
+            // which is useful for debugging and traceability
             {
-            destination: 'colors.debug.js',
-            format: 'javascript/object',
-            "options": {
-                // Look here 👇
-                "outputReferences": true,
-                "commentStyle": 'short'
-              }
+                destination: 'colors.debug.js',
+                format: 'javascript/object',
             },
+            // this custom formatter outputs code that could be directly consumed in chakra
             {
                 destination: 'colors.minify.json',
                 format: 'chakra/minify'
             },
+            // this customer formatter demonstrates what could be possible
+            // but may be redundant with the debug file.
             {
                 destination: 'colors.with-comments.js',
-                format: 'chakra/with-comments'
+                format: 'chakra/custom'
             }
         ],
     }
 }
 });
-
-
 
 sd.buildAllPlatforms();

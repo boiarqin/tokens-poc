@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 13 Apr 2023 21:59:51 GMT
+ * Generated on Fri, 14 Apr 2023 16:01:43 GMT
  */
 
 var _styleDictionary = {
@@ -15,7 +15,7 @@ var _styleDictionary = {
           "value": "#2a2929",
           "type": "color"
         },
-        "name": "palette-neutral-10",
+        "name": "palette.neutral.10",
         "attributes": {
           "value": "#2a2929",
           "type": "color",
@@ -32,7 +32,7 @@ var _styleDictionary = {
             "Neutral",
             "10"
           ],
-          "comment": "Palette/Neutral/10",
+          "figmaName": "Palette/Neutral/10",
           "category": "Palette",
           "item": "10"
         },
@@ -41,7 +41,7 @@ var _styleDictionary = {
           "Neutral",
           "10"
         ],
-        "comment": "Palette/Neutral/10"
+        "figmaName": "Palette/Neutral/10"
       },
       "20": {
         "value": "#3b3a3a",
@@ -52,7 +52,7 @@ var _styleDictionary = {
           "value": "#3b3a3a",
           "type": "color"
         },
-        "name": "palette-neutral-20",
+        "name": "palette.neutral.20",
         "attributes": {
           "value": "#3b3a3a",
           "type": "color",
@@ -69,7 +69,7 @@ var _styleDictionary = {
             "Neutral",
             "20"
           ],
-          "comment": "Palette/Neutral/20",
+          "figmaName": "Palette/Neutral/20",
           "category": "Palette",
           "item": "20"
         },
@@ -78,7 +78,7 @@ var _styleDictionary = {
           "Neutral",
           "20"
         ],
-        "comment": "Palette/Neutral/20"
+        "figmaName": "Palette/Neutral/20"
       },
       "30": {
         "value": "#4b4a4a",
@@ -89,7 +89,7 @@ var _styleDictionary = {
           "value": "#4b4a4a",
           "type": "color"
         },
-        "name": "palette-neutral-30",
+        "name": "palette.neutral.30",
         "attributes": {
           "value": "#4b4a4a",
           "type": "color",
@@ -106,7 +106,7 @@ var _styleDictionary = {
             "Neutral",
             "30"
           ],
-          "comment": "Palette/Neutral/30",
+          "figmaName": "Palette/Neutral/30",
           "category": "Palette",
           "item": "30"
         },
@@ -115,7 +115,7 @@ var _styleDictionary = {
           "Neutral",
           "30"
         ],
-        "comment": "Palette/Neutral/30"
+        "figmaName": "Palette/Neutral/30"
       },
       "40": {
         "value": "#626060",
@@ -126,7 +126,7 @@ var _styleDictionary = {
           "value": "#626060",
           "type": "color"
         },
-        "name": "palette-neutral-40",
+        "name": "palette.neutral.40",
         "attributes": {
           "value": "#626060",
           "type": "color",
@@ -143,7 +143,7 @@ var _styleDictionary = {
             "Neutral",
             "40"
           ],
-          "comment": "Palette/Neutral/40",
+          "figmaName": "Palette/Neutral/40",
           "category": "Palette",
           "item": "40"
         },
@@ -152,7 +152,7 @@ var _styleDictionary = {
           "Neutral",
           "40"
         ],
-        "comment": "Palette/Neutral/40"
+        "figmaName": "Palette/Neutral/40"
       },
       "50": {
         "value": "#787676",
@@ -163,7 +163,7 @@ var _styleDictionary = {
           "value": "#787676",
           "type": "color"
         },
-        "name": "palette-neutral-50",
+        "name": "palette.neutral.50",
         "attributes": {
           "value": "#787676",
           "type": "color",
@@ -180,7 +180,7 @@ var _styleDictionary = {
             "Neutral",
             "50"
           ],
-          "comment": "Palette/Neutral/50",
+          "figmaName": "Palette/Neutral/50",
           "category": "Palette",
           "item": "50"
         },
@@ -189,7 +189,7 @@ var _styleDictionary = {
           "Neutral",
           "50"
         ],
-        "comment": "Palette/Neutral/50"
+        "figmaName": "Palette/Neutral/50"
       },
       "60": {
         "value": "#959292",
@@ -200,7 +200,7 @@ var _styleDictionary = {
           "value": "#959292",
           "type": "color"
         },
-        "name": "palette-neutral-60",
+        "name": "palette.neutral.60",
         "attributes": {
           "value": "#959292",
           "type": "color",
@@ -217,7 +217,7 @@ var _styleDictionary = {
             "Neutral",
             "60"
           ],
-          "comment": "Palette/Neutral/60",
+          "figmaName": "Palette/Neutral/60",
           "category": "Palette",
           "item": "60"
         },
@@ -226,7 +226,7 @@ var _styleDictionary = {
           "Neutral",
           "60"
         ],
-        "comment": "Palette/Neutral/60"
+        "figmaName": "Palette/Neutral/60"
       },
       "70": {
         "value": "#b3b0ae",
@@ -237,7 +237,7 @@ var _styleDictionary = {
           "value": "#b3b0ae",
           "type": "color"
         },
-        "name": "palette-neutral-70",
+        "name": "palette.neutral.70",
         "attributes": {
           "value": "#b3b0ae",
           "type": "color",
@@ -254,7 +254,7 @@ var _styleDictionary = {
             "Neutral",
             "70"
           ],
-          "comment": "Palette/Neutral/70",
+          "figmaName": "Palette/Neutral/70",
           "category": "Palette",
           "item": "70"
         },
@@ -263,7 +263,7 @@ var _styleDictionary = {
           "Neutral",
           "70"
         ],
-        "comment": "Palette/Neutral/70"
+        "figmaName": "Palette/Neutral/70"
       },
       "80": {
         "value": "#cfcbca",
@@ -274,7 +274,7 @@ var _styleDictionary = {
           "value": "#cfcbca",
           "type": "color"
         },
-        "name": "palette-neutral-80",
+        "name": "palette.neutral.80",
         "attributes": {
           "value": "#cfcbca",
           "type": "color",
@@ -291,7 +291,7 @@ var _styleDictionary = {
             "Neutral",
             "80"
           ],
-          "comment": "Palette/Neutral/80",
+          "figmaName": "Palette/Neutral/80",
           "category": "Palette",
           "item": "80"
         },
@@ -300,7 +300,7 @@ var _styleDictionary = {
           "Neutral",
           "80"
         ],
-        "comment": "Palette/Neutral/80"
+        "figmaName": "Palette/Neutral/80"
       },
       "85": {
         "value": "#e5e0dc",
@@ -311,7 +311,7 @@ var _styleDictionary = {
           "value": "#e5e0dc",
           "type": "color"
         },
-        "name": "palette-neutral-85",
+        "name": "palette.neutral.85",
         "attributes": {
           "value": "#e5e0dc",
           "type": "color",
@@ -328,7 +328,7 @@ var _styleDictionary = {
             "Neutral",
             "85"
           ],
-          "comment": "Palette/Neutral/85",
+          "figmaName": "Palette/Neutral/85",
           "category": "Palette",
           "item": "85"
         },
@@ -337,7 +337,7 @@ var _styleDictionary = {
           "Neutral",
           "85"
         ],
-        "comment": "Palette/Neutral/85"
+        "figmaName": "Palette/Neutral/85"
       },
       "90": {
         "value": "#eceae7",
@@ -348,7 +348,7 @@ var _styleDictionary = {
           "value": "#eceae7",
           "type": "color"
         },
-        "name": "palette-neutral-90",
+        "name": "palette.neutral.90",
         "attributes": {
           "value": "#eceae7",
           "type": "color",
@@ -365,7 +365,7 @@ var _styleDictionary = {
             "Neutral",
             "90"
           ],
-          "comment": "Palette/Neutral/90",
+          "figmaName": "Palette/Neutral/90",
           "category": "Palette",
           "item": "90"
         },
@@ -374,7 +374,7 @@ var _styleDictionary = {
           "Neutral",
           "90"
         ],
-        "comment": "Palette/Neutral/90"
+        "figmaName": "Palette/Neutral/90"
       },
       "95": {
         "value": "#f7f6f5",
@@ -385,7 +385,7 @@ var _styleDictionary = {
           "value": "#f7f6f5",
           "type": "color"
         },
-        "name": "palette-neutral-95",
+        "name": "palette.neutral.95",
         "attributes": {
           "value": "#f7f6f5",
           "type": "color",
@@ -402,7 +402,7 @@ var _styleDictionary = {
             "Neutral",
             "95"
           ],
-          "comment": "Palette/Neutral/95",
+          "figmaName": "Palette/Neutral/95",
           "category": "Palette",
           "item": "95"
         },
@@ -411,7 +411,7 @@ var _styleDictionary = {
           "Neutral",
           "95"
         ],
-        "comment": "Palette/Neutral/95"
+        "figmaName": "Palette/Neutral/95"
       },
       "98": {
         "value": "#fafafa",
@@ -422,7 +422,7 @@ var _styleDictionary = {
           "value": "#fafafa",
           "type": "color"
         },
-        "name": "palette-neutral-98",
+        "name": "palette.neutral.98",
         "attributes": {
           "value": "#fafafa",
           "type": "color",
@@ -439,7 +439,7 @@ var _styleDictionary = {
             "Neutral",
             "98"
           ],
-          "comment": "Palette/Neutral/98",
+          "figmaName": "Palette/Neutral/98",
           "category": "Palette",
           "item": "98"
         },
@@ -448,7 +448,7 @@ var _styleDictionary = {
           "Neutral",
           "98"
         ],
-        "comment": "Palette/Neutral/98"
+        "figmaName": "Palette/Neutral/98"
       },
       "100 White": {
         "value": "#ffffff",
@@ -459,7 +459,7 @@ var _styleDictionary = {
           "value": "#ffffff",
           "type": "color"
         },
-        "name": "palette-neutral-100 white",
+        "name": "palette.neutral.100white",
         "attributes": {
           "value": "#ffffff",
           "type": "color",
@@ -476,7 +476,7 @@ var _styleDictionary = {
             "Neutral",
             "100 White"
           ],
-          "comment": "Palette/Neutral/100 White",
+          "figmaName": "Palette/Neutral/100 White",
           "category": "Palette",
           "item": "100 White"
         },
@@ -485,7 +485,7 @@ var _styleDictionary = {
           "Neutral",
           "100 White"
         ],
-        "comment": "Palette/Neutral/100 White"
+        "figmaName": "Palette/Neutral/100 White"
       },
       "00 Black": {
         "value": "#090909",
@@ -496,7 +496,7 @@ var _styleDictionary = {
           "value": "#090909",
           "type": "color"
         },
-        "name": "palette-neutral-00 black",
+        "name": "palette.neutral.00black",
         "attributes": {
           "value": "#090909",
           "type": "color",
@@ -513,7 +513,7 @@ var _styleDictionary = {
             "Neutral",
             "00 Black"
           ],
-          "comment": "Palette/Neutral/00 Black",
+          "figmaName": "Palette/Neutral/00 Black",
           "category": "Palette",
           "item": "00 Black"
         },
@@ -522,7 +522,7 @@ var _styleDictionary = {
           "Neutral",
           "00 Black"
         ],
-        "comment": "Palette/Neutral/00 Black"
+        "figmaName": "Palette/Neutral/00 Black"
       }
     },
     "Primary": {
@@ -535,7 +535,7 @@ var _styleDictionary = {
           "value": "#130d0c",
           "type": "color"
         },
-        "name": "palette-primary-10",
+        "name": "palette.primary.10",
         "attributes": {
           "value": "#130d0c",
           "type": "color",
@@ -552,7 +552,7 @@ var _styleDictionary = {
             "Primary",
             "10"
           ],
-          "comment": "Palette/Primary/10",
+          "figmaName": "Palette/Primary/10",
           "category": "Palette",
           "item": "10"
         },
@@ -561,7 +561,7 @@ var _styleDictionary = {
           "Primary",
           "10"
         ],
-        "comment": "Palette/Primary/10"
+        "figmaName": "Palette/Primary/10"
       },
       "20": {
         "value": "#30211e",
@@ -572,7 +572,7 @@ var _styleDictionary = {
           "value": "#30211e",
           "type": "color"
         },
-        "name": "palette-primary-20",
+        "name": "palette.primary.20",
         "attributes": {
           "value": "#30211e",
           "type": "color",
@@ -589,7 +589,7 @@ var _styleDictionary = {
             "Primary",
             "20"
           ],
-          "comment": "Palette/Primary/20",
+          "figmaName": "Palette/Primary/20",
           "category": "Palette",
           "item": "20"
         },
@@ -598,7 +598,7 @@ var _styleDictionary = {
           "Primary",
           "20"
         ],
-        "comment": "Palette/Primary/20"
+        "figmaName": "Palette/Primary/20"
       },
       "30": {
         "value": "#60433b",
@@ -609,7 +609,7 @@ var _styleDictionary = {
           "value": "#60433b",
           "type": "color"
         },
-        "name": "palette-primary-30",
+        "name": "palette.primary.30",
         "attributes": {
           "value": "#60433b",
           "type": "color",
@@ -626,7 +626,7 @@ var _styleDictionary = {
             "Primary",
             "30"
           ],
-          "comment": "Palette/Primary/30",
+          "figmaName": "Palette/Primary/30",
           "category": "Palette",
           "item": "30"
         },
@@ -635,7 +635,7 @@ var _styleDictionary = {
           "Primary",
           "30"
         ],
-        "comment": "Palette/Primary/30"
+        "figmaName": "Palette/Primary/30"
       },
       "40": {
         "value": "#7d574d",
@@ -646,7 +646,7 @@ var _styleDictionary = {
           "value": "#7d574d",
           "type": "color"
         },
-        "name": "palette-primary-40",
+        "name": "palette.primary.40",
         "attributes": {
           "value": "#7d574d",
           "type": "color",
@@ -663,7 +663,7 @@ var _styleDictionary = {
             "Primary",
             "40"
           ],
-          "comment": "Palette/Primary/40",
+          "figmaName": "Palette/Primary/40",
           "category": "Palette",
           "item": "40"
         },
@@ -672,7 +672,7 @@ var _styleDictionary = {
           "Primary",
           "40"
         ],
-        "comment": "Palette/Primary/40"
+        "figmaName": "Palette/Primary/40"
       },
       "50": {
         "value": "#9a6b5e",
@@ -683,7 +683,7 @@ var _styleDictionary = {
           "value": "#9a6b5e",
           "type": "color"
         },
-        "name": "palette-primary-50",
+        "name": "palette.primary.50",
         "attributes": {
           "value": "#9a6b5e",
           "type": "color",
@@ -700,7 +700,7 @@ var _styleDictionary = {
             "Primary",
             "50"
           ],
-          "comment": "Palette/Primary/50",
+          "figmaName": "Palette/Primary/50",
           "category": "Palette",
           "item": "50"
         },
@@ -709,7 +709,7 @@ var _styleDictionary = {
           "Primary",
           "50"
         ],
-        "comment": "Palette/Primary/50"
+        "figmaName": "Palette/Primary/50"
       },
       "60": {
         "value": "#c08676",
@@ -720,7 +720,7 @@ var _styleDictionary = {
           "value": "#c08676",
           "type": "color"
         },
-        "name": "palette-primary-60",
+        "name": "palette.primary.60",
         "attributes": {
           "value": "#c08676",
           "type": "color",
@@ -737,7 +737,7 @@ var _styleDictionary = {
             "Primary",
             "60"
           ],
-          "comment": "Palette/Primary/60",
+          "figmaName": "Palette/Primary/60",
           "category": "Palette",
           "item": "60"
         },
@@ -746,7 +746,7 @@ var _styleDictionary = {
           "Primary",
           "60"
         ],
-        "comment": "Palette/Primary/60"
+        "figmaName": "Palette/Primary/60"
       },
       "70": {
         "value": "#d0a498",
@@ -757,7 +757,7 @@ var _styleDictionary = {
           "value": "#d0a498",
           "type": "color"
         },
-        "name": "palette-primary-70",
+        "name": "palette.primary.70",
         "attributes": {
           "value": "#d0a498",
           "type": "color",
@@ -774,7 +774,7 @@ var _styleDictionary = {
             "Primary",
             "70"
           ],
-          "comment": "Palette/Primary/70",
+          "figmaName": "Palette/Primary/70",
           "category": "Palette",
           "item": "70"
         },
@@ -783,7 +783,7 @@ var _styleDictionary = {
           "Primary",
           "70"
         ],
-        "comment": "Palette/Primary/70"
+        "figmaName": "Palette/Primary/70"
       },
       "80": {
         "value": "#dfc2bb",
@@ -794,7 +794,7 @@ var _styleDictionary = {
           "value": "#dfc2bb",
           "type": "color"
         },
-        "name": "palette-primary-80",
+        "name": "palette.primary.80",
         "attributes": {
           "value": "#dfc2bb",
           "type": "color",
@@ -811,7 +811,7 @@ var _styleDictionary = {
             "Primary",
             "80"
           ],
-          "comment": "Palette/Primary/80",
+          "figmaName": "Palette/Primary/80",
           "category": "Palette",
           "item": "80"
         },
@@ -820,7 +820,7 @@ var _styleDictionary = {
           "Primary",
           "80"
         ],
-        "comment": "Palette/Primary/80"
+        "figmaName": "Palette/Primary/80"
       },
       "85": {
         "value": "#e8d6d1",
@@ -831,7 +831,7 @@ var _styleDictionary = {
           "value": "#e8d6d1",
           "type": "color"
         },
-        "name": "palette-primary-85",
+        "name": "palette.primary.85",
         "attributes": {
           "value": "#e8d6d1",
           "type": "color",
@@ -848,7 +848,7 @@ var _styleDictionary = {
             "Primary",
             "85"
           ],
-          "comment": "Palette/Primary/85",
+          "figmaName": "Palette/Primary/85",
           "category": "Palette",
           "item": "85"
         },
@@ -857,7 +857,7 @@ var _styleDictionary = {
           "Primary",
           "85"
         ],
-        "comment": "Palette/Primary/85"
+        "figmaName": "Palette/Primary/85"
       },
       "90": {
         "value": "#efe1dd",
@@ -868,7 +868,7 @@ var _styleDictionary = {
           "value": "#efe1dd",
           "type": "color"
         },
-        "name": "palette-primary-90",
+        "name": "palette.primary.90",
         "attributes": {
           "value": "#efe1dd",
           "type": "color",
@@ -885,7 +885,7 @@ var _styleDictionary = {
             "Primary",
             "90"
           ],
-          "comment": "Palette/Primary/90",
+          "figmaName": "Palette/Primary/90",
           "category": "Palette",
           "item": "90"
         },
@@ -894,7 +894,7 @@ var _styleDictionary = {
           "Primary",
           "90"
         ],
-        "comment": "Palette/Primary/90"
+        "figmaName": "Palette/Primary/90"
       },
       "95": {
         "value": "#f9f3f1",
@@ -905,7 +905,7 @@ var _styleDictionary = {
           "value": "#f9f3f1",
           "type": "color"
         },
-        "name": "palette-primary-95",
+        "name": "palette.primary.95",
         "attributes": {
           "value": "#f9f3f1",
           "type": "color",
@@ -922,7 +922,7 @@ var _styleDictionary = {
             "Primary",
             "95"
           ],
-          "comment": "Palette/Primary/95",
+          "figmaName": "Palette/Primary/95",
           "category": "Palette",
           "item": "95"
         },
@@ -931,7 +931,7 @@ var _styleDictionary = {
           "Primary",
           "95"
         ],
-        "comment": "Palette/Primary/95"
+        "figmaName": "Palette/Primary/95"
       }
     },
     "Success": {
@@ -944,7 +944,7 @@ var _styleDictionary = {
           "value": "#000e03",
           "type": "color"
         },
-        "name": "palette-success-10",
+        "name": "palette.success.10",
         "attributes": {
           "value": "#000e03",
           "type": "color",
@@ -961,7 +961,7 @@ var _styleDictionary = {
             "Success",
             "10"
           ],
-          "comment": "Palette/Success/10",
+          "figmaName": "Palette/Success/10",
           "category": "Palette",
           "item": "10"
         },
@@ -970,7 +970,7 @@ var _styleDictionary = {
           "Success",
           "10"
         ],
-        "comment": "Palette/Success/10"
+        "figmaName": "Palette/Success/10"
       },
       "20": {
         "value": "#002207",
@@ -981,7 +981,7 @@ var _styleDictionary = {
           "value": "#002207",
           "type": "color"
         },
-        "name": "palette-success-20",
+        "name": "palette.success.20",
         "attributes": {
           "value": "#002207",
           "type": "color",
@@ -998,7 +998,7 @@ var _styleDictionary = {
             "Success",
             "20"
           ],
-          "comment": "Palette/Success/20",
+          "figmaName": "Palette/Success/20",
           "category": "Palette",
           "item": "20"
         },
@@ -1007,7 +1007,7 @@ var _styleDictionary = {
           "Success",
           "20"
         ],
-        "comment": "Palette/Success/20"
+        "figmaName": "Palette/Success/20"
       },
       "30": {
         "value": "#00450d",
@@ -1018,7 +1018,7 @@ var _styleDictionary = {
           "value": "#00450d",
           "type": "color"
         },
-        "name": "palette-success-30",
+        "name": "palette.success.30",
         "attributes": {
           "value": "#00450d",
           "type": "color",
@@ -1035,7 +1035,7 @@ var _styleDictionary = {
             "Success",
             "30"
           ],
-          "comment": "Palette/Success/30",
+          "figmaName": "Palette/Success/30",
           "category": "Palette",
           "item": "30"
         },
@@ -1044,7 +1044,7 @@ var _styleDictionary = {
           "Success",
           "30"
         ],
-        "comment": "Palette/Success/30"
+        "figmaName": "Palette/Success/30"
       },
       "40": {
         "value": "#006714",
@@ -1055,7 +1055,7 @@ var _styleDictionary = {
           "value": "#006714",
           "type": "color"
         },
-        "name": "palette-success-40",
+        "name": "palette.success.40",
         "attributes": {
           "value": "#006714",
           "type": "color",
@@ -1072,7 +1072,7 @@ var _styleDictionary = {
             "Success",
             "40"
           ],
-          "comment": "Palette/Success/40",
+          "figmaName": "Palette/Success/40",
           "category": "Palette",
           "item": "40"
         },
@@ -1081,7 +1081,7 @@ var _styleDictionary = {
           "Success",
           "40"
         ],
-        "comment": "Palette/Success/40"
+        "figmaName": "Palette/Success/40"
       },
       "50": {
         "value": "#008a1a",
@@ -1092,7 +1092,7 @@ var _styleDictionary = {
           "value": "#008a1a",
           "type": "color"
         },
-        "name": "palette-success-50",
+        "name": "palette.success.50",
         "attributes": {
           "value": "#008a1a",
           "type": "color",
@@ -1109,7 +1109,7 @@ var _styleDictionary = {
             "Success",
             "50"
           ],
-          "comment": "Palette/Success/50",
+          "figmaName": "Palette/Success/50",
           "category": "Palette",
           "item": "50"
         },
@@ -1118,7 +1118,7 @@ var _styleDictionary = {
           "Success",
           "50"
         ],
-        "comment": "Palette/Success/50"
+        "figmaName": "Palette/Success/50"
       },
       "60": {
         "value": "#40a753",
@@ -1129,7 +1129,7 @@ var _styleDictionary = {
           "value": "#40a753",
           "type": "color"
         },
-        "name": "palette-success-60",
+        "name": "palette.success.60",
         "attributes": {
           "value": "#40a753",
           "type": "color",
@@ -1146,7 +1146,7 @@ var _styleDictionary = {
             "Success",
             "60"
           ],
-          "comment": "Palette/Success/60",
+          "figmaName": "Palette/Success/60",
           "category": "Palette",
           "item": "60"
         },
@@ -1155,7 +1155,7 @@ var _styleDictionary = {
           "Success",
           "60"
         ],
-        "comment": "Palette/Success/60"
+        "figmaName": "Palette/Success/60"
       },
       "70": {
         "value": "#80c48c",
@@ -1166,7 +1166,7 @@ var _styleDictionary = {
           "value": "#80c48c",
           "type": "color"
         },
-        "name": "palette-success-70",
+        "name": "palette.success.70",
         "attributes": {
           "value": "#80c48c",
           "type": "color",
@@ -1183,7 +1183,7 @@ var _styleDictionary = {
             "Success",
             "70"
           ],
-          "comment": "Palette/Success/70",
+          "figmaName": "Palette/Success/70",
           "category": "Palette",
           "item": "70"
         },
@@ -1192,7 +1192,7 @@ var _styleDictionary = {
           "Success",
           "70"
         ],
-        "comment": "Palette/Success/70"
+        "figmaName": "Palette/Success/70"
       },
       "75": {
         "value": "#a8d7b1",
@@ -1203,7 +1203,7 @@ var _styleDictionary = {
           "value": "#a8d7b1",
           "type": "color"
         },
-        "name": "palette-success-75",
+        "name": "palette.success.75",
         "attributes": {
           "value": "#a8d7b1",
           "type": "color",
@@ -1220,7 +1220,7 @@ var _styleDictionary = {
             "Success",
             "75"
           ],
-          "comment": "Palette/Success/75",
+          "figmaName": "Palette/Success/75",
           "category": "Palette",
           "item": "75"
         },
@@ -1229,7 +1229,7 @@ var _styleDictionary = {
           "Success",
           "75"
         ],
-        "comment": "Palette/Success/75"
+        "figmaName": "Palette/Success/75"
       },
       "80": {
         "value": "#b8debf",
@@ -1240,7 +1240,7 @@ var _styleDictionary = {
           "value": "#b8debf",
           "type": "color"
         },
-        "name": "palette-success-80",
+        "name": "palette.success.80",
         "attributes": {
           "value": "#b8debf",
           "type": "color",
@@ -1257,7 +1257,7 @@ var _styleDictionary = {
             "Success",
             "80"
           ],
-          "comment": "Palette/Success/80",
+          "figmaName": "Palette/Success/80",
           "category": "Palette",
           "item": "80"
         },
@@ -1266,7 +1266,7 @@ var _styleDictionary = {
           "Success",
           "80"
         ],
-        "comment": "Palette/Success/80"
+        "figmaName": "Palette/Success/80"
       },
       "90": {
         "value": "#e5f3e8",
@@ -1277,7 +1277,7 @@ var _styleDictionary = {
           "value": "#e5f3e8",
           "type": "color"
         },
-        "name": "palette-success-90",
+        "name": "palette.success.90",
         "attributes": {
           "value": "#e5f3e8",
           "type": "color",
@@ -1294,7 +1294,7 @@ var _styleDictionary = {
             "Success",
             "90"
           ],
-          "comment": "Palette/Success/90",
+          "figmaName": "Palette/Success/90",
           "category": "Palette",
           "item": "90"
         },
@@ -1303,7 +1303,7 @@ var _styleDictionary = {
           "Success",
           "90"
         ],
-        "comment": "Palette/Success/90"
+        "figmaName": "Palette/Success/90"
       }
     },
     "Error": {
@@ -1316,7 +1316,7 @@ var _styleDictionary = {
           "value": "#140504",
           "type": "color"
         },
-        "name": "palette-error-10",
+        "name": "palette.error.10",
         "attributes": {
           "value": "#140504",
           "type": "color",
@@ -1333,7 +1333,7 @@ var _styleDictionary = {
             "Error",
             "10"
           ],
-          "comment": "Palette/Error/10",
+          "figmaName": "Palette/Error/10",
           "category": "Palette",
           "item": "10"
         },
@@ -1342,7 +1342,7 @@ var _styleDictionary = {
           "Error",
           "10"
         ],
-        "comment": "Palette/Error/10"
+        "figmaName": "Palette/Error/10"
       },
       "20": {
         "value": "#310d09",
@@ -1353,7 +1353,7 @@ var _styleDictionary = {
           "value": "#310d09",
           "type": "color"
         },
-        "name": "palette-error-20",
+        "name": "palette.error.20",
         "attributes": {
           "value": "#310d09",
           "type": "color",
@@ -1370,7 +1370,7 @@ var _styleDictionary = {
             "Error",
             "20"
           ],
-          "comment": "Palette/Error/20",
+          "figmaName": "Palette/Error/20",
           "category": "Palette",
           "item": "20"
         },
@@ -1379,7 +1379,7 @@ var _styleDictionary = {
           "Error",
           "20"
         ],
-        "comment": "Palette/Error/20"
+        "figmaName": "Palette/Error/20"
       },
       "30": {
         "value": "#621a13",
@@ -1390,7 +1390,7 @@ var _styleDictionary = {
           "value": "#621a13",
           "type": "color"
         },
-        "name": "palette-error-30",
+        "name": "palette.error.30",
         "attributes": {
           "value": "#621a13",
           "type": "color",
@@ -1407,7 +1407,7 @@ var _styleDictionary = {
             "Error",
             "30"
           ],
-          "comment": "Palette/Error/30",
+          "figmaName": "Palette/Error/30",
           "category": "Palette",
           "item": "30"
         },
@@ -1416,7 +1416,7 @@ var _styleDictionary = {
           "Error",
           "30"
         ],
-        "comment": "Palette/Error/30"
+        "figmaName": "Palette/Error/30"
       },
       "40": {
         "value": "#94271c",
@@ -1427,7 +1427,7 @@ var _styleDictionary = {
           "value": "#94271c",
           "type": "color"
         },
-        "name": "palette-error-40",
+        "name": "palette.error.40",
         "attributes": {
           "value": "#94271c",
           "type": "color",
@@ -1444,7 +1444,7 @@ var _styleDictionary = {
             "Error",
             "40"
           ],
-          "comment": "Palette/Error/40",
+          "figmaName": "Palette/Error/40",
           "category": "Palette",
           "item": "40"
         },
@@ -1453,7 +1453,7 @@ var _styleDictionary = {
           "Error",
           "40"
         ],
-        "comment": "Palette/Error/40"
+        "figmaName": "Palette/Error/40"
       },
       "50": {
         "value": "#c53425",
@@ -1464,7 +1464,7 @@ var _styleDictionary = {
           "value": "#c53425",
           "type": "color"
         },
-        "name": "palette-error-50",
+        "name": "palette.error.50",
         "attributes": {
           "value": "#c53425",
           "type": "color",
@@ -1481,7 +1481,7 @@ var _styleDictionary = {
             "Error",
             "50"
           ],
-          "comment": "Palette/Error/50",
+          "figmaName": "Palette/Error/50",
           "category": "Palette",
           "item": "50"
         },
@@ -1490,7 +1490,7 @@ var _styleDictionary = {
           "Error",
           "50"
         ],
-        "comment": "Palette/Error/50"
+        "figmaName": "Palette/Error/50"
       },
       "60": {
         "value": "#d3675c",
@@ -1501,7 +1501,7 @@ var _styleDictionary = {
           "value": "#d3675c",
           "type": "color"
         },
-        "name": "palette-error-60",
+        "name": "palette.error.60",
         "attributes": {
           "value": "#d3675c",
           "type": "color",
@@ -1518,7 +1518,7 @@ var _styleDictionary = {
             "Error",
             "60"
           ],
-          "comment": "Palette/Error/60",
+          "figmaName": "Palette/Error/60",
           "category": "Palette",
           "item": "60"
         },
@@ -1527,7 +1527,7 @@ var _styleDictionary = {
           "Error",
           "60"
         ],
-        "comment": "Palette/Error/60"
+        "figmaName": "Palette/Error/60"
       },
       "70": {
         "value": "#e29a92",
@@ -1538,7 +1538,7 @@ var _styleDictionary = {
           "value": "#e29a92",
           "type": "color"
         },
-        "name": "palette-error-70",
+        "name": "palette.error.70",
         "attributes": {
           "value": "#e29a92",
           "type": "color",
@@ -1555,7 +1555,7 @@ var _styleDictionary = {
             "Error",
             "70"
           ],
-          "comment": "Palette/Error/70",
+          "figmaName": "Palette/Error/70",
           "category": "Palette",
           "item": "70"
         },
@@ -1564,7 +1564,7 @@ var _styleDictionary = {
           "Error",
           "70"
         ],
-        "comment": "Palette/Error/70"
+        "figmaName": "Palette/Error/70"
       },
       "80": {
         "value": "#f1ccc8",
@@ -1575,7 +1575,7 @@ var _styleDictionary = {
           "value": "#f1ccc8",
           "type": "color"
         },
-        "name": "palette-error-80",
+        "name": "palette.error.80",
         "attributes": {
           "value": "#f1ccc8",
           "type": "color",
@@ -1592,7 +1592,7 @@ var _styleDictionary = {
             "Error",
             "80"
           ],
-          "comment": "Palette/Error/80",
+          "figmaName": "Palette/Error/80",
           "category": "Palette",
           "item": "80"
         },
@@ -1601,7 +1601,7 @@ var _styleDictionary = {
           "Error",
           "80"
         ],
-        "comment": "Palette/Error/80"
+        "figmaName": "Palette/Error/80"
       },
       "90": {
         "value": "#f9ebe9",
@@ -1612,7 +1612,7 @@ var _styleDictionary = {
           "value": "#f9ebe9",
           "type": "color"
         },
-        "name": "palette-error-90",
+        "name": "palette.error.90",
         "attributes": {
           "value": "#f9ebe9",
           "type": "color",
@@ -1629,7 +1629,7 @@ var _styleDictionary = {
             "Error",
             "90"
           ],
-          "comment": "Palette/Error/90",
+          "figmaName": "Palette/Error/90",
           "category": "Palette",
           "item": "90"
         },
@@ -1638,7 +1638,7 @@ var _styleDictionary = {
           "Error",
           "90"
         ],
-        "comment": "Palette/Error/90"
+        "figmaName": "Palette/Error/90"
       }
     },
     "Warning": {
@@ -1651,7 +1651,7 @@ var _styleDictionary = {
           "value": "#181000",
           "type": "color"
         },
-        "name": "palette-warning-10",
+        "name": "palette.warning.10",
         "attributes": {
           "value": "#181000",
           "type": "color",
@@ -1668,7 +1668,7 @@ var _styleDictionary = {
             "Warning",
             "10"
           ],
-          "comment": "Palette/Warning/10",
+          "figmaName": "Palette/Warning/10",
           "category": "Palette",
           "item": "10"
         },
@@ -1677,7 +1677,7 @@ var _styleDictionary = {
           "Warning",
           "10"
         ],
-        "comment": "Palette/Warning/10"
+        "figmaName": "Palette/Warning/10"
       },
       "20": {
         "value": "#3c2800",
@@ -1688,7 +1688,7 @@ var _styleDictionary = {
           "value": "#3c2800",
           "type": "color"
         },
-        "name": "palette-warning-20",
+        "name": "palette.warning.20",
         "attributes": {
           "value": "#3c2800",
           "type": "color",
@@ -1705,7 +1705,7 @@ var _styleDictionary = {
             "Warning",
             "20"
           ],
-          "comment": "Palette/Warning/20",
+          "figmaName": "Palette/Warning/20",
           "category": "Palette",
           "item": "20"
         },
@@ -1714,7 +1714,7 @@ var _styleDictionary = {
           "Warning",
           "20"
         ],
-        "comment": "Palette/Warning/20"
+        "figmaName": "Palette/Warning/20"
       },
       "30": {
         "value": "#855001",
@@ -1725,7 +1725,7 @@ var _styleDictionary = {
           "value": "#855001",
           "type": "color"
         },
-        "name": "palette-warning-30",
+        "name": "palette.warning.30",
         "attributes": {
           "value": "#855001",
           "type": "color",
@@ -1742,7 +1742,7 @@ var _styleDictionary = {
             "Warning",
             "30"
           ],
-          "comment": "Palette/Warning/30",
+          "figmaName": "Palette/Warning/30",
           "category": "Palette",
           "item": "30"
         },
@@ -1751,7 +1751,7 @@ var _styleDictionary = {
           "Warning",
           "30"
         ],
-        "comment": "Palette/Warning/30"
+        "figmaName": "Palette/Warning/30"
       },
       "40": {
         "value": "#be7302",
@@ -1762,7 +1762,7 @@ var _styleDictionary = {
           "value": "#be7302",
           "type": "color"
         },
-        "name": "palette-warning-40",
+        "name": "palette.warning.40",
         "attributes": {
           "value": "#be7302",
           "type": "color",
@@ -1779,7 +1779,7 @@ var _styleDictionary = {
             "Warning",
             "40"
           ],
-          "comment": "Palette/Warning/40",
+          "figmaName": "Palette/Warning/40",
           "category": "Palette",
           "item": "40"
         },
@@ -1788,7 +1788,7 @@ var _styleDictionary = {
           "Warning",
           "40"
         ],
-        "comment": "Palette/Warning/40"
+        "figmaName": "Palette/Warning/40"
       },
       "50": {
         "value": "#ef8f00",
@@ -1799,7 +1799,7 @@ var _styleDictionary = {
           "value": "#ef8f00",
           "type": "color"
         },
-        "name": "palette-warning-50",
+        "name": "palette.warning.50",
         "attributes": {
           "value": "#ef8f00",
           "type": "color",
@@ -1816,7 +1816,7 @@ var _styleDictionary = {
             "Warning",
             "50"
           ],
-          "comment": "Palette/Warning/50",
+          "figmaName": "Palette/Warning/50",
           "category": "Palette",
           "item": "50"
         },
@@ -1825,7 +1825,7 @@ var _styleDictionary = {
           "Warning",
           "50"
         ],
-        "comment": "Palette/Warning/50"
+        "figmaName": "Palette/Warning/50"
       },
       "60": {
         "value": "#f3b940",
@@ -1836,7 +1836,7 @@ var _styleDictionary = {
           "value": "#f3b940",
           "type": "color"
         },
-        "name": "palette-warning-60",
+        "name": "palette.warning.60",
         "attributes": {
           "value": "#f3b940",
           "type": "color",
@@ -1853,7 +1853,7 @@ var _styleDictionary = {
             "Warning",
             "60"
           ],
-          "comment": "Palette/Warning/60",
+          "figmaName": "Palette/Warning/60",
           "category": "Palette",
           "item": "60"
         },
@@ -1862,7 +1862,7 @@ var _styleDictionary = {
           "Warning",
           "60"
         ],
-        "comment": "Palette/Warning/60"
+        "figmaName": "Palette/Warning/60"
       },
       "70": {
         "value": "#f7d080",
@@ -1873,7 +1873,7 @@ var _styleDictionary = {
           "value": "#f7d080",
           "type": "color"
         },
-        "name": "palette-warning-70",
+        "name": "palette.warning.70",
         "attributes": {
           "value": "#f7d080",
           "type": "color",
@@ -1890,7 +1890,7 @@ var _styleDictionary = {
             "Warning",
             "70"
           ],
-          "comment": "Palette/Warning/70",
+          "figmaName": "Palette/Warning/70",
           "category": "Palette",
           "item": "70"
         },
@@ -1899,7 +1899,7 @@ var _styleDictionary = {
           "Warning",
           "70"
         ],
-        "comment": "Palette/Warning/70"
+        "figmaName": "Palette/Warning/70"
       },
       "80": {
         "value": "#fbe8bf",
@@ -1910,7 +1910,7 @@ var _styleDictionary = {
           "value": "#fbe8bf",
           "type": "color"
         },
-        "name": "palette-warning-80",
+        "name": "palette.warning.80",
         "attributes": {
           "value": "#fbe8bf",
           "type": "color",
@@ -1927,7 +1927,7 @@ var _styleDictionary = {
             "Warning",
             "80"
           ],
-          "comment": "Palette/Warning/80",
+          "figmaName": "Palette/Warning/80",
           "category": "Palette",
           "item": "80"
         },
@@ -1936,7 +1936,7 @@ var _styleDictionary = {
           "Warning",
           "80"
         ],
-        "comment": "Palette/Warning/80"
+        "figmaName": "Palette/Warning/80"
       },
       "90": {
         "value": "#fdf6e5",
@@ -1947,7 +1947,7 @@ var _styleDictionary = {
           "value": "#fdf6e5",
           "type": "color"
         },
-        "name": "palette-warning-90",
+        "name": "palette.warning.90",
         "attributes": {
           "value": "#fdf6e5",
           "type": "color",
@@ -1964,7 +1964,7 @@ var _styleDictionary = {
             "Warning",
             "90"
           ],
-          "comment": "Palette/Warning/90",
+          "figmaName": "Palette/Warning/90",
           "category": "Palette",
           "item": "90"
         },
@@ -1973,7 +1973,7 @@ var _styleDictionary = {
           "Warning",
           "90"
         ],
-        "comment": "Palette/Warning/90"
+        "figmaName": "Palette/Warning/90"
       }
     }
   },
@@ -1989,7 +1989,7 @@ var _styleDictionary = {
             "value": "{Palette.Neutral.00 Black}",
             "type": "color"
           },
-          "name": "color-section bg-neutral-black",
+          "name": "color.sectionbg.neutral.black",
           "attributes": {
             "value": "#090909",
             "type": "color",
@@ -2007,7 +2007,7 @@ var _styleDictionary = {
               "Neutral",
               "Black"
             ],
-            "comment": "Color/Section bg/Neutral/Black",
+            "figmaName": "Color/Section bg/Neutral/Black",
             "category": "Color",
             "item": "Neutral",
             "subitem": "Black"
@@ -2018,7 +2018,7 @@ var _styleDictionary = {
             "Neutral",
             "Black"
           ],
-          "comment": "Color/Section bg/Neutral/Black"
+          "figmaName": "Color/Section bg/Neutral/Black"
         },
         "White": {
           "value": "#ffffff",
@@ -2029,7 +2029,7 @@ var _styleDictionary = {
             "value": "{Palette.Neutral.100 White}",
             "type": "color"
           },
-          "name": "color-section bg-neutral-white",
+          "name": "color.sectionbg.neutral.white",
           "attributes": {
             "value": "#ffffff",
             "type": "color",
@@ -2047,7 +2047,7 @@ var _styleDictionary = {
               "Neutral",
               "White"
             ],
-            "comment": "Color/Section bg/Neutral/White",
+            "figmaName": "Color/Section bg/Neutral/White",
             "category": "Color",
             "item": "Neutral",
             "subitem": "White"
@@ -2058,7 +2058,7 @@ var _styleDictionary = {
             "Neutral",
             "White"
           ],
-          "comment": "Color/Section bg/Neutral/White"
+          "figmaName": "Color/Section bg/Neutral/White"
         },
         "Extra light": {
           "value": "#f7f6f5",
@@ -2069,7 +2069,7 @@ var _styleDictionary = {
             "value": "{Palette.Neutral.95}",
             "type": "color"
           },
-          "name": "color-section bg-neutral-extra light",
+          "name": "color.sectionbg.neutral.extra light",
           "attributes": {
             "value": "#f7f6f5",
             "type": "color",
@@ -2087,7 +2087,7 @@ var _styleDictionary = {
               "Neutral",
               "Extra light"
             ],
-            "comment": "Color/Section bg/Neutral/Extra light",
+            "figmaName": "Color/Section bg/Neutral/Extra light",
             "category": "Color",
             "item": "Neutral",
             "subitem": "Extra light"
@@ -2098,7 +2098,7 @@ var _styleDictionary = {
             "Neutral",
             "Extra light"
           ],
-          "comment": "Color/Section bg/Neutral/Extra light"
+          "figmaName": "Color/Section bg/Neutral/Extra light"
         },
         "Light": {
           "value": "#eceae7",
@@ -2109,7 +2109,7 @@ var _styleDictionary = {
             "value": "{Palette.Neutral.90}",
             "type": "color"
           },
-          "name": "color-section bg-neutral-light",
+          "name": "color.sectionbg.neutral.light",
           "attributes": {
             "value": "#eceae7",
             "type": "color",
@@ -2127,7 +2127,7 @@ var _styleDictionary = {
               "Neutral",
               "Light"
             ],
-            "comment": "Color/Section bg/Neutral/Light",
+            "figmaName": "Color/Section bg/Neutral/Light",
             "category": "Color",
             "item": "Neutral",
             "subitem": "Light"
@@ -2138,7 +2138,7 @@ var _styleDictionary = {
             "Neutral",
             "Light"
           ],
-          "comment": "Color/Section bg/Neutral/Light"
+          "figmaName": "Color/Section bg/Neutral/Light"
         }
       },
       "Primary": {
@@ -2151,7 +2151,7 @@ var _styleDictionary = {
             "value": "{Palette.Primary.95}",
             "type": "color"
           },
-          "name": "color-section bg-primary-extra light",
+          "name": "color.sectionbg.primary.extra light",
           "attributes": {
             "value": "#f9f3f1",
             "type": "color",
@@ -2169,7 +2169,7 @@ var _styleDictionary = {
               "Primary",
               "Extra light"
             ],
-            "comment": "Color/Section bg/Primary/Extra light",
+            "figmaName": "Color/Section bg/Primary/Extra light",
             "category": "Color",
             "item": "Primary",
             "subitem": "Extra light"
@@ -2180,7 +2180,7 @@ var _styleDictionary = {
             "Primary",
             "Extra light"
           ],
-          "comment": "Color/Section bg/Primary/Extra light"
+          "figmaName": "Color/Section bg/Primary/Extra light"
         },
         "Light": {
           "value": "#efe1dd",
@@ -2191,7 +2191,7 @@ var _styleDictionary = {
             "value": "{Palette.Primary.90}",
             "type": "color"
           },
-          "name": "color-section bg-primary-light",
+          "name": "color.sectionbg.primary.light",
           "attributes": {
             "value": "#efe1dd",
             "type": "color",
@@ -2209,7 +2209,7 @@ var _styleDictionary = {
               "Primary",
               "Light"
             ],
-            "comment": "Color/Section bg/Primary/Light",
+            "figmaName": "Color/Section bg/Primary/Light",
             "category": "Color",
             "item": "Primary",
             "subitem": "Light"
@@ -2220,7 +2220,7 @@ var _styleDictionary = {
             "Primary",
             "Light"
           ],
-          "comment": "Color/Section bg/Primary/Light"
+          "figmaName": "Color/Section bg/Primary/Light"
         }
       }
     },
@@ -2236,7 +2236,7 @@ var _styleDictionary = {
               "value": "{Palette.Primary.50}",
               "type": "color"
             },
-            "name": "color-text-primary-interactive-enable",
+            "name": "color.text.primary.interactive.enable",
             "attributes": {
               "value": "#9a6b5e",
               "type": "color",
@@ -2255,7 +2255,7 @@ var _styleDictionary = {
                 "Interactive",
                 "Enable"
               ],
-              "comment": "Color/Text/Primary/Interactive/Enable",
+              "figmaName": "Color/Text/Primary/Interactive/Enable",
               "category": "Color",
               "item": "Primary",
               "subitem": "Interactive",
@@ -2268,7 +2268,7 @@ var _styleDictionary = {
               "Interactive",
               "Enable"
             ],
-            "comment": "Color/Text/Primary/Interactive/Enable"
+            "figmaName": "Color/Text/Primary/Interactive/Enable"
           },
           "Hover": {
             "value": "#d0a498",
@@ -2279,7 +2279,7 @@ var _styleDictionary = {
               "value": "{Palette.Primary.70}",
               "type": "color"
             },
-            "name": "color-text-primary-interactive-hover",
+            "name": "color.text.primary.interactive.hover",
             "attributes": {
               "value": "#d0a498",
               "type": "color",
@@ -2298,7 +2298,7 @@ var _styleDictionary = {
                 "Interactive",
                 "Hover"
               ],
-              "comment": "Color/Text/Primary/Interactive/Hover",
+              "figmaName": "Color/Text/Primary/Interactive/Hover",
               "category": "Color",
               "item": "Primary",
               "subitem": "Interactive",
@@ -2311,7 +2311,7 @@ var _styleDictionary = {
               "Interactive",
               "Hover"
             ],
-            "comment": "Color/Text/Primary/Interactive/Hover"
+            "figmaName": "Color/Text/Primary/Interactive/Hover"
           },
           "Pressed": {
             "value": "#e8d6d1",
@@ -2322,7 +2322,7 @@ var _styleDictionary = {
               "value": "{Palette.Primary.85}",
               "type": "color"
             },
-            "name": "color-text-primary-interactive-pressed",
+            "name": "color.text.primary.interactive.pressed",
             "attributes": {
               "value": "#e8d6d1",
               "type": "color",
@@ -2341,7 +2341,7 @@ var _styleDictionary = {
                 "Interactive",
                 "Pressed"
               ],
-              "comment": "Color/Text/Primary/Interactive/Pressed",
+              "figmaName": "Color/Text/Primary/Interactive/Pressed",
               "category": "Color",
               "item": "Primary",
               "subitem": "Interactive",
@@ -2354,7 +2354,7 @@ var _styleDictionary = {
               "Interactive",
               "Pressed"
             ],
-            "comment": "Color/Text/Primary/Interactive/Pressed"
+            "figmaName": "Color/Text/Primary/Interactive/Pressed"
           }
         },
         "Medium": {
@@ -2366,7 +2366,7 @@ var _styleDictionary = {
             "value": "{Palette.Primary.50}",
             "type": "color"
           },
-          "name": "color-text-primary-medium",
+          "name": "color.text.primary.medium",
           "attributes": {
             "value": "#9a6b5e",
             "type": "color",
@@ -2384,7 +2384,7 @@ var _styleDictionary = {
               "Primary",
               "Medium"
             ],
-            "comment": "Color/Text/Primary/Medium",
+            "figmaName": "Color/Text/Primary/Medium",
             "category": "Color",
             "item": "Primary",
             "subitem": "Medium"
@@ -2395,7 +2395,7 @@ var _styleDictionary = {
             "Primary",
             "Medium"
           ],
-          "comment": "Color/Text/Primary/Medium"
+          "figmaName": "Color/Text/Primary/Medium"
         },
         "Dark": {
           "value": "#60433b",
@@ -2406,7 +2406,7 @@ var _styleDictionary = {
             "value": "{Palette.Primary.30}",
             "type": "color"
           },
-          "name": "color-text-primary-dark",
+          "name": "color.text.primary.dark",
           "attributes": {
             "value": "#60433b",
             "type": "color",
@@ -2424,7 +2424,7 @@ var _styleDictionary = {
               "Primary",
               "Dark"
             ],
-            "comment": "Color/Text/Primary/Dark",
+            "figmaName": "Color/Text/Primary/Dark",
             "category": "Color",
             "item": "Primary",
             "subitem": "Dark"
@@ -2435,7 +2435,7 @@ var _styleDictionary = {
             "Primary",
             "Dark"
           ],
-          "comment": "Color/Text/Primary/Dark"
+          "figmaName": "Color/Text/Primary/Dark"
         }
       },
       "Neutral": {
@@ -2449,7 +2449,7 @@ var _styleDictionary = {
               "value": "{Palette.Neutral.00 Black}",
               "type": "color"
             },
-            "name": "color-text-neutral-interactive-enable",
+            "name": "color.text.neutral.interactive.enable",
             "attributes": {
               "value": "#090909",
               "type": "color",
@@ -2468,7 +2468,7 @@ var _styleDictionary = {
                 "Interactive",
                 "Enable"
               ],
-              "comment": "Color/Text/Neutral/Interactive/Enable",
+              "figmaName": "Color/Text/Neutral/Interactive/Enable",
               "category": "Color",
               "item": "Neutral",
               "subitem": "Interactive",
@@ -2481,7 +2481,7 @@ var _styleDictionary = {
               "Interactive",
               "Enable"
             ],
-            "comment": "Color/Text/Neutral/Interactive/Enable"
+            "figmaName": "Color/Text/Neutral/Interactive/Enable"
           },
           "Hover": {
             "value": "#787676",
@@ -2492,7 +2492,7 @@ var _styleDictionary = {
               "value": "{Palette.Neutral.50}",
               "type": "color"
             },
-            "name": "color-text-neutral-interactive-hover",
+            "name": "color.text.neutral.interactive.hover",
             "attributes": {
               "value": "#787676",
               "type": "color",
@@ -2511,7 +2511,7 @@ var _styleDictionary = {
                 "Interactive",
                 "Hover"
               ],
-              "comment": "Color/Text/Neutral/Interactive/Hover",
+              "figmaName": "Color/Text/Neutral/Interactive/Hover",
               "category": "Color",
               "item": "Neutral",
               "subitem": "Interactive",
@@ -2524,7 +2524,7 @@ var _styleDictionary = {
               "Interactive",
               "Hover"
             ],
-            "comment": "Color/Text/Neutral/Interactive/Hover"
+            "figmaName": "Color/Text/Neutral/Interactive/Hover"
           },
           "Pressed": {
             "value": "#b3b0ae",
@@ -2535,7 +2535,7 @@ var _styleDictionary = {
               "value": "{Palette.Neutral.70}",
               "type": "color"
             },
-            "name": "color-text-neutral-interactive-pressed",
+            "name": "color.text.neutral.interactive.pressed",
             "attributes": {
               "value": "#b3b0ae",
               "type": "color",
@@ -2554,7 +2554,7 @@ var _styleDictionary = {
                 "Interactive",
                 "Pressed"
               ],
-              "comment": "Color/Text/Neutral/Interactive/Pressed",
+              "figmaName": "Color/Text/Neutral/Interactive/Pressed",
               "category": "Color",
               "item": "Neutral",
               "subitem": "Interactive",
@@ -2567,7 +2567,7 @@ var _styleDictionary = {
               "Interactive",
               "Pressed"
             ],
-            "comment": "Color/Text/Neutral/Interactive/Pressed"
+            "figmaName": "Color/Text/Neutral/Interactive/Pressed"
           }
         },
         "Black": {
@@ -2579,7 +2579,7 @@ var _styleDictionary = {
             "value": "{Palette.Neutral.00 Black}",
             "type": "color"
           },
-          "name": "color-text-neutral-black",
+          "name": "color.text.neutral.black",
           "attributes": {
             "value": "#090909",
             "type": "color",
@@ -2597,7 +2597,7 @@ var _styleDictionary = {
               "Neutral",
               "Black"
             ],
-            "comment": "Color/Text/Neutral/Black",
+            "figmaName": "Color/Text/Neutral/Black",
             "category": "Color",
             "item": "Neutral",
             "subitem": "Black"
@@ -2608,7 +2608,7 @@ var _styleDictionary = {
             "Neutral",
             "Black"
           ],
-          "comment": "Color/Text/Neutral/Black"
+          "figmaName": "Color/Text/Neutral/Black"
         },
         "White": {
           "value": "#ffffff",
@@ -2619,7 +2619,7 @@ var _styleDictionary = {
             "value": "{Palette.Neutral.100 White}",
             "type": "color"
           },
-          "name": "color-text-neutral-white",
+          "name": "color.text.neutral.white",
           "attributes": {
             "value": "#ffffff",
             "type": "color",
@@ -2637,7 +2637,7 @@ var _styleDictionary = {
               "Neutral",
               "White"
             ],
-            "comment": "Color/Text/Neutral/White",
+            "figmaName": "Color/Text/Neutral/White",
             "category": "Color",
             "item": "Neutral",
             "subitem": "White"
@@ -2648,7 +2648,7 @@ var _styleDictionary = {
             "Neutral",
             "White"
           ],
-          "comment": "Color/Text/Neutral/White"
+          "figmaName": "Color/Text/Neutral/White"
         },
         "Secondary over dark": {
           "value": "#b3b0ae",
@@ -2659,7 +2659,7 @@ var _styleDictionary = {
             "value": "{Palette.Neutral.70}",
             "type": "color"
           },
-          "name": "color-text-neutral-secondary over dark",
+          "name": "color.text.neutral.secondaryover dark",
           "attributes": {
             "value": "#b3b0ae",
             "type": "color",
@@ -2677,7 +2677,7 @@ var _styleDictionary = {
               "Neutral",
               "Secondary over dark"
             ],
-            "comment": "Color/Text/Neutral/Secondary over dark",
+            "figmaName": "Color/Text/Neutral/Secondary over dark",
             "category": "Color",
             "item": "Neutral",
             "subitem": "Secondary over dark"
@@ -2688,7 +2688,7 @@ var _styleDictionary = {
             "Neutral",
             "Secondary over dark"
           ],
-          "comment": "Color/Text/Neutral/Secondary over dark"
+          "figmaName": "Color/Text/Neutral/Secondary over dark"
         },
         "Secondary over light": {
           "value": "#787676",
@@ -2699,7 +2699,7 @@ var _styleDictionary = {
             "value": "{Palette.Neutral.50}",
             "type": "color"
           },
-          "name": "color-text-neutral-secondary over light",
+          "name": "color.text.neutral.secondaryover light",
           "attributes": {
             "value": "#787676",
             "type": "color",
@@ -2717,7 +2717,7 @@ var _styleDictionary = {
               "Neutral",
               "Secondary over light"
             ],
-            "comment": "Color/Text/Neutral/Secondary over light",
+            "figmaName": "Color/Text/Neutral/Secondary over light",
             "category": "Color",
             "item": "Neutral",
             "subitem": "Secondary over light"
@@ -2728,7 +2728,7 @@ var _styleDictionary = {
             "Neutral",
             "Secondary over light"
           ],
-          "comment": "Color/Text/Neutral/Secondary over light"
+          "figmaName": "Color/Text/Neutral/Secondary over light"
         },
         "Place holder": {
           "value": "#787676",
@@ -2739,7 +2739,7 @@ var _styleDictionary = {
             "value": "{Palette.Neutral.50}",
             "type": "color"
           },
-          "name": "color-text-neutral-place holder",
+          "name": "color.text.neutral.placeholder",
           "attributes": {
             "value": "#787676",
             "type": "color",
@@ -2757,7 +2757,7 @@ var _styleDictionary = {
               "Neutral",
               "Place holder"
             ],
-            "comment": "Color/Text/Neutral/Place holder",
+            "figmaName": "Color/Text/Neutral/Place holder",
             "category": "Color",
             "item": "Neutral",
             "subitem": "Place holder"
@@ -2768,7 +2768,7 @@ var _styleDictionary = {
             "Neutral",
             "Place holder"
           ],
-          "comment": "Color/Text/Neutral/Place holder"
+          "figmaName": "Color/Text/Neutral/Place holder"
         },
         "Disabled": {
           "value": "#cfcbca",
@@ -2779,7 +2779,7 @@ var _styleDictionary = {
             "value": "{Palette.Neutral.80}",
             "type": "color"
           },
-          "name": "color-text-neutral-disabled",
+          "name": "color.text.neutral.disabled",
           "attributes": {
             "value": "#cfcbca",
             "type": "color",
@@ -2797,7 +2797,7 @@ var _styleDictionary = {
               "Neutral",
               "Disabled"
             ],
-            "comment": "Color/Text/Neutral/Disabled",
+            "figmaName": "Color/Text/Neutral/Disabled",
             "category": "Color",
             "item": "Neutral",
             "subitem": "Disabled"
@@ -2808,7 +2808,7 @@ var _styleDictionary = {
             "Neutral",
             "Disabled"
           ],
-          "comment": "Color/Text/Neutral/Disabled"
+          "figmaName": "Color/Text/Neutral/Disabled"
         }
       },
       "Status": {
@@ -2821,7 +2821,7 @@ var _styleDictionary = {
             "value": "{Palette.Success.40}",
             "type": "color"
           },
-          "name": "color-text-status-success",
+          "name": "color.text.status.success",
           "attributes": {
             "value": "#006714",
             "type": "color",
@@ -2839,7 +2839,7 @@ var _styleDictionary = {
               "Status",
               "Success"
             ],
-            "comment": "Color/Text/Status/Success",
+            "figmaName": "Color/Text/Status/Success",
             "category": "Color",
             "item": "Status",
             "subitem": "Success"
@@ -2850,7 +2850,7 @@ var _styleDictionary = {
             "Status",
             "Success"
           ],
-          "comment": "Color/Text/Status/Success"
+          "figmaName": "Color/Text/Status/Success"
         },
         "Error": {
           "value": "#c53425",
@@ -2861,7 +2861,7 @@ var _styleDictionary = {
             "value": "{Palette.Error.50}",
             "type": "color"
           },
-          "name": "color-text-status-error",
+          "name": "color.text.status.error",
           "attributes": {
             "value": "#c53425",
             "type": "color",
@@ -2879,7 +2879,7 @@ var _styleDictionary = {
               "Status",
               "Error"
             ],
-            "comment": "Color/Text/Status/Error",
+            "figmaName": "Color/Text/Status/Error",
             "category": "Color",
             "item": "Status",
             "subitem": "Error"
@@ -2890,7 +2890,7 @@ var _styleDictionary = {
             "Status",
             "Error"
           ],
-          "comment": "Color/Text/Status/Error"
+          "figmaName": "Color/Text/Status/Error"
         },
         "Warning medium": {
           "value": "#ef8f00",
@@ -2901,7 +2901,7 @@ var _styleDictionary = {
             "value": "{Palette.Warning.50}",
             "type": "color"
           },
-          "name": "color-text-status-warning medium",
+          "name": "color.text.status.warningmedium",
           "attributes": {
             "value": "#ef8f00",
             "type": "color",
@@ -2919,7 +2919,7 @@ var _styleDictionary = {
               "Status",
               "Warning medium"
             ],
-            "comment": "Color/Text/Status/Warning medium",
+            "figmaName": "Color/Text/Status/Warning medium",
             "category": "Color",
             "item": "Status",
             "subitem": "Warning medium"
@@ -2930,7 +2930,7 @@ var _styleDictionary = {
             "Status",
             "Warning medium"
           ],
-          "comment": "Color/Text/Status/Warning medium"
+          "figmaName": "Color/Text/Status/Warning medium"
         },
         "Warning dark": {
           "value": "#855001",
@@ -2941,7 +2941,7 @@ var _styleDictionary = {
             "value": "{Palette.Warning.30}",
             "type": "color"
           },
-          "name": "color-text-status-warning dark",
+          "name": "color.text.status.warningdark",
           "attributes": {
             "value": "#855001",
             "type": "color",
@@ -2959,7 +2959,7 @@ var _styleDictionary = {
               "Status",
               "Warning dark"
             ],
-            "comment": "Color/Text/Status/Warning dark",
+            "figmaName": "Color/Text/Status/Warning dark",
             "category": "Color",
             "item": "Status",
             "subitem": "Warning dark"
@@ -2970,7 +2970,7 @@ var _styleDictionary = {
             "Status",
             "Warning dark"
           ],
-          "comment": "Color/Text/Status/Warning dark"
+          "figmaName": "Color/Text/Status/Warning dark"
         }
       }
     },
@@ -2986,7 +2986,7 @@ var _styleDictionary = {
               "value": "{Palette.Primary.50}",
               "type": "color"
             },
-            "name": "color-container-primary-interactive-enable",
+            "name": "color.container.primary.interactive.enable",
             "attributes": {
               "value": "#9a6b5e",
               "type": "color",
@@ -3005,7 +3005,7 @@ var _styleDictionary = {
                 "Interactive",
                 "Enable"
               ],
-              "comment": "Color/Container/Primary/Interactive/Enable",
+              "figmaName": "Color/Container/Primary/Interactive/Enable",
               "category": "Color",
               "item": "Primary",
               "subitem": "Interactive",
@@ -3018,7 +3018,7 @@ var _styleDictionary = {
               "Interactive",
               "Enable"
             ],
-            "comment": "Color/Container/Primary/Interactive/Enable"
+            "figmaName": "Color/Container/Primary/Interactive/Enable"
           },
           "Hover": {
             "value": "#7d574d",
@@ -3029,7 +3029,7 @@ var _styleDictionary = {
               "value": "{Palette.Primary.40}",
               "type": "color"
             },
-            "name": "color-container-primary-interactive-hover",
+            "name": "color.container.primary.interactive.hover",
             "attributes": {
               "value": "#7d574d",
               "type": "color",
@@ -3048,7 +3048,7 @@ var _styleDictionary = {
                 "Interactive",
                 "Hover"
               ],
-              "comment": "Color/Container/Primary/Interactive/Hover",
+              "figmaName": "Color/Container/Primary/Interactive/Hover",
               "category": "Color",
               "item": "Primary",
               "subitem": "Interactive",
@@ -3061,7 +3061,7 @@ var _styleDictionary = {
               "Interactive",
               "Hover"
             ],
-            "comment": "Color/Container/Primary/Interactive/Hover"
+            "figmaName": "Color/Container/Primary/Interactive/Hover"
           },
           "Pressed": {
             "value": "#60433b",
@@ -3072,7 +3072,7 @@ var _styleDictionary = {
               "value": "{Palette.Primary.30}",
               "type": "color"
             },
-            "name": "color-container-primary-interactive-pressed",
+            "name": "color.container.primary.interactive.pressed",
             "attributes": {
               "value": "#60433b",
               "type": "color",
@@ -3091,7 +3091,7 @@ var _styleDictionary = {
                 "Interactive",
                 "Pressed"
               ],
-              "comment": "Color/Container/Primary/Interactive/Pressed",
+              "figmaName": "Color/Container/Primary/Interactive/Pressed",
               "category": "Color",
               "item": "Primary",
               "subitem": "Interactive",
@@ -3104,7 +3104,7 @@ var _styleDictionary = {
               "Interactive",
               "Pressed"
             ],
-            "comment": "Color/Container/Primary/Interactive/Pressed"
+            "figmaName": "Color/Container/Primary/Interactive/Pressed"
           },
           "Selection": {
             "value": "#9a6b5e",
@@ -3115,7 +3115,7 @@ var _styleDictionary = {
               "value": "{Palette.Primary.50}",
               "type": "color"
             },
-            "name": "color-container-primary-interactive-selection",
+            "name": "color.container.primary.interactive.selection",
             "attributes": {
               "value": "#9a6b5e",
               "type": "color",
@@ -3134,7 +3134,7 @@ var _styleDictionary = {
                 "Interactive",
                 "Selection"
               ],
-              "comment": "Color/Container/Primary/Interactive/Selection",
+              "figmaName": "Color/Container/Primary/Interactive/Selection",
               "category": "Color",
               "item": "Primary",
               "subitem": "Interactive",
@@ -3147,7 +3147,7 @@ var _styleDictionary = {
               "Interactive",
               "Selection"
             ],
-            "comment": "Color/Container/Primary/Interactive/Selection"
+            "figmaName": "Color/Container/Primary/Interactive/Selection"
           },
           "Alpha": {
             "Enable": {
@@ -3181,7 +3181,7 @@ var _styleDictionary = {
                   }
                 }
               },
-              "name": "color-container-primary-interactive-alpha-enable",
+              "name": "color.container.primary.interactive.alpha.enable",
               "attributes": {
                 "value": "#c08676",
                 "type": "color",
@@ -3223,7 +3223,7 @@ var _styleDictionary = {
                   "Alpha",
                   "Enable"
                 ],
-                "comment": "Color/Container/Primary/Interactive/Alpha/Enable",
+                "figmaName": "Color/Container/Primary/Interactive/Alpha/Enable",
                 "category": "Color",
                 "item": "Primary",
                 "subitem": "Interactive",
@@ -3237,7 +3237,7 @@ var _styleDictionary = {
                 "Alpha",
                 "Enable"
               ],
-              "comment": "Color/Container/Primary/Interactive/Alpha/Enable"
+              "figmaName": "Color/Container/Primary/Interactive/Alpha/Enable"
             },
             "Hover": {
               "value": "#c08676",
@@ -3270,7 +3270,7 @@ var _styleDictionary = {
                   }
                 }
               },
-              "name": "color-container-primary-interactive-alpha-hover",
+              "name": "color.container.primary.interactive.alpha.hover",
               "attributes": {
                 "value": "#c08676",
                 "type": "color",
@@ -3312,7 +3312,7 @@ var _styleDictionary = {
                   "Alpha",
                   "Hover"
                 ],
-                "comment": "Color/Container/Primary/Interactive/Alpha/Hover",
+                "figmaName": "Color/Container/Primary/Interactive/Alpha/Hover",
                 "category": "Color",
                 "item": "Primary",
                 "subitem": "Interactive",
@@ -3326,7 +3326,7 @@ var _styleDictionary = {
                 "Alpha",
                 "Hover"
               ],
-              "comment": "Color/Container/Primary/Interactive/Alpha/Hover"
+              "figmaName": "Color/Container/Primary/Interactive/Alpha/Hover"
             },
             "Pressed": {
               "value": "#c08676",
@@ -3359,7 +3359,7 @@ var _styleDictionary = {
                   }
                 }
               },
-              "name": "color-container-primary-interactive-alpha-pressed",
+              "name": "color.container.primary.interactive.alpha.pressed",
               "attributes": {
                 "value": "#c08676",
                 "type": "color",
@@ -3401,7 +3401,7 @@ var _styleDictionary = {
                   "Alpha",
                   "Pressed"
                 ],
-                "comment": "Color/Container/Primary/Interactive/Alpha/Pressed",
+                "figmaName": "Color/Container/Primary/Interactive/Alpha/Pressed",
                 "category": "Color",
                 "item": "Primary",
                 "subitem": "Interactive",
@@ -3415,7 +3415,7 @@ var _styleDictionary = {
                 "Alpha",
                 "Pressed"
               ],
-              "comment": "Color/Container/Primary/Interactive/Alpha/Pressed"
+              "figmaName": "Color/Container/Primary/Interactive/Alpha/Pressed"
             }
           }
         },
@@ -3428,7 +3428,7 @@ var _styleDictionary = {
             "value": "{Palette.Primary.95}",
             "type": "color"
           },
-          "name": "color-container-primary-extra light",
+          "name": "color.container.primary.extralight",
           "attributes": {
             "value": "#f9f3f1",
             "type": "color",
@@ -3446,7 +3446,7 @@ var _styleDictionary = {
               "Primary",
               "Extra light"
             ],
-            "comment": "Color/Container/Primary/Extra light",
+            "figmaName": "Color/Container/Primary/Extra light",
             "category": "Color",
             "item": "Primary",
             "subitem": "Extra light"
@@ -3457,7 +3457,7 @@ var _styleDictionary = {
             "Primary",
             "Extra light"
           ],
-          "comment": "Color/Container/Primary/Extra light"
+          "figmaName": "Color/Container/Primary/Extra light"
         },
         "Light": {
           "value": "#efe1dd",
@@ -3468,7 +3468,7 @@ var _styleDictionary = {
             "value": "{Palette.Primary.90}",
             "type": "color"
           },
-          "name": "color-container-primary-light",
+          "name": "color.container.primary.light",
           "attributes": {
             "value": "#efe1dd",
             "type": "color",
@@ -3486,7 +3486,7 @@ var _styleDictionary = {
               "Primary",
               "Light"
             ],
-            "comment": "Color/Container/Primary/Light",
+            "figmaName": "Color/Container/Primary/Light",
             "category": "Color",
             "item": "Primary",
             "subitem": "Light"
@@ -3497,7 +3497,7 @@ var _styleDictionary = {
             "Primary",
             "Light"
           ],
-          "comment": "Color/Container/Primary/Light"
+          "figmaName": "Color/Container/Primary/Light"
         },
         "Medium light": {
           "value": "#c08676",
@@ -3508,7 +3508,7 @@ var _styleDictionary = {
             "value": "{Palette.Primary.60}",
             "type": "color"
           },
-          "name": "color-container-primary-medium light",
+          "name": "color.container.primary.mediumlight",
           "attributes": {
             "value": "#c08676",
             "type": "color",
@@ -3526,7 +3526,7 @@ var _styleDictionary = {
               "Primary",
               "Medium light"
             ],
-            "comment": "Color/Container/Primary/Medium light",
+            "figmaName": "Color/Container/Primary/Medium light",
             "category": "Color",
             "item": "Primary",
             "subitem": "Medium light"
@@ -3537,7 +3537,7 @@ var _styleDictionary = {
             "Primary",
             "Medium light"
           ],
-          "comment": "Color/Container/Primary/Medium light"
+          "figmaName": "Color/Container/Primary/Medium light"
         },
         "Medium": {
           "value": "#9a6b5e",
@@ -3548,7 +3548,7 @@ var _styleDictionary = {
             "value": "{Palette.Primary.50}",
             "type": "color"
           },
-          "name": "color-container-primary-medium",
+          "name": "color.container.primary.medium",
           "attributes": {
             "value": "#9a6b5e",
             "type": "color",
@@ -3566,7 +3566,7 @@ var _styleDictionary = {
               "Primary",
               "Medium"
             ],
-            "comment": "Color/Container/Primary/Medium",
+            "figmaName": "Color/Container/Primary/Medium",
             "category": "Color",
             "item": "Primary",
             "subitem": "Medium"
@@ -3577,7 +3577,7 @@ var _styleDictionary = {
             "Primary",
             "Medium"
           ],
-          "comment": "Color/Container/Primary/Medium"
+          "figmaName": "Color/Container/Primary/Medium"
         },
         "Medium dark": {
           "value": "#7d574d",
@@ -3588,7 +3588,7 @@ var _styleDictionary = {
             "value": "{Palette.Primary.40}",
             "type": "color"
           },
-          "name": "color-container-primary-medium dark",
+          "name": "color.container.primary.mediumdark",
           "attributes": {
             "value": "#7d574d",
             "type": "color",
@@ -3606,7 +3606,7 @@ var _styleDictionary = {
               "Primary",
               "Medium dark"
             ],
-            "comment": "Color/Container/Primary/Medium dark",
+            "figmaName": "Color/Container/Primary/Medium dark",
             "category": "Color",
             "item": "Primary",
             "subitem": "Medium dark"
@@ -3617,7 +3617,7 @@ var _styleDictionary = {
             "Primary",
             "Medium dark"
           ],
-          "comment": "Color/Container/Primary/Medium dark"
+          "figmaName": "Color/Container/Primary/Medium dark"
         },
         "Dark": {
           "value": "#60433b",
@@ -3628,7 +3628,7 @@ var _styleDictionary = {
             "value": "{Palette.Primary.30}",
             "type": "color"
           },
-          "name": "color-container-primary-dark",
+          "name": "color.container.primary.dark",
           "attributes": {
             "value": "#60433b",
             "type": "color",
@@ -3646,7 +3646,7 @@ var _styleDictionary = {
               "Primary",
               "Dark"
             ],
-            "comment": "Color/Container/Primary/Dark",
+            "figmaName": "Color/Container/Primary/Dark",
             "category": "Color",
             "item": "Primary",
             "subitem": "Dark"
@@ -3657,7 +3657,7 @@ var _styleDictionary = {
             "Primary",
             "Dark"
           ],
-          "comment": "Color/Container/Primary/Dark"
+          "figmaName": "Color/Container/Primary/Dark"
         }
       },
       "Neutral": {
@@ -3672,7 +3672,7 @@ var _styleDictionary = {
                 "value": "{Palette.Neutral.00 Black}",
                 "type": "color"
               },
-              "name": "color-container-neutral-black-interactive-enable",
+              "name": "color.container.neutral.black.interactive.enable",
               "attributes": {
                 "value": "#090909",
                 "type": "color",
@@ -3692,7 +3692,7 @@ var _styleDictionary = {
                   "Interactive",
                   "Enable"
                 ],
-                "comment": "Color/Container/Neutral/Black/Interactive/Enable",
+                "figmaName": "Color/Container/Neutral/Black/Interactive/Enable",
                 "category": "Color",
                 "item": "Neutral",
                 "subitem": "Black",
@@ -3706,7 +3706,7 @@ var _styleDictionary = {
                 "Interactive",
                 "Enable"
               ],
-              "comment": "Color/Container/Neutral/Black/Interactive/Enable"
+              "figmaName": "Color/Container/Neutral/Black/Interactive/Enable"
             },
             "Hover": {
               "value": "#787676",
@@ -3717,7 +3717,7 @@ var _styleDictionary = {
                 "value": "{Palette.Neutral.50}",
                 "type": "color"
               },
-              "name": "color-container-neutral-black-interactive-hover",
+              "name": "color.container.neutral.black.interactive.hover",
               "attributes": {
                 "value": "#787676",
                 "type": "color",
@@ -3737,7 +3737,7 @@ var _styleDictionary = {
                   "Interactive",
                   "Hover"
                 ],
-                "comment": "Color/Container/Neutral/Black/Interactive/Hover",
+                "figmaName": "Color/Container/Neutral/Black/Interactive/Hover",
                 "category": "Color",
                 "item": "Neutral",
                 "subitem": "Black",
@@ -3751,7 +3751,7 @@ var _styleDictionary = {
                 "Interactive",
                 "Hover"
               ],
-              "comment": "Color/Container/Neutral/Black/Interactive/Hover"
+              "figmaName": "Color/Container/Neutral/Black/Interactive/Hover"
             },
             "Pressed": {
               "value": "#b3b0ae",
@@ -3762,7 +3762,7 @@ var _styleDictionary = {
                 "value": "{Palette.Neutral.70}",
                 "type": "color"
               },
-              "name": "color-container-neutral-black-interactive-pressed",
+              "name": "color.container.neutral.black.interactive.pressed",
               "attributes": {
                 "value": "#b3b0ae",
                 "type": "color",
@@ -3782,7 +3782,7 @@ var _styleDictionary = {
                   "Interactive",
                   "Pressed"
                 ],
-                "comment": "Color/Container/Neutral/Black/Interactive/Pressed",
+                "figmaName": "Color/Container/Neutral/Black/Interactive/Pressed",
                 "category": "Color",
                 "item": "Neutral",
                 "subitem": "Black",
@@ -3796,7 +3796,7 @@ var _styleDictionary = {
                 "Interactive",
                 "Pressed"
               ],
-              "comment": "Color/Container/Neutral/Black/Interactive/Pressed"
+              "figmaName": "Color/Container/Neutral/Black/Interactive/Pressed"
             },
             "Alpha": {
               "Enable": {
@@ -3830,7 +3830,7 @@ var _styleDictionary = {
                     }
                   }
                 },
-                "name": "color-container-neutral-black-interactive-alpha-enable",
+                "name": "color.container.neutral.black.interactive.alpha.enable",
                 "attributes": {
                   "value": "#090909",
                   "type": "color",
@@ -3873,7 +3873,7 @@ var _styleDictionary = {
                     "Alpha",
                     "Enable"
                   ],
-                  "comment": "Color/Container/Neutral/Black/Interactive/Alpha/Enable",
+                  "figmaName": "Color/Container/Neutral/Black/Interactive/Alpha/Enable",
                   "category": "Color",
                   "item": "Neutral",
                   "subitem": "Black",
@@ -3888,7 +3888,7 @@ var _styleDictionary = {
                   "Alpha",
                   "Enable"
                 ],
-                "comment": "Color/Container/Neutral/Black/Interactive/Alpha/Enable"
+                "figmaName": "Color/Container/Neutral/Black/Interactive/Alpha/Enable"
               },
               "Hover": {
                 "value": "#090909",
@@ -3921,7 +3921,7 @@ var _styleDictionary = {
                     }
                   }
                 },
-                "name": "color-container-neutral-black-interactive-alpha-hover",
+                "name": "color.container.neutral.black.interactive.alpha.hover",
                 "attributes": {
                   "value": "#090909",
                   "type": "color",
@@ -3964,7 +3964,7 @@ var _styleDictionary = {
                     "Alpha",
                     "Hover"
                   ],
-                  "comment": "Color/Container/Neutral/Black/Interactive/Alpha/Hover",
+                  "figmaName": "Color/Container/Neutral/Black/Interactive/Alpha/Hover",
                   "category": "Color",
                   "item": "Neutral",
                   "subitem": "Black",
@@ -3979,7 +3979,7 @@ var _styleDictionary = {
                   "Alpha",
                   "Hover"
                 ],
-                "comment": "Color/Container/Neutral/Black/Interactive/Alpha/Hover"
+                "figmaName": "Color/Container/Neutral/Black/Interactive/Alpha/Hover"
               },
               "Pressed": {
                 "value": "#090909",
@@ -4012,7 +4012,7 @@ var _styleDictionary = {
                     }
                   }
                 },
-                "name": "color-container-neutral-black-interactive-alpha-pressed",
+                "name": "color.container.neutral.black.interactive.alpha.pressed",
                 "attributes": {
                   "value": "#090909",
                   "type": "color",
@@ -4055,7 +4055,7 @@ var _styleDictionary = {
                     "Alpha",
                     "Pressed"
                   ],
-                  "comment": "Color/Container/Neutral/Black/Interactive/Alpha/Pressed",
+                  "figmaName": "Color/Container/Neutral/Black/Interactive/Alpha/Pressed",
                   "category": "Color",
                   "item": "Neutral",
                   "subitem": "Black",
@@ -4070,7 +4070,7 @@ var _styleDictionary = {
                   "Alpha",
                   "Pressed"
                 ],
-                "comment": "Color/Container/Neutral/Black/Interactive/Alpha/Pressed"
+                "figmaName": "Color/Container/Neutral/Black/Interactive/Alpha/Pressed"
               }
             }
           },
@@ -4083,7 +4083,7 @@ var _styleDictionary = {
               "value": "{Palette.Neutral.00 Black}",
               "type": "color"
             },
-            "name": "color-container-neutral-black-alpha 100",
+            "name": "color.container.neutral.black.alpha100",
             "attributes": {
               "value": "#090909",
               "type": "color",
@@ -4102,7 +4102,7 @@ var _styleDictionary = {
                 "Black",
                 "Alpha 100"
               ],
-              "comment": "Color/Container/Neutral/Black/Alpha 100",
+              "figmaName": "Color/Container/Neutral/Black/Alpha 100",
               "category": "Color",
               "item": "Neutral",
               "subitem": "Black",
@@ -4115,7 +4115,7 @@ var _styleDictionary = {
               "Black",
               "Alpha 100"
             ],
-            "comment": "Color/Container/Neutral/Black/Alpha 100"
+            "figmaName": "Color/Container/Neutral/Black/Alpha 100"
           }
         },
         "White": {
@@ -4129,7 +4129,7 @@ var _styleDictionary = {
                 "value": "{Palette.Neutral.100 White}",
                 "type": "color"
               },
-              "name": "color-container-neutral-white-interactive-enable",
+              "name": "color.container.neutral.white.interactive.enable",
               "attributes": {
                 "value": "#ffffff",
                 "type": "color",
@@ -4149,7 +4149,7 @@ var _styleDictionary = {
                   "Interactive",
                   "Enable"
                 ],
-                "comment": "Color/Container/Neutral/White/Interactive/Enable",
+                "figmaName": "Color/Container/Neutral/White/Interactive/Enable",
                 "category": "Color",
                 "item": "Neutral",
                 "subitem": "White",
@@ -4163,7 +4163,7 @@ var _styleDictionary = {
                 "Interactive",
                 "Enable"
               ],
-              "comment": "Color/Container/Neutral/White/Interactive/Enable"
+              "figmaName": "Color/Container/Neutral/White/Interactive/Enable"
             },
             "Hover": {
               "value": "#eceae7",
@@ -4174,7 +4174,7 @@ var _styleDictionary = {
                 "value": "{Palette.Neutral.90}",
                 "type": "color"
               },
-              "name": "color-container-neutral-white-interactive-hover",
+              "name": "color.container.neutral.white.interactive.hover",
               "attributes": {
                 "value": "#eceae7",
                 "type": "color",
@@ -4194,7 +4194,7 @@ var _styleDictionary = {
                   "Interactive",
                   "Hover"
                 ],
-                "comment": "Color/Container/Neutral/White/Interactive/Hover",
+                "figmaName": "Color/Container/Neutral/White/Interactive/Hover",
                 "category": "Color",
                 "item": "Neutral",
                 "subitem": "White",
@@ -4208,7 +4208,7 @@ var _styleDictionary = {
                 "Interactive",
                 "Hover"
               ],
-              "comment": "Color/Container/Neutral/White/Interactive/Hover"
+              "figmaName": "Color/Container/Neutral/White/Interactive/Hover"
             },
             "Pressed": {
               "value": "#b3b0ae",
@@ -4219,7 +4219,7 @@ var _styleDictionary = {
                 "value": "{Palette.Neutral.70}",
                 "type": "color"
               },
-              "name": "color-container-neutral-white-interactive-pressed",
+              "name": "color.container.neutral.white.interactive.pressed",
               "attributes": {
                 "value": "#b3b0ae",
                 "type": "color",
@@ -4239,7 +4239,7 @@ var _styleDictionary = {
                   "Interactive",
                   "Pressed"
                 ],
-                "comment": "Color/Container/Neutral/White/Interactive/Pressed",
+                "figmaName": "Color/Container/Neutral/White/Interactive/Pressed",
                 "category": "Color",
                 "item": "Neutral",
                 "subitem": "White",
@@ -4253,7 +4253,7 @@ var _styleDictionary = {
                 "Interactive",
                 "Pressed"
               ],
-              "comment": "Color/Container/Neutral/White/Interactive/Pressed"
+              "figmaName": "Color/Container/Neutral/White/Interactive/Pressed"
             },
             "Alpha": {
               "Enable": {
@@ -4287,7 +4287,7 @@ var _styleDictionary = {
                     }
                   }
                 },
-                "name": "color-container-neutral-white-interactive-alpha-enable",
+                "name": "color.container.neutral.white.interactive.alpha.enable",
                 "attributes": {
                   "value": "#ffffff",
                   "type": "color",
@@ -4330,7 +4330,7 @@ var _styleDictionary = {
                     "Alpha",
                     "Enable"
                   ],
-                  "comment": "Color/Container/Neutral/White/Interactive/Alpha/Enable",
+                  "figmaName": "Color/Container/Neutral/White/Interactive/Alpha/Enable",
                   "category": "Color",
                   "item": "Neutral",
                   "subitem": "White",
@@ -4345,7 +4345,7 @@ var _styleDictionary = {
                   "Alpha",
                   "Enable"
                 ],
-                "comment": "Color/Container/Neutral/White/Interactive/Alpha/Enable"
+                "figmaName": "Color/Container/Neutral/White/Interactive/Alpha/Enable"
               },
               "Hover": {
                 "value": "#ffffff",
@@ -4378,7 +4378,7 @@ var _styleDictionary = {
                     }
                   }
                 },
-                "name": "color-container-neutral-white-interactive-alpha-hover",
+                "name": "color.container.neutral.white.interactive.alpha.hover",
                 "attributes": {
                   "value": "#ffffff",
                   "type": "color",
@@ -4421,7 +4421,7 @@ var _styleDictionary = {
                     "Alpha",
                     "Hover"
                   ],
-                  "comment": "Color/Container/Neutral/White/Interactive/Alpha/Hover",
+                  "figmaName": "Color/Container/Neutral/White/Interactive/Alpha/Hover",
                   "category": "Color",
                   "item": "Neutral",
                   "subitem": "White",
@@ -4436,7 +4436,7 @@ var _styleDictionary = {
                   "Alpha",
                   "Hover"
                 ],
-                "comment": "Color/Container/Neutral/White/Interactive/Alpha/Hover"
+                "figmaName": "Color/Container/Neutral/White/Interactive/Alpha/Hover"
               },
               "Pressed": {
                 "value": "#ffffff",
@@ -4469,7 +4469,7 @@ var _styleDictionary = {
                     }
                   }
                 },
-                "name": "color-container-neutral-white-interactive-alpha-pressed",
+                "name": "color.container.neutral.white.interactive.alpha.pressed",
                 "attributes": {
                   "value": "#ffffff",
                   "type": "color",
@@ -4512,7 +4512,7 @@ var _styleDictionary = {
                     "Alpha",
                     "Pressed"
                   ],
-                  "comment": "Color/Container/Neutral/White/Interactive/Alpha/Pressed",
+                  "figmaName": "Color/Container/Neutral/White/Interactive/Alpha/Pressed",
                   "category": "Color",
                   "item": "Neutral",
                   "subitem": "White",
@@ -4527,7 +4527,7 @@ var _styleDictionary = {
                   "Alpha",
                   "Pressed"
                 ],
-                "comment": "Color/Container/Neutral/White/Interactive/Alpha/Pressed"
+                "figmaName": "Color/Container/Neutral/White/Interactive/Alpha/Pressed"
               }
             }
           },
@@ -4540,7 +4540,7 @@ var _styleDictionary = {
               "value": "{Palette.Neutral.100 White}",
               "type": "color"
             },
-            "name": "color-container-neutral-white-alpha 100",
+            "name": "color.container.neutral.white.alpha100",
             "attributes": {
               "value": "#ffffff",
               "type": "color",
@@ -4559,7 +4559,7 @@ var _styleDictionary = {
                 "White",
                 "Alpha 100"
               ],
-              "comment": "Color/Container/Neutral/White/Alpha 100",
+              "figmaName": "Color/Container/Neutral/White/Alpha 100",
               "category": "Color",
               "item": "Neutral",
               "subitem": "White",
@@ -4572,7 +4572,7 @@ var _styleDictionary = {
               "White",
               "Alpha 100"
             ],
-            "comment": "Color/Container/Neutral/White/Alpha 100"
+            "figmaName": "Color/Container/Neutral/White/Alpha 100"
           },
           "Alpha 00": {
             "value": "#ffffff",
@@ -4605,7 +4605,7 @@ var _styleDictionary = {
                 }
               }
             },
-            "name": "color-container-neutral-white-alpha 00",
+            "name": "color.container.neutral.white.alpha00",
             "attributes": {
               "value": "#ffffff",
               "type": "color",
@@ -4646,7 +4646,7 @@ var _styleDictionary = {
                 "White",
                 "Alpha 00"
               ],
-              "comment": "Color/Container/Neutral/White/Alpha 00",
+              "figmaName": "Color/Container/Neutral/White/Alpha 00",
               "category": "Color",
               "item": "Neutral",
               "subitem": "White",
@@ -4659,7 +4659,7 @@ var _styleDictionary = {
               "White",
               "Alpha 00"
             ],
-            "comment": "Color/Container/Neutral/White/Alpha 00"
+            "figmaName": "Color/Container/Neutral/White/Alpha 00"
           }
         },
         "Extra light": {
@@ -4671,7 +4671,7 @@ var _styleDictionary = {
             "value": "{Palette.Neutral.98}",
             "type": "color"
           },
-          "name": "color-container-neutral-extra light",
+          "name": "color.container.neutral.extralight",
           "attributes": {
             "value": "#fafafa",
             "type": "color",
@@ -4689,7 +4689,7 @@ var _styleDictionary = {
               "Neutral",
               "Extra light"
             ],
-            "comment": "Color/Container/Neutral/Extra light",
+            "figmaName": "Color/Container/Neutral/Extra light",
             "category": "Color",
             "item": "Neutral",
             "subitem": "Extra light"
@@ -4700,7 +4700,7 @@ var _styleDictionary = {
             "Neutral",
             "Extra light"
           ],
-          "comment": "Color/Container/Neutral/Extra light"
+          "figmaName": "Color/Container/Neutral/Extra light"
         },
         "Light": {
           "value": "#f7f6f5",
@@ -4711,7 +4711,7 @@ var _styleDictionary = {
             "value": "{Palette.Neutral.95}",
             "type": "color"
           },
-          "name": "color-container-neutral-light",
+          "name": "color.container.neutral.light",
           "attributes": {
             "value": "#f7f6f5",
             "type": "color",
@@ -4729,7 +4729,7 @@ var _styleDictionary = {
               "Neutral",
               "Light"
             ],
-            "comment": "Color/Container/Neutral/Light",
+            "figmaName": "Color/Container/Neutral/Light",
             "category": "Color",
             "item": "Neutral",
             "subitem": "Light"
@@ -4740,7 +4740,7 @@ var _styleDictionary = {
             "Neutral",
             "Light"
           ],
-          "comment": "Color/Container/Neutral/Light"
+          "figmaName": "Color/Container/Neutral/Light"
         },
         "Medium": {
           "value": "#b3b0ae",
@@ -4751,7 +4751,7 @@ var _styleDictionary = {
             "value": "{Palette.Neutral.70}",
             "type": "color"
           },
-          "name": "color-container-neutral-medium",
+          "name": "color.container.neutral.medium",
           "attributes": {
             "value": "#b3b0ae",
             "type": "color",
@@ -4769,7 +4769,7 @@ var _styleDictionary = {
               "Neutral",
               "Medium"
             ],
-            "comment": "Color/Container/Neutral/Medium",
+            "figmaName": "Color/Container/Neutral/Medium",
             "category": "Color",
             "item": "Neutral",
             "subitem": "Medium"
@@ -4780,7 +4780,7 @@ var _styleDictionary = {
             "Neutral",
             "Medium"
           ],
-          "comment": "Color/Container/Neutral/Medium"
+          "figmaName": "Color/Container/Neutral/Medium"
         },
         "Medium dark": {
           "value": "#626060",
@@ -4791,7 +4791,7 @@ var _styleDictionary = {
             "value": "{Palette.Neutral.40}",
             "type": "color"
           },
-          "name": "color-container-neutral-medium dark",
+          "name": "color.container.neutral.mediumdark",
           "attributes": {
             "value": "#626060",
             "type": "color",
@@ -4809,7 +4809,7 @@ var _styleDictionary = {
               "Neutral",
               "Medium dark"
             ],
-            "comment": "Color/Container/Neutral/Medium dark",
+            "figmaName": "Color/Container/Neutral/Medium dark",
             "category": "Color",
             "item": "Neutral",
             "subitem": "Medium dark"
@@ -4820,7 +4820,7 @@ var _styleDictionary = {
             "Neutral",
             "Medium dark"
           ],
-          "comment": "Color/Container/Neutral/Medium dark"
+          "figmaName": "Color/Container/Neutral/Medium dark"
         },
         "Extra dark": {
           "value": "#2a2929",
@@ -4831,7 +4831,7 @@ var _styleDictionary = {
             "value": "{Palette.Neutral.10}",
             "type": "color"
           },
-          "name": "color-container-neutral-extra dark",
+          "name": "color.container.neutral.extradark",
           "attributes": {
             "value": "#2a2929",
             "type": "color",
@@ -4849,7 +4849,7 @@ var _styleDictionary = {
               "Neutral",
               "Extra dark"
             ],
-            "comment": "Color/Container/Neutral/Extra dark",
+            "figmaName": "Color/Container/Neutral/Extra dark",
             "category": "Color",
             "item": "Neutral",
             "subitem": "Extra dark"
@@ -4860,7 +4860,7 @@ var _styleDictionary = {
             "Neutral",
             "Extra dark"
           ],
-          "comment": "Color/Container/Neutral/Extra dark"
+          "figmaName": "Color/Container/Neutral/Extra dark"
         },
         "Medium alpha08": {
           "value": "#787676",
@@ -4893,7 +4893,7 @@ var _styleDictionary = {
               }
             }
           },
-          "name": "color-container-neutral-medium alpha08",
+          "name": "color.container.neutral.mediumalpha08",
           "attributes": {
             "value": "#787676",
             "type": "color",
@@ -4933,7 +4933,7 @@ var _styleDictionary = {
               "Neutral",
               "Medium alpha08"
             ],
-            "comment": "Color/Container/Neutral/Medium alpha08",
+            "figmaName": "Color/Container/Neutral/Medium alpha08",
             "category": "Color",
             "item": "Neutral",
             "subitem": "Medium alpha08"
@@ -4944,7 +4944,7 @@ var _styleDictionary = {
             "Neutral",
             "Medium alpha08"
           ],
-          "comment": "Color/Container/Neutral/Medium alpha08"
+          "figmaName": "Color/Container/Neutral/Medium alpha08"
         }
       },
       "Disabled": {
@@ -4957,7 +4957,7 @@ var _styleDictionary = {
             "value": "{Palette.Neutral.60}",
             "type": "color"
           },
-          "name": "color-container-disabled-dark",
+          "name": "color.container.disabled.dark",
           "attributes": {
             "value": "#959292",
             "type": "color",
@@ -4975,7 +4975,7 @@ var _styleDictionary = {
               "Disabled",
               "Dark"
             ],
-            "comment": "Color/Container/Disabled/Dark",
+            "figmaName": "Color/Container/Disabled/Dark",
             "category": "Color",
             "item": "Disabled",
             "subitem": "Dark"
@@ -4986,7 +4986,7 @@ var _styleDictionary = {
             "Disabled",
             "Dark"
           ],
-          "comment": "Color/Container/Disabled/Dark"
+          "figmaName": "Color/Container/Disabled/Dark"
         },
         "Light": {
           "value": "#eceae7",
@@ -4997,7 +4997,7 @@ var _styleDictionary = {
             "value": "{Palette.Neutral.90}",
             "type": "color"
           },
-          "name": "color-container-disabled-light",
+          "name": "color.container.disabled.light",
           "attributes": {
             "value": "#eceae7",
             "type": "color",
@@ -5015,7 +5015,7 @@ var _styleDictionary = {
               "Disabled",
               "Light"
             ],
-            "comment": "Color/Container/Disabled/Light",
+            "figmaName": "Color/Container/Disabled/Light",
             "category": "Color",
             "item": "Disabled",
             "subitem": "Light"
@@ -5026,7 +5026,7 @@ var _styleDictionary = {
             "Disabled",
             "Light"
           ],
-          "comment": "Color/Container/Disabled/Light"
+          "figmaName": "Color/Container/Disabled/Light"
         },
         "Extra light": {
           "value": "#fafafa",
@@ -5037,7 +5037,7 @@ var _styleDictionary = {
             "value": "{Palette.Neutral.98}",
             "type": "color"
           },
-          "name": "color-container-disabled-extra light",
+          "name": "color.container.disabled.extralight",
           "attributes": {
             "value": "#fafafa",
             "type": "color",
@@ -5055,7 +5055,7 @@ var _styleDictionary = {
               "Disabled",
               "Extra light"
             ],
-            "comment": "Color/Container/Disabled/Extra light",
+            "figmaName": "Color/Container/Disabled/Extra light",
             "category": "Color",
             "item": "Disabled",
             "subitem": "Extra light"
@@ -5066,7 +5066,7 @@ var _styleDictionary = {
             "Disabled",
             "Extra light"
           ],
-          "comment": "Color/Container/Disabled/Extra light"
+          "figmaName": "Color/Container/Disabled/Extra light"
         },
         "Primary": {
           "value": "#efe1dd",
@@ -5077,7 +5077,7 @@ var _styleDictionary = {
             "value": "{Palette.Primary.90}",
             "type": "color"
           },
-          "name": "color-container-disabled-primary",
+          "name": "color.container.disabled.primary",
           "attributes": {
             "value": "#efe1dd",
             "type": "color",
@@ -5095,7 +5095,7 @@ var _styleDictionary = {
               "Disabled",
               "Primary"
             ],
-            "comment": "Color/Container/Disabled/Primary",
+            "figmaName": "Color/Container/Disabled/Primary",
             "category": "Color",
             "item": "Disabled",
             "subitem": "Primary"
@@ -5106,7 +5106,7 @@ var _styleDictionary = {
             "Disabled",
             "Primary"
           ],
-          "comment": "Color/Container/Disabled/Primary"
+          "figmaName": "Color/Container/Disabled/Primary"
         },
         "Transparent": {
           "value": "#cfcbca",
@@ -5139,7 +5139,7 @@ var _styleDictionary = {
               }
             }
           },
-          "name": "color-container-disabled-transparent",
+          "name": "color.container.disabled.transparent",
           "attributes": {
             "value": "#cfcbca",
             "type": "color",
@@ -5179,7 +5179,7 @@ var _styleDictionary = {
               "Disabled",
               "Transparent"
             ],
-            "comment": "Color/Container/Disabled/Transparent",
+            "figmaName": "Color/Container/Disabled/Transparent",
             "category": "Color",
             "item": "Disabled",
             "subitem": "Transparent"
@@ -5190,7 +5190,7 @@ var _styleDictionary = {
             "Disabled",
             "Transparent"
           ],
-          "comment": "Color/Container/Disabled/Transparent"
+          "figmaName": "Color/Container/Disabled/Transparent"
         }
       },
       "Status": {
@@ -5203,7 +5203,7 @@ var _styleDictionary = {
             "value": "{Palette.Success.90}",
             "type": "color"
           },
-          "name": "color-container-status-success light",
+          "name": "color.container.status.successlight",
           "attributes": {
             "value": "#e5f3e8",
             "type": "color",
@@ -5221,7 +5221,7 @@ var _styleDictionary = {
               "Status",
               "Success light"
             ],
-            "comment": "Color/Container/Status/Success light",
+            "figmaName": "Color/Container/Status/Success light",
             "category": "Color",
             "item": "Status",
             "subitem": "Success light"
@@ -5232,7 +5232,7 @@ var _styleDictionary = {
             "Status",
             "Success light"
           ],
-          "comment": "Color/Container/Status/Success light"
+          "figmaName": "Color/Container/Status/Success light"
         },
         "Success medium": {
           "value": "#006714",
@@ -5243,7 +5243,7 @@ var _styleDictionary = {
             "value": "{Palette.Success.40}",
             "type": "color"
           },
-          "name": "color-container-status-success medium",
+          "name": "color.container.status.successmedium",
           "attributes": {
             "value": "#006714",
             "type": "color",
@@ -5261,7 +5261,7 @@ var _styleDictionary = {
               "Status",
               "Success medium"
             ],
-            "comment": "Color/Container/Status/Success medium",
+            "figmaName": "Color/Container/Status/Success medium",
             "category": "Color",
             "item": "Status",
             "subitem": "Success medium"
@@ -5272,7 +5272,7 @@ var _styleDictionary = {
             "Status",
             "Success medium"
           ],
-          "comment": "Color/Container/Status/Success medium"
+          "figmaName": "Color/Container/Status/Success medium"
         },
         "Error light": {
           "value": "#f9ebe9",
@@ -5283,7 +5283,7 @@ var _styleDictionary = {
             "value": "{Palette.Error.90}",
             "type": "color"
           },
-          "name": "color-container-status-error light",
+          "name": "color.container.status.errorlight",
           "attributes": {
             "value": "#f9ebe9",
             "type": "color",
@@ -5301,7 +5301,7 @@ var _styleDictionary = {
               "Status",
               "Error light"
             ],
-            "comment": "Color/Container/Status/Error light",
+            "figmaName": "Color/Container/Status/Error light",
             "category": "Color",
             "item": "Status",
             "subitem": "Error light"
@@ -5312,7 +5312,7 @@ var _styleDictionary = {
             "Status",
             "Error light"
           ],
-          "comment": "Color/Container/Status/Error light"
+          "figmaName": "Color/Container/Status/Error light"
         },
         "Error medium": {
           "value": "#c53425",
@@ -5323,7 +5323,7 @@ var _styleDictionary = {
             "value": "{Palette.Error.50}",
             "type": "color"
           },
-          "name": "color-container-status-error medium",
+          "name": "color.container.status.errormedium",
           "attributes": {
             "value": "#c53425",
             "type": "color",
@@ -5341,7 +5341,7 @@ var _styleDictionary = {
               "Status",
               "Error medium"
             ],
-            "comment": "Color/Container/Status/Error medium",
+            "figmaName": "Color/Container/Status/Error medium",
             "category": "Color",
             "item": "Status",
             "subitem": "Error medium"
@@ -5352,7 +5352,7 @@ var _styleDictionary = {
             "Status",
             "Error medium"
           ],
-          "comment": "Color/Container/Status/Error medium"
+          "figmaName": "Color/Container/Status/Error medium"
         },
         "Warning light": {
           "value": "#fdf6e5",
@@ -5363,7 +5363,7 @@ var _styleDictionary = {
             "value": "{Palette.Warning.90}",
             "type": "color"
           },
-          "name": "color-container-status-warning light",
+          "name": "color.container.status.warninglight",
           "attributes": {
             "value": "#fdf6e5",
             "type": "color",
@@ -5381,7 +5381,7 @@ var _styleDictionary = {
               "Status",
               "Warning light"
             ],
-            "comment": "Color/Container/Status/Warning light",
+            "figmaName": "Color/Container/Status/Warning light",
             "category": "Color",
             "item": "Status",
             "subitem": "Warning light"
@@ -5392,7 +5392,7 @@ var _styleDictionary = {
             "Status",
             "Warning light"
           ],
-          "comment": "Color/Container/Status/Warning light"
+          "figmaName": "Color/Container/Status/Warning light"
         },
         "Warning medium": {
           "value": "#ef8f00",
@@ -5403,7 +5403,7 @@ var _styleDictionary = {
             "value": "{Palette.Warning.50}",
             "type": "color"
           },
-          "name": "color-container-status-warning medium",
+          "name": "color.container.status.warningmedium",
           "attributes": {
             "value": "#ef8f00",
             "type": "color",
@@ -5421,7 +5421,7 @@ var _styleDictionary = {
               "Status",
               "Warning medium"
             ],
-            "comment": "Color/Container/Status/Warning medium",
+            "figmaName": "Color/Container/Status/Warning medium",
             "category": "Color",
             "item": "Status",
             "subitem": "Warning medium"
@@ -5432,7 +5432,7 @@ var _styleDictionary = {
             "Status",
             "Warning medium"
           ],
-          "comment": "Color/Container/Status/Warning medium"
+          "figmaName": "Color/Container/Status/Warning medium"
         }
       }
     },
@@ -5447,7 +5447,7 @@ var _styleDictionary = {
             "value": "{Palette.Neutral.80}",
             "type": "color"
           },
-          "name": "color-border-disabled-medium",
+          "name": "color.border.disabled.medium",
           "attributes": {
             "value": "#cfcbca",
             "type": "color",
@@ -5465,7 +5465,7 @@ var _styleDictionary = {
               "Disabled",
               "Medium"
             ],
-            "comment": "Color/Border/Disabled/Medium",
+            "figmaName": "Color/Border/Disabled/Medium",
             "category": "Color",
             "item": "Disabled",
             "subitem": "Medium"
@@ -5476,7 +5476,7 @@ var _styleDictionary = {
             "Disabled",
             "Medium"
           ],
-          "comment": "Color/Border/Disabled/Medium"
+          "figmaName": "Color/Border/Disabled/Medium"
         }
       },
       "Neutral": {
@@ -5489,7 +5489,7 @@ var _styleDictionary = {
             "value": "{Palette.Neutral.85}",
             "type": "color"
           },
-          "name": "color-border-neutral-light",
+          "name": "color.border.neutral.light",
           "attributes": {
             "value": "#e5e0dc",
             "type": "color",
@@ -5507,7 +5507,7 @@ var _styleDictionary = {
               "Neutral",
               "Light"
             ],
-            "comment": "Color/Border/Neutral/Light",
+            "figmaName": "Color/Border/Neutral/Light",
             "category": "Color",
             "item": "Neutral",
             "subitem": "Light"
@@ -5518,7 +5518,7 @@ var _styleDictionary = {
             "Neutral",
             "Light"
           ],
-          "comment": "Color/Border/Neutral/Light"
+          "figmaName": "Color/Border/Neutral/Light"
         },
         "Dark": {
           "value": "#626060",
@@ -5529,7 +5529,7 @@ var _styleDictionary = {
             "value": "{Palette.Neutral.40}",
             "type": "color"
           },
-          "name": "color-border-neutral-dark",
+          "name": "color.border.neutral.dark",
           "attributes": {
             "value": "#626060",
             "type": "color",
@@ -5547,7 +5547,7 @@ var _styleDictionary = {
               "Neutral",
               "Dark"
             ],
-            "comment": "Color/Border/Neutral/Dark",
+            "figmaName": "Color/Border/Neutral/Dark",
             "category": "Color",
             "item": "Neutral",
             "subitem": "Dark"
@@ -5558,7 +5558,7 @@ var _styleDictionary = {
             "Neutral",
             "Dark"
           ],
-          "comment": "Color/Border/Neutral/Dark"
+          "figmaName": "Color/Border/Neutral/Dark"
         },
         "White": {
           "Alpha 100": {
@@ -5570,7 +5570,7 @@ var _styleDictionary = {
               "value": "{Palette.Neutral.100 White}",
               "type": "color"
             },
-            "name": "color-border-neutral-white-alpha 100",
+            "name": "color.border.neutral.white.alpha100",
             "attributes": {
               "value": "#ffffff",
               "type": "color",
@@ -5589,7 +5589,7 @@ var _styleDictionary = {
                 "White",
                 "Alpha 100"
               ],
-              "comment": "Color/Border/Neutral/White/Alpha 100",
+              "figmaName": "Color/Border/Neutral/White/Alpha 100",
               "category": "Color",
               "item": "Neutral",
               "subitem": "White",
@@ -5602,7 +5602,7 @@ var _styleDictionary = {
               "White",
               "Alpha 100"
             ],
-            "comment": "Color/Border/Neutral/White/Alpha 100"
+            "figmaName": "Color/Border/Neutral/White/Alpha 100"
           },
           "Alpha 50": {
             "value": "#ffffff",
@@ -5635,7 +5635,7 @@ var _styleDictionary = {
                 }
               }
             },
-            "name": "color-border-neutral-white-alpha 50",
+            "name": "color.border.neutral.white.alpha50",
             "attributes": {
               "value": "#ffffff",
               "type": "color",
@@ -5676,7 +5676,7 @@ var _styleDictionary = {
                 "White",
                 "Alpha 50"
               ],
-              "comment": "Color/Border/Neutral/White/Alpha 50",
+              "figmaName": "Color/Border/Neutral/White/Alpha 50",
               "category": "Color",
               "item": "Neutral",
               "subitem": "White",
@@ -5689,7 +5689,7 @@ var _styleDictionary = {
               "White",
               "Alpha 50"
             ],
-            "comment": "Color/Border/Neutral/White/Alpha 50"
+            "figmaName": "Color/Border/Neutral/White/Alpha 50"
           },
           "Alpha 20": {
             "value": "#ffffff",
@@ -5722,7 +5722,7 @@ var _styleDictionary = {
                 }
               }
             },
-            "name": "color-border-neutral-white-alpha 20",
+            "name": "color.border.neutral.white.alpha20",
             "attributes": {
               "value": "#ffffff",
               "type": "color",
@@ -5763,7 +5763,7 @@ var _styleDictionary = {
                 "White",
                 "Alpha 20"
               ],
-              "comment": "Color/Border/Neutral/White/Alpha 20",
+              "figmaName": "Color/Border/Neutral/White/Alpha 20",
               "category": "Color",
               "item": "Neutral",
               "subitem": "White",
@@ -5776,7 +5776,7 @@ var _styleDictionary = {
               "White",
               "Alpha 20"
             ],
-            "comment": "Color/Border/Neutral/White/Alpha 20"
+            "figmaName": "Color/Border/Neutral/White/Alpha 20"
           }
         },
         "Black": {
@@ -5789,7 +5789,7 @@ var _styleDictionary = {
               "value": "{Palette.Neutral.00 Black}",
               "type": "color"
             },
-            "name": "color-border-neutral-black-alpha 100",
+            "name": "color.border.neutral.black.alpha100",
             "attributes": {
               "value": "#090909",
               "type": "color",
@@ -5808,7 +5808,7 @@ var _styleDictionary = {
                 "Black",
                 "Alpha 100"
               ],
-              "comment": "Color/Border/Neutral/Black/Alpha 100",
+              "figmaName": "Color/Border/Neutral/Black/Alpha 100",
               "category": "Color",
               "item": "Neutral",
               "subitem": "Black",
@@ -5821,7 +5821,7 @@ var _styleDictionary = {
               "Black",
               "Alpha 100"
             ],
-            "comment": "Color/Border/Neutral/Black/Alpha 100"
+            "figmaName": "Color/Border/Neutral/Black/Alpha 100"
           },
           "Alpha 08": {
             "value": "#090909",
@@ -5854,7 +5854,7 @@ var _styleDictionary = {
                 }
               }
             },
-            "name": "color-border-neutral-black-alpha 08",
+            "name": "color.border.neutral.black.alpha08",
             "attributes": {
               "value": "#090909",
               "type": "color",
@@ -5895,7 +5895,7 @@ var _styleDictionary = {
                 "Black",
                 "Alpha 08"
               ],
-              "comment": "Color/Border/Neutral/Black/Alpha 08",
+              "figmaName": "Color/Border/Neutral/Black/Alpha 08",
               "category": "Color",
               "item": "Neutral",
               "subitem": "Black",
@@ -5908,7 +5908,7 @@ var _styleDictionary = {
               "Black",
               "Alpha 08"
             ],
-            "comment": "Color/Border/Neutral/Black/Alpha 08"
+            "figmaName": "Color/Border/Neutral/Black/Alpha 08"
           }
         }
       },
@@ -5922,7 +5922,7 @@ var _styleDictionary = {
             "value": "{Palette.Success.40}",
             "type": "color"
           },
-          "name": "color-border-status-success",
+          "name": "color.border.status.success",
           "attributes": {
             "value": "#006714",
             "type": "color",
@@ -5940,7 +5940,7 @@ var _styleDictionary = {
               "Status",
               "Success"
             ],
-            "comment": "Color/Border/Status/Success",
+            "figmaName": "Color/Border/Status/Success",
             "category": "Color",
             "item": "Status",
             "subitem": "Success"
@@ -5951,7 +5951,7 @@ var _styleDictionary = {
             "Status",
             "Success"
           ],
-          "comment": "Color/Border/Status/Success"
+          "figmaName": "Color/Border/Status/Success"
         },
         "Error": {
           "value": "#c53425",
@@ -5962,7 +5962,7 @@ var _styleDictionary = {
             "value": "{Palette.Error.50}",
             "type": "color"
           },
-          "name": "color-border-status-error",
+          "name": "color.border.status.error",
           "attributes": {
             "value": "#c53425",
             "type": "color",
@@ -5980,7 +5980,7 @@ var _styleDictionary = {
               "Status",
               "Error"
             ],
-            "comment": "Color/Border/Status/Error",
+            "figmaName": "Color/Border/Status/Error",
             "category": "Color",
             "item": "Status",
             "subitem": "Error"
@@ -5991,7 +5991,7 @@ var _styleDictionary = {
             "Status",
             "Error"
           ],
-          "comment": "Color/Border/Status/Error"
+          "figmaName": "Color/Border/Status/Error"
         },
         "Warning": {
           "value": "#ef8f00",
@@ -6002,7 +6002,7 @@ var _styleDictionary = {
             "value": "{Palette.Warning.50}",
             "type": "color"
           },
-          "name": "color-border-status-warning",
+          "name": "color.border.status.warning",
           "attributes": {
             "value": "#ef8f00",
             "type": "color",
@@ -6020,7 +6020,7 @@ var _styleDictionary = {
               "Status",
               "Warning"
             ],
-            "comment": "Color/Border/Status/Warning",
+            "figmaName": "Color/Border/Status/Warning",
             "category": "Color",
             "item": "Status",
             "subitem": "Warning"
@@ -6031,7 +6031,7 @@ var _styleDictionary = {
             "Status",
             "Warning"
           ],
-          "comment": "Color/Border/Status/Warning"
+          "figmaName": "Color/Border/Status/Warning"
         }
       },
       "Text Field": {
@@ -6044,7 +6044,7 @@ var _styleDictionary = {
             "value": "{Palette.Neutral.70}",
             "type": "color"
           },
-          "name": "color-border-text field-enable",
+          "name": "color.border.textfield.enable",
           "attributes": {
             "value": "#b3b0ae",
             "type": "color",
@@ -6062,7 +6062,7 @@ var _styleDictionary = {
               "Text Field",
               "Enable"
             ],
-            "comment": "Color/Border/Text Field/Enable",
+            "figmaName": "Color/Border/Text Field/Enable",
             "category": "Color",
             "item": "Text Field",
             "subitem": "Enable"
@@ -6073,7 +6073,7 @@ var _styleDictionary = {
             "Text Field",
             "Enable"
           ],
-          "comment": "Color/Border/Text Field/Enable"
+          "figmaName": "Color/Border/Text Field/Enable"
         },
         "Hover": {
           "value": "#090909",
@@ -6084,7 +6084,7 @@ var _styleDictionary = {
             "value": "{Palette.Neutral.00 Black}",
             "type": "color"
           },
-          "name": "color-border-text field-hover",
+          "name": "color.border.textfield.hover",
           "attributes": {
             "value": "#090909",
             "type": "color",
@@ -6102,7 +6102,7 @@ var _styleDictionary = {
               "Text Field",
               "Hover"
             ],
-            "comment": "Color/Border/Text Field/Hover",
+            "figmaName": "Color/Border/Text Field/Hover",
             "category": "Color",
             "item": "Text Field",
             "subitem": "Hover"
@@ -6113,7 +6113,7 @@ var _styleDictionary = {
             "Text Field",
             "Hover"
           ],
-          "comment": "Color/Border/Text Field/Hover"
+          "figmaName": "Color/Border/Text Field/Hover"
         }
       },
       "Focus Ring": {
@@ -6126,7 +6126,7 @@ var _styleDictionary = {
             "value": "{Palette.Primary.60}",
             "type": "color"
           },
-          "name": "color-border-focus ring-over light",
+          "name": "color.border.focusring.over light",
           "attributes": {
             "value": "#c08676",
             "type": "color",
@@ -6144,7 +6144,7 @@ var _styleDictionary = {
               "Focus Ring",
               "Over light"
             ],
-            "comment": "Color/Border/Focus Ring/Over light",
+            "figmaName": "Color/Border/Focus Ring/Over light",
             "category": "Color",
             "item": "Focus Ring",
             "subitem": "Over light"
@@ -6155,7 +6155,7 @@ var _styleDictionary = {
             "Focus Ring",
             "Over light"
           ],
-          "comment": "Color/Border/Focus Ring/Over light"
+          "figmaName": "Color/Border/Focus Ring/Over light"
         },
         "Over dark": {
           "value": "#dfc2bb",
@@ -6166,7 +6166,7 @@ var _styleDictionary = {
             "value": "{Palette.Primary.80}",
             "type": "color"
           },
-          "name": "color-border-focus ring-over dark",
+          "name": "color.border.focusring.over dark",
           "attributes": {
             "value": "#dfc2bb",
             "type": "color",
@@ -6184,7 +6184,7 @@ var _styleDictionary = {
               "Focus Ring",
               "Over dark"
             ],
-            "comment": "Color/Border/Focus Ring/Over dark",
+            "figmaName": "Color/Border/Focus Ring/Over dark",
             "category": "Color",
             "item": "Focus Ring",
             "subitem": "Over dark"
@@ -6195,7 +6195,7 @@ var _styleDictionary = {
             "Focus Ring",
             "Over dark"
           ],
-          "comment": "Color/Border/Focus Ring/Over dark"
+          "figmaName": "Color/Border/Focus Ring/Over dark"
         }
       },
       "Primary": {
@@ -6208,7 +6208,7 @@ var _styleDictionary = {
             "value": "{Palette.Primary.50}",
             "type": "color"
           },
-          "name": "color-border-primary-medium alpha 100",
+          "name": "color.border.primary.mediumalpha 100",
           "attributes": {
             "value": "#9a6b5e",
             "type": "color",
@@ -6226,7 +6226,7 @@ var _styleDictionary = {
               "Primary",
               "Medium alpha 100"
             ],
-            "comment": "Color/Border/Primary/Medium alpha 100",
+            "figmaName": "Color/Border/Primary/Medium alpha 100",
             "category": "Color",
             "item": "Primary",
             "subitem": "Medium alpha 100"
@@ -6237,7 +6237,7 @@ var _styleDictionary = {
             "Primary",
             "Medium alpha 100"
           ],
-          "comment": "Color/Border/Primary/Medium alpha 100"
+          "figmaName": "Color/Border/Primary/Medium alpha 100"
         },
         "Medium alpha 50": {
           "value": "#9a6b5e",
@@ -6270,7 +6270,7 @@ var _styleDictionary = {
               }
             }
           },
-          "name": "color-border-primary-medium alpha 50",
+          "name": "color.border.primary.mediumalpha 50",
           "attributes": {
             "value": "#9a6b5e",
             "type": "color",
@@ -6310,7 +6310,7 @@ var _styleDictionary = {
               "Primary",
               "Medium alpha 50"
             ],
-            "comment": "Color/Border/Primary/Medium alpha 50",
+            "figmaName": "Color/Border/Primary/Medium alpha 50",
             "category": "Color",
             "item": "Primary",
             "subitem": "Medium alpha 50"
@@ -6321,7 +6321,7 @@ var _styleDictionary = {
             "Primary",
             "Medium alpha 50"
           ],
-          "comment": "Color/Border/Primary/Medium alpha 50"
+          "figmaName": "Color/Border/Primary/Medium alpha 50"
         }
       }
     },
@@ -6336,7 +6336,7 @@ var _styleDictionary = {
             "value": "{Palette.Neutral.00 Black}",
             "type": "color"
           },
-          "name": "color-icon-neutral-black",
+          "name": "color.icon.neutral.black",
           "attributes": {
             "value": "#090909",
             "type": "color",
@@ -6354,7 +6354,7 @@ var _styleDictionary = {
               "Neutral",
               "Black"
             ],
-            "comment": "Color/Icon/Neutral/Black",
+            "figmaName": "Color/Icon/Neutral/Black",
             "category": "Color",
             "item": "Neutral",
             "subitem": "Black"
@@ -6365,7 +6365,7 @@ var _styleDictionary = {
             "Neutral",
             "Black"
           ],
-          "comment": "Color/Icon/Neutral/Black"
+          "figmaName": "Color/Icon/Neutral/Black"
         },
         "Secondary over dark": {
           "value": "#b3b0ae",
@@ -6376,7 +6376,7 @@ var _styleDictionary = {
             "value": "{Palette.Neutral.70}",
             "type": "color"
           },
-          "name": "color-icon-neutral-secondary over dark",
+          "name": "color.icon.neutral.secondaryover dark",
           "attributes": {
             "value": "#b3b0ae",
             "type": "color",
@@ -6394,7 +6394,7 @@ var _styleDictionary = {
               "Neutral",
               "Secondary over dark"
             ],
-            "comment": "Color/Icon/Neutral/Secondary over dark",
+            "figmaName": "Color/Icon/Neutral/Secondary over dark",
             "category": "Color",
             "item": "Neutral",
             "subitem": "Secondary over dark"
@@ -6405,7 +6405,7 @@ var _styleDictionary = {
             "Neutral",
             "Secondary over dark"
           ],
-          "comment": "Color/Icon/Neutral/Secondary over dark"
+          "figmaName": "Color/Icon/Neutral/Secondary over dark"
         },
         "Secondary over light": {
           "value": "#787676",
@@ -6416,7 +6416,7 @@ var _styleDictionary = {
             "value": "{Palette.Neutral.50}",
             "type": "color"
           },
-          "name": "color-icon-neutral-secondary over light",
+          "name": "color.icon.neutral.secondaryover light",
           "attributes": {
             "value": "#787676",
             "type": "color",
@@ -6434,7 +6434,7 @@ var _styleDictionary = {
               "Neutral",
               "Secondary over light"
             ],
-            "comment": "Color/Icon/Neutral/Secondary over light",
+            "figmaName": "Color/Icon/Neutral/Secondary over light",
             "category": "Color",
             "item": "Neutral",
             "subitem": "Secondary over light"
@@ -6445,7 +6445,7 @@ var _styleDictionary = {
             "Neutral",
             "Secondary over light"
           ],
-          "comment": "Color/Icon/Neutral/Secondary over light"
+          "figmaName": "Color/Icon/Neutral/Secondary over light"
         },
         "White": {
           "value": "#ffffff",
@@ -6456,7 +6456,7 @@ var _styleDictionary = {
             "value": "{Palette.Neutral.100 White}",
             "type": "color"
           },
-          "name": "color-icon-neutral-white",
+          "name": "color.icon.neutral.white",
           "attributes": {
             "value": "#ffffff",
             "type": "color",
@@ -6474,7 +6474,7 @@ var _styleDictionary = {
               "Neutral",
               "White"
             ],
-            "comment": "Color/Icon/Neutral/White",
+            "figmaName": "Color/Icon/Neutral/White",
             "category": "Color",
             "item": "Neutral",
             "subitem": "White"
@@ -6485,7 +6485,7 @@ var _styleDictionary = {
             "Neutral",
             "White"
           ],
-          "comment": "Color/Icon/Neutral/White"
+          "figmaName": "Color/Icon/Neutral/White"
         },
         "Interactive": {
           "Enable": {
@@ -6497,7 +6497,7 @@ var _styleDictionary = {
               "value": "{Palette.Neutral.00 Black}",
               "type": "color"
             },
-            "name": "color-icon-neutral-interactive-enable",
+            "name": "color.icon.neutral.interactive.enable",
             "attributes": {
               "value": "#090909",
               "type": "color",
@@ -6516,7 +6516,7 @@ var _styleDictionary = {
                 "Interactive",
                 "Enable"
               ],
-              "comment": "Color/Icon/Neutral/Interactive/Enable",
+              "figmaName": "Color/Icon/Neutral/Interactive/Enable",
               "category": "Color",
               "item": "Neutral",
               "subitem": "Interactive",
@@ -6529,7 +6529,7 @@ var _styleDictionary = {
               "Interactive",
               "Enable"
             ],
-            "comment": "Color/Icon/Neutral/Interactive/Enable"
+            "figmaName": "Color/Icon/Neutral/Interactive/Enable"
           },
           "Hover": {
             "value": "#787676",
@@ -6540,7 +6540,7 @@ var _styleDictionary = {
               "value": "{Palette.Neutral.50}",
               "type": "color"
             },
-            "name": "color-icon-neutral-interactive-hover",
+            "name": "color.icon.neutral.interactive.hover",
             "attributes": {
               "value": "#787676",
               "type": "color",
@@ -6559,7 +6559,7 @@ var _styleDictionary = {
                 "Interactive",
                 "Hover"
               ],
-              "comment": "Color/Icon/Neutral/Interactive/Hover",
+              "figmaName": "Color/Icon/Neutral/Interactive/Hover",
               "category": "Color",
               "item": "Neutral",
               "subitem": "Interactive",
@@ -6572,7 +6572,7 @@ var _styleDictionary = {
               "Interactive",
               "Hover"
             ],
-            "comment": "Color/Icon/Neutral/Interactive/Hover"
+            "figmaName": "Color/Icon/Neutral/Interactive/Hover"
           },
           "Pressed": {
             "value": "#b3b0ae",
@@ -6583,7 +6583,7 @@ var _styleDictionary = {
               "value": "{Palette.Neutral.70}",
               "type": "color"
             },
-            "name": "color-icon-neutral-interactive-pressed",
+            "name": "color.icon.neutral.interactive.pressed",
             "attributes": {
               "value": "#b3b0ae",
               "type": "color",
@@ -6602,7 +6602,7 @@ var _styleDictionary = {
                 "Interactive",
                 "Pressed"
               ],
-              "comment": "Color/Icon/Neutral/Interactive/Pressed",
+              "figmaName": "Color/Icon/Neutral/Interactive/Pressed",
               "category": "Color",
               "item": "Neutral",
               "subitem": "Interactive",
@@ -6615,7 +6615,7 @@ var _styleDictionary = {
               "Interactive",
               "Pressed"
             ],
-            "comment": "Color/Icon/Neutral/Interactive/Pressed"
+            "figmaName": "Color/Icon/Neutral/Interactive/Pressed"
           }
         }
       },
@@ -6629,7 +6629,7 @@ var _styleDictionary = {
             "value": "{Palette.Primary.50}",
             "type": "color"
           },
-          "name": "color-icon-primary-medium",
+          "name": "color.icon.primary.medium",
           "attributes": {
             "value": "#9a6b5e",
             "type": "color",
@@ -6647,7 +6647,7 @@ var _styleDictionary = {
               "Primary",
               "Medium"
             ],
-            "comment": "Color/Icon/Primary/Medium",
+            "figmaName": "Color/Icon/Primary/Medium",
             "category": "Color",
             "item": "Primary",
             "subitem": "Medium"
@@ -6658,7 +6658,7 @@ var _styleDictionary = {
             "Primary",
             "Medium"
           ],
-          "comment": "Color/Icon/Primary/Medium"
+          "figmaName": "Color/Icon/Primary/Medium"
         },
         "Dark": {
           "value": "#60433b",
@@ -6669,7 +6669,7 @@ var _styleDictionary = {
             "value": "{Palette.Primary.30}",
             "type": "color"
           },
-          "name": "color-icon-primary-dark",
+          "name": "color.icon.primary.dark",
           "attributes": {
             "value": "#60433b",
             "type": "color",
@@ -6687,7 +6687,7 @@ var _styleDictionary = {
               "Primary",
               "Dark"
             ],
-            "comment": "Color/Icon/Primary/Dark",
+            "figmaName": "Color/Icon/Primary/Dark",
             "category": "Color",
             "item": "Primary",
             "subitem": "Dark"
@@ -6698,7 +6698,7 @@ var _styleDictionary = {
             "Primary",
             "Dark"
           ],
-          "comment": "Color/Icon/Primary/Dark"
+          "figmaName": "Color/Icon/Primary/Dark"
         }
       },
       "Disabled": {
@@ -6711,7 +6711,7 @@ var _styleDictionary = {
             "value": "{Palette.Neutral.80}",
             "type": "color"
           },
-          "name": "color-icon-disabled-medium",
+          "name": "color.icon.disabled.medium",
           "attributes": {
             "value": "#cfcbca",
             "type": "color",
@@ -6729,7 +6729,7 @@ var _styleDictionary = {
               "Disabled",
               "Medium"
             ],
-            "comment": "Color/Icon/Disabled/Medium",
+            "figmaName": "Color/Icon/Disabled/Medium",
             "category": "Color",
             "item": "Disabled",
             "subitem": "Medium"
@@ -6740,7 +6740,7 @@ var _styleDictionary = {
             "Disabled",
             "Medium"
           ],
-          "comment": "Color/Icon/Disabled/Medium"
+          "figmaName": "Color/Icon/Disabled/Medium"
         },
         "Over dark": {
           "value": "#959292",
@@ -6751,7 +6751,7 @@ var _styleDictionary = {
             "value": "{Palette.Neutral.60}",
             "type": "color"
           },
-          "name": "color-icon-disabled-over dark",
+          "name": "color.icon.disabled.overdark",
           "attributes": {
             "value": "#959292",
             "type": "color",
@@ -6769,7 +6769,7 @@ var _styleDictionary = {
               "Disabled",
               "Over dark"
             ],
-            "comment": "Color/Icon/Disabled/Over dark",
+            "figmaName": "Color/Icon/Disabled/Over dark",
             "category": "Color",
             "item": "Disabled",
             "subitem": "Over dark"
@@ -6780,7 +6780,7 @@ var _styleDictionary = {
             "Disabled",
             "Over dark"
           ],
-          "comment": "Color/Icon/Disabled/Over dark"
+          "figmaName": "Color/Icon/Disabled/Over dark"
         }
       },
       "Status": {
@@ -6793,7 +6793,7 @@ var _styleDictionary = {
             "value": "{Palette.Success.40}",
             "type": "color"
           },
-          "name": "color-icon-status-success",
+          "name": "color.icon.status.success",
           "attributes": {
             "value": "#006714",
             "type": "color",
@@ -6811,7 +6811,7 @@ var _styleDictionary = {
               "Status",
               "Success"
             ],
-            "comment": "Color/Icon/Status/Success",
+            "figmaName": "Color/Icon/Status/Success",
             "category": "Color",
             "item": "Status",
             "subitem": "Success"
@@ -6822,7 +6822,7 @@ var _styleDictionary = {
             "Status",
             "Success"
           ],
-          "comment": "Color/Icon/Status/Success"
+          "figmaName": "Color/Icon/Status/Success"
         },
         "Error": {
           "value": "#c53425",
@@ -6833,7 +6833,7 @@ var _styleDictionary = {
             "value": "{Palette.Error.50}",
             "type": "color"
           },
-          "name": "color-icon-status-error",
+          "name": "color.icon.status.error",
           "attributes": {
             "value": "#c53425",
             "type": "color",
@@ -6851,7 +6851,7 @@ var _styleDictionary = {
               "Status",
               "Error"
             ],
-            "comment": "Color/Icon/Status/Error",
+            "figmaName": "Color/Icon/Status/Error",
             "category": "Color",
             "item": "Status",
             "subitem": "Error"
@@ -6862,7 +6862,7 @@ var _styleDictionary = {
             "Status",
             "Error"
           ],
-          "comment": "Color/Icon/Status/Error"
+          "figmaName": "Color/Icon/Status/Error"
         },
         "Warning": {
           "value": "#ef8f00",
@@ -6873,7 +6873,7 @@ var _styleDictionary = {
             "value": "{Palette.Warning.50}",
             "type": "color"
           },
-          "name": "color-icon-status-warning",
+          "name": "color.icon.status.warning",
           "attributes": {
             "value": "#ef8f00",
             "type": "color",
@@ -6891,7 +6891,7 @@ var _styleDictionary = {
               "Status",
               "Warning"
             ],
-            "comment": "Color/Icon/Status/Warning",
+            "figmaName": "Color/Icon/Status/Warning",
             "category": "Color",
             "item": "Status",
             "subitem": "Warning"
@@ -6902,7 +6902,7 @@ var _styleDictionary = {
             "Status",
             "Warning"
           ],
-          "comment": "Color/Icon/Status/Warning"
+          "figmaName": "Color/Icon/Status/Warning"
         }
       }
     }
