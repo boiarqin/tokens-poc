@@ -1,0 +1,14 @@
+{
+    "source": ["output.json"],
+    "transforms": ["attribute/cti", "color/hsl", "size/rem"],
+    "platforms": {
+      "scss": {
+        "transformGroup": "scss",
+        "buildPath": "build/",
+        "files": [{
+          "destination": "scss/_variables.scss",
+          "format": "scss/variables"
+        }]
+      }
+    }
+  }

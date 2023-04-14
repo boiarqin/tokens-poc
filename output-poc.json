@@ -1,0 +1,345 @@
+{
+    "global": {
+        "sizing": {
+            "xsm": {
+                "value": "4px",
+                "type": "sizing",
+                "description": "0.25 rem"
+            },
+            "sm": {
+                "value": "8px",
+                "type": "sizing",
+                "description": "0.5 rem"
+            },
+            "md": {
+                "value": "16px",
+                "type": "sizing",
+                "description": "1 rem"
+            },
+            "lg": {
+                "value": "24px",
+                "type": "sizing",
+                "description": "1.5 rem"
+            },
+            "xlg": {
+                "value": "32px",
+                "type": "sizing",
+                "description": "2 rem"
+            },
+            "48": {
+                "value": "48px",
+                "type": "sizing",
+                "description": "3 rem"
+            },
+            "56": {
+                "value": "56px",
+                "type": "sizing",
+                "description": "3.5 rem"
+            },
+            "64": {
+                "value": "64px",
+                "type": "sizing",
+                "description": "4 rem"
+            },
+            "72": {
+                "value": "72px",
+                "type": "sizing",
+                "description": "4.5 rem"
+            },
+            "80": {
+                "value": "80px",
+                "type": "sizing",
+                "description": "5 rem"
+            },
+            "96": {
+                "value": "96px",
+                "type": "sizing",
+                "description": "6 rem"
+            }
+        },
+        "colors": {
+            "Neutral": {
+                "10": {
+                    "value": "#2a2929",
+                    "type": "color",
+                    "description": "Token=a1.ref.palette.neutral10\n\nLocations: \n\nRegular text\nAA    ✅\nAAA  ✅\n\nLarge text\nAA    ✅\nAAA  ✅"
+                },
+                "20": {
+                    "value": "#3b3a3a",
+                    "type": "color",
+                    "description": "Token=a1.ref.palette.neutral20\n\nLocations: \n\nRegular text\nAA    ✅\nAAA  ✅\n\nLarge text\nAA    ✅\nAAA  ✅"
+                },
+                "30": {
+                    "value": "#4b4a4a",
+                    "type": "color",
+                    "description": "Token=a1.ref.palette.neutral30\n\nLocations: \n\nRegular text\nAA    ✅\nAAA  ✅\n\nLarge text\nAA    ✅\nAAA  ✅"
+                },
+                "40": {
+                    "value": "#626060",
+                    "type": "color",
+                    "description": "Token=a1.ref.palette.neutral40\n\nLocations: \n\nBlack Regular text\nAA    ❌\nAAA  ❌\n\nBlack Large text\nAA    ✅\nAAA  ❌\n\nWhite Regular text\nAA    ✅\nAAA  ❌\n\nWhite Large text\nAA    ✅\nAAA  ✅"
+                },
+                "50": {
+                    "value": "#787676",
+                    "type": "color",
+                    "description": "Token=a1.ref.palette.neutral50\n\nLocations: \n\nBlack Regular text\nAA    ✅\nAAA  ❌\n\nBlack Large text\nAA    ✅\nAAA  ✅\n\nWhite Regular text\nAA    ✅\nAAA  ❌\n\nWhite Large text\nAA    ✅\nAAA  ✅"
+                },
+                "60": {
+                    "value": "#959292",
+                    "type": "color",
+                    "description": "Token=a1.ref.palette.neutral60\n\nLocations: \n\nBlack Regular text\nAA    ✅\nAAA  ❌\n\nBlack Large text\nAA    ✅\nAAA  ✅\n\nWhite Regular text\nAA    ❌\nAAA  ❌\n\nWhite Large text\nAA    ✅\nAAA  ❌"
+                },
+                "70": {
+                    "value": "#b3b0ae",
+                    "type": "color",
+                    "description": "Token=a1.ref.palette.neutral70\n\nLocations: \n\nRegular text\nAA    ✅\nAAA  ✅\n\nLarge text\nAA    ✅\nAAA  ✅"
+                },
+                "80": {
+                    "value": "#cfcbca",
+                    "type": "color",
+                    "description": "Token=a1.ref.palette.neutral80\n\nLocations: \n\nRegular text\nAA    ✅\nAAA  ✅\n\nLarge text\nAA    ✅\nAAA  ✅"
+                },
+                "85": {
+                    "value": "#e5e0dc",
+                    "type": "color",
+                    "description": "Token=a1.ref.palette.neutral85\n\nLocations: \n\nRegular text\nAA    ✅\nAAA  ✅\n\nLarge text\nAA    ✅\nAAA  ✅"
+                },
+                "90": {
+                    "value": "#eceae7",
+                    "type": "color",
+                    "description": "Token=a1.ref.palette.neutral90\n\nLocations: \n\nRegular text\nAA    ✅\nAAA  ✅\n\nLarge text\nAA    ✅\nAAA  ✅"
+                },
+                "95": {
+                    "value": "#f7f6f5",
+                    "type": "color",
+                    "description": "Token=a1.ref.palette.neutral95\n\nLocations: Table background\n\nRegular text\nAA    ✅\nAAA  ✅\n\nLarge text\nAA    ✅\nAAA  ✅"
+                },
+                "98": {
+                    "value": "#fafafa",
+                    "type": "color",
+                    "description": "Token=a1.ref.palette.neutral98\n\nLocations: Text field background\n\nRegular text\nAA    ✅\nAAA  ✅\n\nLarge text\nAA    ✅\nAAA  ✅"
+                },
+                "100 White": {
+                    "value": "#ffffff",
+                    "type": "color",
+                    "description": "Token=a1.ref.palette.neutral100\n\nLocations: Base\n\nRegular text\nAA    ✅\nAAA  ✅\n\nLarge text\nAA    ✅\nAAA  ✅"
+                },
+                "00 Black": {
+                    "value": "#090909",
+                    "type": "color",
+                    "description": "Token=a1.ref.palette.neutral00\n\nLocations: Text, Backgrounds\n\nRegular text\nAA    ✅\nAAA  ✅\n\nLarge text\nAA    ✅\nAAA  ✅"
+                }
+            },
+            "Primary": {
+                "10": {
+                    "value": "#130d0c",
+                    "type": "color",
+                    "description": "Token=a1.ref.palette.primary10\n\nLocations:\n\nRegular text\nAA    ✅\nAAA  ✅\n\nLarge text\nAA    ✅\nAAA  ✅"
+                },
+                "20": {
+                    "value": "#30211e",
+                    "type": "color",
+                    "description": "Token=a1.ref.palette.primary20\n\nLocations:\n\nRegular text\nAA    ✅\nAAA  ✅\n\nLarge text\nAA    ✅\nAAA  ✅"
+                },
+                "30": {
+                    "value": "#60433b",
+                    "type": "color",
+                    "description": "Token=a1.ref.palette.primary30\n\nLocations: Card body text, Click(down) state\n\nRegular text\nAA    ✅\nAAA  ✅\n\nLarge text\nAA    ✅\nAAA  ✅"
+                },
+                "40": {
+                    "value": "#7d574d",
+                    "type": "color",
+                    "description": "Token=a1.ref.palette.primary40\n\nLocations: Hover state\n\nRegular text\nAA    ✅\nAAA  ❌\n\nLarge text\nAA    ✅\nAAA  ✅"
+                },
+                "50": {
+                    "value": "#9a6b5e",
+                    "type": "color",
+                    "description": "Token=a1.ref.palette.primary50\n\nLocations: Enable state\n\nRegular text\nAA    ✅\nAAA  ❌\n\nLarge text\nAA    ✅\nAAA  ✅\n\nRegular text\nAA    ✅\nAAA  ❌\n\nLarge text\nAA    ✅\nAAA  ✅"
+                },
+                "60": {
+                    "value": "#c08676",
+                    "type": "color",
+                    "description": "Token=a1.ref.palette.primary60\n\nLocations:Brand color, CTA, Icons, ETC\n\nBlack Regular text\nAA    ✅\nAAA  ❌\n\nBlack Large text\nAA    ✅\nAAA  ✅\n\nWhite Regular text\nAA    ❌\nAAA  ❌\n\nWhite Large text\nAA    ✅\nAAA  ❌"
+                },
+                "70": {
+                    "value": "#d0a498",
+                    "type": "color",
+                    "description": "Token=a1.ref.palette.primary70\n\nLocations:\n\nRegular text\nAA    ✅\nAAA  ✅\n\nLarge text\nAA    ✅\nAAA  ✅"
+                },
+                "80": {
+                    "value": "#dfc2bb",
+                    "type": "color",
+                    "description": "Token=a1.ref.palette.primary80\n\nLocations: Nude button active(?) state\n\nRegular text\nAA    ✅\nAAA  ✅\n\nLarge text\nAA    ✅\nAAA  ✅"
+                },
+                "85": {
+                    "value": "#e8d6d1",
+                    "type": "color"
+                },
+                "90": {
+                    "value": "#efe1dd",
+                    "type": "color",
+                    "description": "Token=a1.ref.palette.primary90\n\nLocations: Accent backgrounds, light button backgrounds\n\nRegular text\nAA    ✅\nAAA  ✅\n\nLarge text\nAA    ✅\nAAA  ✅"
+                },
+                "95": {
+                    "value": "#f9f3f1",
+                    "type": "color",
+                    "description": "Token=a1.ref.palette.primary95\n\nLocations: Header & card backgrounds, Interaction elements\n\nRegular text\nAA    ✅\nAAA  ✅\n\nLarge text\nAA    ✅\nAAA  ✅"
+                }
+            },
+            "Success": {
+                "10": {
+                    "value": "#000e03",
+                    "type": "color"
+                },
+                "20": {
+                    "value": "#002207",
+                    "type": "color"
+                },
+                "30": {
+                    "value": "#00450d",
+                    "type": "color"
+                },
+                "40": {
+                    "value": "#006714",
+                    "type": "color"
+                },
+                "50": {
+                    "value": "#008a1a",
+                    "type": "color"
+                },
+                "60": {
+                    "value": "#40a753",
+                    "type": "color"
+                },
+                "70": {
+                    "value": "#80c48c",
+                    "type": "color"
+                },
+                "75": {
+                    "value": "#a8d7b1",
+                    "type": "color"
+                },
+                "80": {
+                    "value": "#b8debf",
+                    "type": "color"
+                },
+                "90": {
+                    "value": "#e5f3e8",
+                    "type": "color"
+                }
+            },
+            "Error": {
+                "10": {
+                    "value": "#140504",
+                    "type": "color"
+                },
+                "20": {
+                    "value": "#310d09",
+                    "type": "color"
+                },
+                "30": {
+                    "value": "#621a13",
+                    "type": "color"
+                },
+                "40": {
+                    "value": "#94271c",
+                    "type": "color"
+                },
+                "50": {
+                    "value": "#c53425",
+                    "type": "color"
+                },
+                "60": {
+                    "value": "#d3675c",
+                    "type": "color"
+                },
+                "70": {
+                    "value": "#e29a92",
+                    "type": "color"
+                },
+                "80": {
+                    "value": "#f1ccc8",
+                    "type": "color"
+                },
+                "90": {
+                    "value": "#f9ebe9",
+                    "type": "color"
+                }
+            },
+            "Warning": {
+                "10": {
+                    "value": "#181000",
+                    "type": "color"
+                },
+                "20": {
+                    "value": "#3c2800",
+                    "type": "color"
+                },
+                "30": {
+                    "value": "#855001",
+                    "type": "color"
+                },
+                "40": {
+                    "value": "#be7302",
+                    "type": "color"
+                },
+                "50": {
+                    "value": "#ef8f00",
+                    "type": "color"
+                },
+                "60": {
+                    "value": "#f3b940",
+                    "type": "color"
+                },
+                "70": {
+                    "value": "#f7d080",
+                    "type": "color"
+                },
+                "80": {
+                    "value": "#fbe8bf",
+                    "type": "color"
+                },
+                "90": {
+                    "value": "#fdf6e5",
+                    "type": "color"
+                }
+            }
+        },
+        "fontWeight": {
+            "Light": {
+                "value": 300,
+                "type": "fontWeights"
+            },
+            "Regular": {
+                "value": 400,
+                "type": "fontWeights"
+            },
+            "Medium": {
+                "value": 500,
+                "type": "fontWeights"
+            },
+            "Semibold": {
+                "value": 600,
+                "type": "fontWeights"
+            },
+            "Bold": {
+                "value": 700,
+                "type": "fontWeights"
+            }
+        },
+        "fontFamily": {
+            "source-code-pro": {
+              "value": "Source Code Pro",
+              "type": "fontFamilies"
+            },
+            "petersburg": {
+              "value": "Petersburg",
+              "type": "fontFamilies"
+            },
+            "graphik": {
+              "value": "Graphik",
+              "type": "fontFamilies"
+            }
+          }
+    }
+}

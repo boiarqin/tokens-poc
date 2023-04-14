@@ -1,0 +1,622 @@
+{
+"Color": {
+    "Section bg": {
+      "Neutral": {
+        "Black": {
+          "value": "{Palette.Neutral.00 Black}",
+          "type": "color"
+        },
+        "White": {
+          "value": "{Palette.Neutral.100 White}",
+          "type": "color"
+        },
+        "Extra light": {
+          "value": "{Palette.Neutral.95}",
+          "type": "color"
+        },
+        "Light": {
+          "value": "{Palette.Neutral.90}",
+          "type": "color"
+        }
+      },
+      "Primary": {
+        "Extra light": {
+          "value": "{Palette.Primary.95}",
+          "type": "color"
+        },
+        "Light": {
+          "value": "{Palette.Primary.90}",
+          "type": "color"
+        }
+      }
+    },
+    "Text": {
+      "Primary": {
+        "Interactive": {
+          "Enable": {
+            "value": "{Palette.Primary.50}",
+            "type": "color"
+          },
+          "Hover": {
+            "value": "{Palette.Primary.70}",
+            "type": "color"
+          },
+          "Pressed": {
+            "value": "{Palette.Primary.85}",
+            "type": "color"
+          }
+        },
+        "Medium": {
+          "value": "{Palette.Primary.50}",
+          "type": "color"
+        },
+        "Dark": {
+          "value": "{Palette.Primary.30}",
+          "type": "color"
+        }
+      },
+      "Neutral": {
+        "Interactive": {
+          "Enable": {
+            "value": "{Palette.Neutral.00 Black}",
+            "type": "color"
+          },
+          "Hover": {
+            "value": "{Palette.Neutral.50}",
+            "type": "color"
+          },
+          "Pressed": {
+            "value": "{Palette.Neutral.70}",
+            "type": "color"
+          }
+        },
+        "Black": {
+          "value": "{Palette.Neutral.00 Black}",
+          "type": "color"
+        },
+        "White": {
+          "value": "{Palette.Neutral.100 White}",
+          "type": "color"
+        },
+        "Secondary over dark": {
+          "value": "{Palette.Neutral.70}",
+          "type": "color"
+        },
+        "Secondary over light": {
+          "value": "{Palette.Neutral.50}",
+          "type": "color"
+        },
+        "Place holder": {
+          "value": "{Palette.Neutral.50}",
+          "type": "color"
+        },
+        "Disabled": {
+          "value": "{Palette.Neutral.80}",
+          "type": "color"
+        }
+      },
+      "Status": {
+        "Success": {
+          "value": "{Palette.Success.40}",
+          "type": "color"
+        },
+        "Error": {
+          "value": "{Palette.Error.50}",
+          "type": "color"
+        },
+        "Warning medium": {
+          "value": "{Palette.Warning.50}",
+          "type": "color"
+        },
+        "Warning dark": {
+          "value": "{Palette.Warning.30}",
+          "type": "color"
+        }
+      }
+    },
+    "Container": {
+      "Primary": {
+        "Interactive": {
+          "Enable": {
+            "value": "{Palette.Primary.50}",
+            "type": "color"
+          },
+          "Hover": {
+            "value": "{Palette.Primary.40}",
+            "type": "color"
+          },
+          "Pressed": {
+            "value": "{Palette.Primary.30}",
+            "type": "color"
+          },
+          "Selection": {
+            "value": "{Palette.Primary.50}",
+            "type": "color"
+          },
+          "Alpha": {
+            "Enable": {
+              "value": "{Palette.Primary.60}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "alpha",
+                    "value": "0",
+                    "space": "lch"
+                  }
+                }
+              }
+            },
+            "Hover": {
+              "value": "{Palette.Primary.60}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "alpha",
+                    "value": "0.2",
+                    "space": "lch"
+                  }
+                }
+              }
+            },
+            "Pressed": {
+              "value": "{Palette.Primary.60}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "alpha",
+                    "value": "0.42",
+                    "space": "lch"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "Extra light": {
+          "value": "{Palette.Primary.95}",
+          "type": "color"
+        },
+        "Light": {
+          "value": "{Palette.Primary.90}",
+          "type": "color"
+        },
+        "Medium light": {
+          "value": "{Palette.Primary.60}",
+          "type": "color"
+        },
+        "Medium": {
+          "value": "{Palette.Primary.50}",
+          "type": "color"
+        },
+        "Medium dark": {
+          "value": "{Palette.Primary.40}",
+          "type": "color"
+        },
+        "Dark": {
+          "value": "{Palette.Primary.30}",
+          "type": "color"
+        }
+      },
+      "Neutral": {
+        "Black": {
+          "Interactive": {
+            "Enable": {
+              "value": "{Palette.Neutral.00 Black}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{Palette.Neutral.50}",
+              "type": "color"
+            },
+            "Pressed": {
+              "value": "{Palette.Neutral.70}",
+              "type": "color"
+            },
+            "Alpha": {
+              "Enable": {
+                "value": "{Palette.Neutral.00 Black}",
+                "type": "color",
+                "$extensions": {
+                  "studio.tokens": {
+                    "modify": {
+                      "type": "alpha",
+                      "value": "0.0",
+                      "space": "lch"
+                    }
+                  }
+                }
+              },
+              "Hover": {
+                "value": "{Palette.Neutral.00 Black}",
+                "type": "color",
+                "$extensions": {
+                  "studio.tokens": {
+                    "modify": {
+                      "type": "alpha",
+                      "value": "0.08",
+                      "space": "lch"
+                    }
+                  }
+                }
+              },
+              "Pressed": {
+                "value": "{Palette.Neutral.00 Black}",
+                "type": "color",
+                "$extensions": {
+                  "studio.tokens": {
+                    "modify": {
+                      "type": "alpha",
+                      "value": "0.31",
+                      "space": "lch"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "Alpha 100": {
+            "value": "{Palette.Neutral.00 Black}",
+            "type": "color"
+          }
+        },
+        "White": {
+          "Interactive": {
+            "Enable": {
+              "value": "{Palette.Neutral.100 White}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{Palette.Neutral.90}",
+              "type": "color"
+            },
+            "Pressed": {
+              "value": "{Palette.Neutral.70}",
+              "type": "color"
+            },
+            "Alpha": {
+              "Enable": {
+                "value": "{Palette.Neutral.100 White}",
+                "type": "color",
+                "$extensions": {
+                  "studio.tokens": {
+                    "modify": {
+                      "type": "alpha",
+                      "value": "0.0",
+                      "space": "lch"
+                    }
+                  }
+                }
+              },
+              "Hover": {
+                "value": "{Palette.Neutral.100 White}",
+                "type": "color",
+                "$extensions": {
+                  "studio.tokens": {
+                    "modify": {
+                      "type": "alpha",
+                      "value": "0.08",
+                      "space": "lch"
+                    }
+                  }
+                }
+              },
+              "Pressed": {
+                "value": "{Palette.Neutral.100 White}",
+                "type": "color",
+                "$extensions": {
+                  "studio.tokens": {
+                    "modify": {
+                      "type": "alpha",
+                      "value": "0.12",
+                      "space": "lch"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "Alpha 100": {
+            "value": "{Palette.Neutral.100 White}",
+            "type": "color"
+          },
+          "Alpha 00": {
+            "value": "{Palette.Neutral.100 White}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "0.0",
+                  "space": "lch"
+                }
+              }
+            }
+          }
+        },
+        "Extra light": {
+          "value": "{Palette.Neutral.98}",
+          "type": "color"
+        },
+        "Light": {
+          "value": "{Palette.Neutral.95}",
+          "type": "color"
+        },
+        "Medium": {
+          "value": "{Palette.Neutral.70}",
+          "type": "color"
+        },
+        "Medium dark": {
+          "value": "{Palette.Neutral.40}",
+          "type": "color"
+        },
+        "Extra dark": {
+          "value": "{Palette.Neutral.10}",
+          "type": "color"
+        },
+        "Medium alpha08": {
+          "value": "{Palette.Neutral.50}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.08",
+                "space": "lch"
+              }
+            }
+          }
+        }
+      },
+      "Disabled": {
+        "Dark": {
+          "value": "{Palette.Neutral.60}",
+          "type": "color"
+        },
+        "Light": {
+          "value": "{Palette.Neutral.90}",
+          "type": "color"
+        },
+        "Extra light": {
+          "value": "{Palette.Neutral.98}",
+          "type": "color"
+        },
+        "Primary": {
+          "value": "{Palette.Primary.90}",
+          "type": "color"
+        },
+        "Transparent": {
+          "value": "{Palette.Neutral.80}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.0",
+                "space": "lch"
+              }
+            }
+          }
+        }
+      },
+      "Status": {
+        "Success light": {
+          "value": "{Palette.Success.90}",
+          "type": "color"
+        },
+        "Success medium": {
+          "value": "{Palette.Success.40}",
+          "type": "color"
+        },
+        "Error light": {
+          "value": "{Palette.Error.90}",
+          "type": "color"
+        },
+        "Error medium": {
+          "value": "{Palette.Error.50}",
+          "type": "color"
+        },
+        "Warning light": {
+          "value": "{Palette.Warning.90}",
+          "type": "color"
+        },
+        "Warning medium": {
+          "value": "{Palette.Warning.50}",
+          "type": "color"
+        }
+      }
+    },
+    "Border": {
+      "Disabled": {
+        "Medium": {
+          "value": "{Palette.Neutral.80}",
+          "type": "color"
+        }
+      },
+      "Neutral": {
+        "Light": {
+          "value": "{Palette.Neutral.85}",
+          "type": "color"
+        },
+        "Dark": {
+          "value": "{Palette.Neutral.40}",
+          "type": "color"
+        },
+        "White": {
+          "Alpha 100": {
+            "value": "{Palette.Neutral.100 White}",
+            "type": "color"
+          },
+          "Alpha 50": {
+            "value": "{Palette.Neutral.100 White}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "0.5",
+                  "space": "lch"
+                }
+              }
+            }
+          },
+          "Alpha 20": {
+            "value": "{Palette.Neutral.100 White}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "0.2",
+                  "space": "lch"
+                }
+              }
+            }
+          }
+        },
+        "Black": {
+          "Alpha 100": {
+            "value": "{Palette.Neutral.00 Black}",
+            "type": "color"
+          },
+          "Alpha 08": {
+            "value": "{Palette.Neutral.00 Black}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "0.08",
+                  "space": "lch"
+                }
+              }
+            }
+          }
+        }
+      },
+      "Status": {
+        "Success": {
+          "value": "{Palette.Success.40}",
+          "type": "color"
+        },
+        "Error": {
+          "value": "{Palette.Error.50}",
+          "type": "color"
+        },
+        "Warning": {
+          "value": "{Palette.Warning.50}",
+          "type": "color"
+        }
+      },
+      "Text Field": {
+        "Enable": {
+          "value": "{Palette.Neutral.70}",
+          "type": "color"
+        },
+        "Hover": {
+          "value": "{Palette.Neutral.00 Black}",
+          "type": "color"
+        }
+      },
+      "Focus Ring": {
+        "Over light": {
+          "value": "{Palette.Primary.60}",
+          "type": "color"
+        },
+        "Over dark": {
+          "value": "{Palette.Primary.80}",
+          "type": "color"
+        }
+      },
+      "Primary": {
+        "Medium alpha 100": {
+          "value": "{Palette.Primary.50}",
+          "type": "color"
+        },
+        "Medium alpha 50": {
+          "value": "{Palette.Primary.50}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.5",
+                "space": "lch"
+              }
+            }
+          }
+        }
+      }
+    },
+    "Icon": {
+      "Neutral": {
+        "Black": {
+          "value": "{Palette.Neutral.00 Black}",
+          "type": "color"
+        },
+        "Secondary over dark": {
+          "value": "{Palette.Neutral.70}",
+          "type": "color"
+        },
+        "Secondary over light": {
+          "value": "{Palette.Neutral.50}",
+          "type": "color"
+        },
+        "White": {
+          "value": "{Palette.Neutral.100 White}",
+          "type": "color"
+        },
+        "Interactive": {
+          "Enable": {
+            "value": "{Palette.Neutral.00 Black}",
+            "type": "color"
+          },
+          "Hover": {
+            "value": "{Palette.Neutral.50}",
+            "type": "color"
+          },
+          "Pressed": {
+            "value": "{Palette.Neutral.70}",
+            "type": "color"
+          }
+        }
+      },
+      "Primary": {
+        "Medium": {
+          "value": "{Palette.Primary.50}",
+          "type": "color"
+        },
+        "Dark": {
+          "value": "{Palette.Primary.30}",
+          "type": "color"
+        }
+      },
+      "Disabled": {
+        "Medium": {
+          "value": "{Palette.Neutral.80}",
+          "type": "color"
+        },
+        "Over dark": {
+          "value": "{Palette.Neutral.60}",
+          "type": "color"
+        }
+      },
+      "Status": {
+        "Success": {
+          "value": "{Palette.Success.40}",
+          "type": "color"
+        },
+        "Error": {
+          "value": "{Palette.Error.50}",
+          "type": "color"
+        },
+        "Warning": {
+          "value": "{Palette.Warning.50}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

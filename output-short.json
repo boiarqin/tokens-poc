@@ -1,0 +1,144 @@
+{
+  "opacity": {
+    "12": {
+      "value": 0.12,
+      "type": "opacity"
+    },
+    "20": {
+      "value": 0.2,
+      "type": "opacity"
+    },
+    "31": {
+      "value": 0.31,
+      "type": "opacity"
+    },
+    "42": {
+      "value": 0.42,
+      "type": "opacity"
+    }
+  },
+  "sizing": {
+    "48": {
+      "value": 3,
+      "type": "sizing",
+      "description": "3 rem"
+    },
+    "56": {
+      "value": 3.5,
+      "type": "sizing",
+      "description": "3.5 rem"
+    },
+    "64": {
+      "value": 4,
+      "type": "sizing",
+      "description": "4 rem"
+    },
+    "xsm": {
+      "value": 0.25,
+      "type": "sizing",
+      "description": "0.25 rem"
+    },
+    "sm": {
+      "value": 0.5,
+      "type": "sizing",
+      "description": "0.5 rem"
+    },
+    "md": {
+      "value": 1,
+      "type": "sizing",
+      "description": "1 rem"
+    },
+    "lg": {
+      "value": 1.5,
+      "type": "sizing",
+      "description": "1.5 rem"
+    },
+    "xlg": {
+      "value": 2,
+      "type": "sizing",
+      "description": "2 rem"
+    }
+  },
+  "colors": {
+    "Ref": {
+      "Neutral": {
+        "10": {
+          "value": "#2a2929",
+          "type": "color",
+          "description": "Token=a1.ref.palette.neutral10\n\nLocations: \n\nRegular text\nAA    ✅\nAAA  ✅\n\nLarge text\nAA    ✅\nAAA  ✅"
+        },
+        "20": {
+          "value": "#3b3a3a",
+          "type": "color",
+          "description": "Token=a1.ref.palette.neutral20\n\nLocations: \n\nRegular text\nAA    ✅\nAAA  ✅\n\nLarge text\nAA    ✅\nAAA  ✅"
+        },
+        "30": {
+          "value": "#4b4a4a",
+          "type": "color",
+          "description": "Token=a1.ref.palette.neutral30\n\nLocations: \n\nRegular text\nAA    ✅\nAAA  ✅\n\nLarge text\nAA    ✅\nAAA  ✅"
+        },
+        "40": {
+          "value": "#626060",
+          "type": "color",
+          "description": "Token=a1.ref.palette.neutral40\n\nLocations: \n\nBlack Regular text\nAA    ❌\nAAA  ❌\n\nBlack Large text\nAA    ✅\nAAA  ❌\n\nWhite Regular text\nAA    ✅\nAAA  ❌\n\nWhite Large text\nAA    ✅\nAAA  ✅"
+        },
+        "50": {
+          "value": "#787676",
+          "type": "color",
+          "description": "Token=a1.ref.palette.neutral50\n\nLocations: \n\nBlack Regular text\nAA    ✅\nAAA  ❌\n\nBlack Large text\nAA    ✅\nAAA  ✅\n\nWhite Regular text\nAA    ✅\nAAA  ❌\n\nWhite Large text\nAA    ✅\nAAA  ✅"
+        },
+        "60": {
+          "value": "#959292",
+          "type": "color",
+          "description": "Token=a1.ref.palette.neutral60\n\nLocations: \n\nBlack Regular text\nAA    ✅\nAAA  ❌\n\nBlack Large text\nAA    ✅\nAAA  ✅\n\nWhite Regular text\nAA    ❌\nAAA  ❌\n\nWhite Large text\nAA    ✅\nAAA  ❌"
+        },
+        "70": {
+          "value": "#b3b0ae",
+          "type": "color",
+          "description": "Token=a1.ref.palette.neutral70\n\nLocations: \n\nRegular text\nAA    ✅\nAAA  ✅\n\nLarge text\nAA    ✅\nAAA  ✅"
+        },
+        "80": {
+          "value": "#cfcbca",
+          "type": "color",
+          "description": "Token=a1.ref.palette.neutral80\n\nLocations: \n\nRegular text\nAA    ✅\nAAA  ✅\n\nLarge text\nAA    ✅\nAAA  ✅"
+        },
+        "85": {
+          "value": "#e5e0dc",
+          "type": "color",
+          "description": "Token=a1.ref.palette.neutral85\n\nLocations: \n\nRegular text\nAA    ✅\nAAA  ✅\n\nLarge text\nAA    ✅\nAAA  ✅"
+        },
+        "90": {
+          "value": "#eceae7",
+          "type": "color",
+          "description": "Token=a1.ref.palette.neutral90\n\nLocations: \n\nRegular text\nAA    ✅\nAAA  ✅\n\nLarge text\nAA    ✅\nAAA  ✅"
+        },
+        "95": {
+          "value": "#f7f6f5",
+          "type": "color",
+          "description": "Token=a1.ref.palette.neutral95\n\nLocations: Table background\n\nRegular text\nAA    ✅\nAAA  ✅\n\nLarge text\nAA    ✅\nAAA  ✅"
+        },
+        "98": {
+          "value": "#fafafa",
+          "type": "color",
+          "description": "Token=a1.ref.palette.neutral98\n\nLocations: Text field background\n\nRegular text\nAA    ✅\nAAA  ✅\n\nLarge text\nAA    ✅\nAAA  ✅"
+        },
+        "100 White": {
+          "value": "#ffffff",
+          "type": "color",
+          "description": "Token=a1.ref.palette.neutral100\n\nLocations: Base\n\nRegular text\nAA    ✅\nAAA  ✅\n\nLarge text\nAA    ✅\nAAA  ✅"
+        },
+        "00 Black": {
+          "value": "#090909",
+          "type": "color",
+          "description": "Token=a1.ref.palette.neutral00\n\nLocations: Text, Backgrounds\n\nRegular text\nAA    ✅\nAAA  ✅\n\nLarge text\nAA    ✅\nAAA  ✅"
+        }
+      }
+    }
+  },
+  "tokenSetOrder": {
+    "0": {
+      "value": "global",
+      "type": "other"
+    }
+  }
+}

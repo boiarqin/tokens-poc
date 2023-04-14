@@ -1,0 +1,10 @@
+{
+    "Sem": {
+      "test": {
+        "color8": {
+          "value": "{global.colors.Ref.Neutral.80}",
+          "type": "color"
+        }
+      }
+    }
+  }
