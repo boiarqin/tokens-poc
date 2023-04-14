@@ -14,7 +14,7 @@ StyleDictionary.registerTransform({
     //   return token.attributes.category === 'color';
     // },
     transformer: function(token) {
-        return token.path.join(".").toLowerCase().replace(' ', '');
+        return token.path.join(".").toLowerCase().replaceAll(' ', '');
     }
   });
 
