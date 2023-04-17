@@ -67,6 +67,18 @@ StyleDictionary.registerTransform({
       }
   })
 
+  // custom formatter
+  // flatten everything to only use figma name
+  StyleDictionary.registerFormat({
+    name: 'chakra/flatten',
+    formatter: function({dictionary, platform, options, file}) {
+        const entries = dictionary.allTokens.map(token => {
+          return [token.figmaName, token.value]
+          })
+
+        return JSON.stringify(Object.fromEntries(entries))
+      }
+  })
 
   
 
@@ -88,6 +100,11 @@ const sd = StyleDictionary.extend({
             {
                 destination: 'colors.minify.json',
                 format: 'chakra/minify'
+            },
+            // this custom formatter flattens everything so we can take advantage of CLI/typing
+            {
+              destination: 'colors.flat.json',
+              format: 'chakra/flatten'
             },
             // this customer formatter demonstrates what could be possible
             // but may be redundant with the debug file.
