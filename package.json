@@ -2,18 +2,25 @@
   "name": "tokens-poc",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@chakra-ui/next-js": "^2.1.2",
     "@chakra-ui/react": "^2.5.5",
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
     "@tokens-studio/sd-transforms": "^0.5.7",
     "framer-motion": "^10.12.2",
+    "next": "13.3.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
     "sd-tailwindcss-transformer": "^1.2.0",
     "style-dictionary": "^3.7.2",
     "token-transformer": "^0.0.32"
