@@ -1,14 +1,8 @@
 'use client'
 import React from 'react';
 import { CacheProvider } from '@chakra-ui/next-js'
-import { extendTheme, ChakraProvider } from '@chakra-ui/react'
-
-import colors from '../build/js/colors.minify.json';
-
-// 2. Call `extendTheme` and pass your custom values
-const theme = extendTheme({
-  colors
-})
+import { ChakraProvider } from '@chakra-ui/react'
+import { theme } from './theme'
 
 export function Providers({ 
     children 

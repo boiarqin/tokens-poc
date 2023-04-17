@@ -1,1 +1,243 @@
-{"Palette":{"Neutral":{"10":"#2a2929","20":"#3b3a3a","30":"#4b4a4a","40":"#626060","50":"#787676","60":"#959292","70":"#b3b0ae","80":"#cfcbca","85":"#e5e0dc","90":"#eceae7","95":"#f7f6f5","98":"#fafafa","100 White":"#ffffff","00 Black":"#090909"},"Primary":{"10":"#130d0c","20":"#30211e","30":"#60433b","40":"#7d574d","50":"#9a6b5e","60":"#c08676","70":"#d0a498","80":"#dfc2bb","85":"#e8d6d1","90":"#efe1dd","95":"#f9f3f1"},"Success":{"10":"#000e03","20":"#002207","30":"#00450d","40":"#006714","50":"#008a1a","60":"#40a753","70":"#80c48c","75":"#a8d7b1","80":"#b8debf","90":"#e5f3e8"},"Error":{"10":"#140504","20":"#310d09","30":"#621a13","40":"#94271c","50":"#c53425","60":"#d3675c","70":"#e29a92","80":"#f1ccc8","90":"#f9ebe9"},"Warning":{"10":"#181000","20":"#3c2800","30":"#855001","40":"#be7302","50":"#ef8f00","60":"#f3b940","70":"#f7d080","80":"#fbe8bf","90":"#fdf6e5"}},"Color":{"Section bg":{"Neutral":{"Black":"#090909","White":"#ffffff","Extra light":"#f7f6f5","Light":"#eceae7"},"Primary":{"Extra light":"#f9f3f1","Light":"#efe1dd"}},"Text":{"Primary":{"Interactive":{"Enable":"#9a6b5e","Hover":"#d0a498","Pressed":"#e8d6d1"},"Medium":"#9a6b5e","Dark":"#60433b"},"Neutral":{"Interactive":{"Enable":"#090909","Hover":"#787676","Pressed":"#b3b0ae"},"Black":"#090909","White":"#ffffff","Secondary over dark":"#b3b0ae","Secondary over light":"#787676","Place holder":"#787676","Disabled":"#cfcbca"},"Status":{"Success":"#006714","Error":"#c53425","Warning medium":"#ef8f00","Warning dark":"#855001"}},"Container":{"Primary":{"Interactive":{"Enable":"#9a6b5e","Hover":"#7d574d","Pressed":"#60433b","Selection":"#9a6b5e","Alpha":{"Enable":"#c08676","Hover":"#c08676","Pressed":"#c08676"}},"Extra light":"#f9f3f1","Light":"#efe1dd","Medium light":"#c08676","Medium":"#9a6b5e","Medium dark":"#7d574d","Dark":"#60433b"},"Neutral":{"Black":{"Interactive":{"Enable":"#090909","Hover":"#787676","Pressed":"#b3b0ae","Alpha":{"Enable":"#090909","Hover":"#090909","Pressed":"#090909"}},"Alpha 100":"#090909"},"White":{"Interactive":{"Enable":"#ffffff","Hover":"#eceae7","Pressed":"#b3b0ae","Alpha":{"Enable":"#ffffff","Hover":"#ffffff","Pressed":"#ffffff"}},"Alpha 100":"#ffffff","Alpha 00":"#ffffff"},"Extra light":"#fafafa","Light":"#f7f6f5","Medium":"#b3b0ae","Medium dark":"#626060","Extra dark":"#2a2929","Medium alpha08":"#787676"},"Disabled":{"Dark":"#959292","Light":"#eceae7","Extra light":"#fafafa","Primary":"#efe1dd","Transparent":"#cfcbca"},"Status":{"Success light":"#e5f3e8","Success medium":"#006714","Error light":"#f9ebe9","Error medium":"#c53425","Warning light":"#fdf6e5","Warning medium":"#ef8f00"}},"Border":{"Disabled":{"Medium":"#cfcbca"},"Neutral":{"Light":"#e5e0dc","Dark":"#626060","White":{"Alpha 100":"#ffffff","Alpha 50":"#ffffff","Alpha 20":"#ffffff"},"Black":{"Alpha 100":"#090909","Alpha 08":"#090909"}},"Status":{"Success":"#006714","Error":"#c53425","Warning":"#ef8f00"},"Text Field":{"Enable":"#b3b0ae","Hover":"#090909"},"Focus Ring":{"Over light":"#c08676","Over dark":"#dfc2bb"},"Primary":{"Medium alpha 100":"#9a6b5e","Medium alpha 50":"#9a6b5e"}},"Icon":{"Neutral":{"Black":"#090909","Secondary over dark":"#b3b0ae","Secondary over light":"#787676","White":"#ffffff","Interactive":{"Enable":"#090909","Hover":"#787676","Pressed":"#b3b0ae"}},"Primary":{"Medium":"#9a6b5e","Dark":"#60433b"},"Disabled":{"Medium":"#cfcbca","Over dark":"#959292"},"Status":{"Success":"#006714","Error":"#c53425","Warning":"#ef8f00"}}}}
+{
+    "Palette": {
+        "Neutral": {
+            "10": "#2a2929",
+            "20": "#3b3a3a",
+            "30": "#4b4a4a",
+            "40": "#626060",
+            "50": "#787676",
+            "60": "#959292",
+            "70": "#b3b0ae",
+            "80": "#cfcbca",
+            "85": "#e5e0dc",
+            "90": "#eceae7",
+            "95": "#f7f6f5",
+            "98": "#fafafa",
+            "100 White": "#ffffff",
+            "00 Black": "#090909"
+        },
+        "Primary": {
+            "10": "#130d0c",
+            "20": "#30211e",
+            "30": "#60433b",
+            "40": "#7d574d",
+            "50": "#9a6b5e",
+            "60": "#c08676",
+            "70": "#d0a498",
+            "80": "#dfc2bb",
+            "85": "#e8d6d1",
+            "90": "#efe1dd",
+            "95": "#f9f3f1"
+        },
+        "Success": {
+            "10": "#000e03",
+            "20": "#002207",
+            "30": "#00450d",
+            "40": "#006714",
+            "50": "#008a1a",
+            "60": "#40a753",
+            "70": "#80c48c",
+            "75": "#a8d7b1",
+            "80": "#b8debf",
+            "90": "#e5f3e8"
+        },
+        "Error": {
+            "10": "#140504",
+            "20": "#310d09",
+            "30": "#621a13",
+            "40": "#94271c",
+            "50": "#c53425",
+            "60": "#d3675c",
+            "70": "#e29a92",
+            "80": "#f1ccc8",
+            "90": "#f9ebe9"
+        },
+        "Warning": {
+            "10": "#181000",
+            "20": "#3c2800",
+            "30": "#855001",
+            "40": "#be7302",
+            "50": "#ef8f00",
+            "60": "#f3b940",
+            "70": "#f7d080",
+            "80": "#fbe8bf",
+            "90": "#fdf6e5"
+        }
+    },
+    "Color": {
+        "Section bg": {
+            "Neutral": {
+                "Black": "#090909",
+                "White": "#ffffff",
+                "Extra light": "#f7f6f5",
+                "Light": "#eceae7"
+            },
+            "Primary": {
+                "Extra light": "#f9f3f1",
+                "Light": "#efe1dd"
+            }
+        },
+        "Text": {
+            "Primary": {
+                "Interactive": {
+                    "Enable": "#9a6b5e",
+                    "Hover": "#d0a498",
+                    "Pressed": "#e8d6d1"
+                },
+                "Medium": "#9a6b5e",
+                "Dark": "#60433b"
+            },
+            "Neutral": {
+                "Interactive": {
+                    "Enable": "#090909",
+                    "Hover": "#787676",
+                    "Pressed": "#b3b0ae"
+                },
+                "Black": "#090909",
+                "White": "#ffffff",
+                "Secondary over dark": "#b3b0ae",
+                "Secondary over light": "#787676",
+                "Place holder": "#787676",
+                "Disabled": "#cfcbca"
+            },
+            "Status": {
+                "Success": "#006714",
+                "Error": "#c53425",
+                "Warning medium": "#ef8f00",
+                "Warning dark": "#855001"
+            }
+        },
+        "Container": {
+            "Primary": {
+                "Interactive": {
+                    "Enable": "#9a6b5e",
+                    "Hover": "#7d574d",
+                    "Pressed": "#60433b",
+                    "Selection": "#9a6b5e",
+                    "Alpha": {
+                        "Enable": "#c08676",
+                        "Hover": "#c08676",
+                        "Pressed": "#c08676"
+                    }
+                },
+                "Extra light": "#f9f3f1",
+                "Light": "#efe1dd",
+                "Medium light": "#c08676",
+                "Medium": "#9a6b5e",
+                "Medium dark": "#7d574d",
+                "Dark": "#60433b"
+            },
+            "Neutral": {
+                "Black": {
+                    "Interactive": {
+                        "Enable": "#090909",
+                        "Hover": "#787676",
+                        "Pressed": "#b3b0ae",
+                        "Alpha": {
+                            "Enable": "#090909",
+                            "Hover": "#090909",
+                            "Pressed": "#090909"
+                        }
+                    },
+                    "Alpha 100": "#090909"
+                },
+                "White": {
+                    "Interactive": {
+                        "Enable": "#ffffff",
+                        "Hover": "#eceae7",
+                        "Pressed": "#b3b0ae",
+                        "Alpha": {
+                            "Enable": "#ffffff",
+                            "Hover": "#ffffff",
+                            "Pressed": "#ffffff"
+                        }
+                    },
+                    "Alpha 100": "#ffffff",
+                    "Alpha 00": "#ffffff"
+                },
+                "Extra light": "#fafafa",
+                "Light": "#f7f6f5",
+                "Medium": "#b3b0ae",
+                "Medium dark": "#626060",
+                "Extra dark": "#2a2929",
+                "Medium alpha08": "#787676"
+            },
+            "Disabled": {
+                "Dark": "#959292",
+                "Light": "#eceae7",
+                "Extra light": "#fafafa",
+                "Primary": "#efe1dd",
+                "Transparent": "#cfcbca"
+            },
+            "Status": {
+                "Success light": "#e5f3e8",
+                "Success medium": "#006714",
+                "Error light": "#f9ebe9",
+                "Error medium": "#c53425",
+                "Warning light": "#fdf6e5",
+                "Warning medium": "#ef8f00"
+            }
+        },
+        "Border": {
+            "Disabled": {
+                "Medium": "#cfcbca"
+            },
+            "Neutral": {
+                "Light": "#e5e0dc",
+                "Dark": "#626060",
+                "White": {
+                    "Alpha 100": "#ffffff",
+                    "Alpha 50": "#ffffff",
+                    "Alpha 20": "#ffffff"
+                },
+                "Black": {
+                    "Alpha 100": "#090909",
+                    "Alpha 08": "#090909"
+                }
+            },
+            "Status": {
+                "Success": "#006714",
+                "Error": "#c53425",
+                "Warning": "#ef8f00"
+            },
+            "Text Field": {
+                "Enable": "#b3b0ae",
+                "Hover": "#090909"
+            },
+            "Focus Ring": {
+                "Over light": "#c08676",
+                "Over dark": "#dfc2bb"
+            },
+            "Primary": {
+                "Medium alpha 100": "#9a6b5e",
+                "Medium alpha 50": "#9a6b5e"
+            }
+        },
+        "Icon": {
+            "Neutral": {
+                "Black": "#090909",
+                "Secondary over dark": "#b3b0ae",
+                "Secondary over light": "#787676",
+                "White": "#ffffff",
+                "Interactive": {
+                    "Enable": "#090909",
+                    "Hover": "#787676",
+                    "Pressed": "#b3b0ae"
+                }
+            },
+            "Primary": {
+                "Medium": "#9a6b5e",
+                "Dark": "#60433b"
+            },
+            "Disabled": {
+                "Medium": "#cfcbca",
+                "Over dark": "#959292"
+            },
+            "Status": {
+                "Success": "#006714",
+                "Error": "#c53425",
+                "Warning": "#ef8f00"
+            }
+        }
+    }
+}

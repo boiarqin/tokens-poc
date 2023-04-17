@@ -20,7 +20,7 @@ export default function Home() {
       <main>
         <Box bgColor="red.100">I am red.100 (Chakra default)</Box>
         <Box bgColor="Palette.Primary.50">I am Palette/Primary/50</Box>
-        <Box bgColor="Color.">I am Color/Container/Primary/Interactive/Enable</Box>
+        <Box bgColor="Color.Container.Primary.Interactive.Enable">I am Color/Container/Primary/Interactive/Enable</Box>
 
       <SimpleGrid w="700px" columns={8} spacing="8px">
         {

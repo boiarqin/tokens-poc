@@ -8,8 +8,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "theme": "chakra-cli tokens ./pages/providers.js",
-    "theme:watch": "chakra-cli tokens ./pages/providers.js --watch"
+    "theme": "chakra-cli tokens ./pages/theme.ts",
+    "theme:watch": "chakra-cli tokens ./pages/theme.ts --watch"
   },
   "author": "",
   "license": "ISC",
