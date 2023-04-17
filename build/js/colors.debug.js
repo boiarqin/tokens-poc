@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 14 Apr 2023 16:01:43 GMT
+ * Generated on Mon, 17 Apr 2023 15:57:43 GMT
  */
 
 var _styleDictionary = {
@@ -9,7 +9,7 @@ var _styleDictionary = {
       "10": {
         "value": "#2a2929",
         "type": "color",
-        "filePath": "alle/ref-colors.json",
+        "filePath": "tokens/ref-colors.json",
         "isSource": true,
         "original": {
           "value": "#2a2929",
@@ -19,7 +19,7 @@ var _styleDictionary = {
         "attributes": {
           "value": "#2a2929",
           "type": "color",
-          "filePath": "alle/ref-colors.json",
+          "filePath": "tokens/ref-colors.json",
           "isSource": true,
           "original": {
             "value": "#2a2929",
@@ -46,7 +46,7 @@ var _styleDictionary = {
       "20": {
         "value": "#3b3a3a",
         "type": "color",
-        "filePath": "alle/ref-colors.json",
+        "filePath": "tokens/ref-colors.json",
         "isSource": true,
         "original": {
           "value": "#3b3a3a",
@@ -56,7 +56,7 @@ var _styleDictionary = {
         "attributes": {
           "value": "#3b3a3a",
           "type": "color",
-          "filePath": "alle/ref-colors.json",
+          "filePath": "tokens/ref-colors.json",
           "isSource": true,
           "original": {
             "value": "#3b3a3a",
@@ -83,7 +83,7 @@ var _styleDictionary = {
       "30": {
         "value": "#4b4a4a",
         "type": "color",
-        "filePath": "alle/ref-colors.json",
+        "filePath": "tokens/ref-colors.json",
         "isSource": true,
         "original": {
           "value": "#4b4a4a",
@@ -93,7 +93,7 @@ var _styleDictionary = {
         "attributes": {
           "value": "#4b4a4a",
           "type": "color",
-          "filePath": "alle/ref-colors.json",
+          "filePath": "tokens/ref-colors.json",
           "isSource": true,
           "original": {
             "value": "#4b4a4a",
@@ -120,7 +120,7 @@ var _styleDictionary = {
       "40": {
         "value": "#626060",
         "type": "color",
-        "filePath": "alle/ref-colors.json",
+        "filePath": "tokens/ref-colors.json",
         "isSource": true,
         "original": {
           "value": "#626060",
@@ -130,7 +130,7 @@ var _styleDictionary = {
         "attributes": {
           "value": "#626060",
           "type": "color",
-          "filePath": "alle/ref-colors.json",
+          "filePath": "tokens/ref-colors.json",
           "isSource": true,
           "original": {
             "value": "#626060",
@@ -157,7 +157,7 @@ var _styleDictionary = {
       "50": {
         "value": "#787676",
         "type": "color",
-        "filePath": "alle/ref-colors.json",
+        "filePath": "tokens/ref-colors.json",
         "isSource": true,
         "original": {
           "value": "#787676",
@@ -167,7 +167,7 @@ var _styleDictionary = {
         "attributes": {
           "value": "#787676",
           "type": "color",
-          "filePath": "alle/ref-colors.json",
+          "filePath": "tokens/ref-colors.json",
           "isSource": true,
           "original": {
             "value": "#787676",
@@ -194,7 +194,7 @@ var _styleDictionary = {
       "60": {
         "value": "#959292",
         "type": "color",
-        "filePath": "alle/ref-colors.json",
+        "filePath": "tokens/ref-colors.json",
         "isSource": true,
         "original": {
           "value": "#959292",
@@ -204,7 +204,7 @@ var _styleDictionary = {
         "attributes": {
           "value": "#959292",
           "type": "color",
-          "filePath": "alle/ref-colors.json",
+          "filePath": "tokens/ref-colors.json",
           "isSource": true,
           "original": {
             "value": "#959292",
@@ -231,7 +231,7 @@ var _styleDictionary = {
       "70": {
         "value": "#b3b0ae",
         "type": "color",
-        "filePath": "alle/ref-colors.json",
+        "filePath": "tokens/ref-colors.json",
         "isSource": true,
         "original": {
           "value": "#b3b0ae",
@@ -241,7 +241,7 @@ var _styleDictionary = {
         "attributes": {
           "value": "#b3b0ae",
           "type": "color",
-          "filePath": "alle/ref-colors.json",
+          "filePath": "tokens/ref-colors.json",
           "isSource": true,
           "original": {
             "value": "#b3b0ae",
@@ -268,7 +268,7 @@ var _styleDictionary = {
       "80": {
         "value": "#cfcbca",
         "type": "color",
-        "filePath": "alle/ref-colors.json",
+        "filePath": "tokens/ref-colors.json",
         "isSource": true,
         "original": {
           "value": "#cfcbca",
@@ -278,7 +278,7 @@ var _styleDictionary = {
         "attributes": {
           "value": "#cfcbca",
           "type": "color",
-          "filePath": "alle/ref-colors.json",
+          "filePath": "tokens/ref-colors.json",
           "isSource": true,
           "original": {
             "value": "#cfcbca",
@@ -305,7 +305,7 @@ var _styleDictionary = {
       "85": {
         "value": "#e5e0dc",
         "type": "color",
-        "filePath": "alle/ref-colors.json",
+        "filePath": "tokens/ref-colors.json",
         "isSource": true,
         "original": {
           "value": "#e5e0dc",
@@ -315,7 +315,7 @@ var _styleDictionary = {
         "attributes": {
           "value": "#e5e0dc",
           "type": "color",
-          "filePath": "alle/ref-colors.json",
+          "filePath": "tokens/ref-colors.json",
           "isSource": true,
           "original": {
             "value": "#e5e0dc",
@@ -342,7 +342,7 @@ var _styleDictionary = {
       "90": {
         "value": "#eceae7",
         "type": "color",
-        "filePath": "alle/ref-colors.json",
+        "filePath": "tokens/ref-colors.json",
         "isSource": true,
         "original": {
           "value": "#eceae7",
@@ -352,7 +352,7 @@ var _styleDictionary = {
         "attributes": {
           "value": "#eceae7",
           "type": "color",
-          "filePath": "alle/ref-colors.json",
+          "filePath": "tokens/ref-colors.json",
           "isSource": true,
           "original": {
             "value": "#eceae7",
@@ -379,7 +379,7 @@ var _styleDictionary = {
       "95": {
         "value": "#f7f6f5",
         "type": "color",
-        "filePath": "alle/ref-colors.json",
+        "filePath": "tokens/ref-colors.json",
         "isSource": true,
         "original": {
           "value": "#f7f6f5",
@@ -389,7 +389,7 @@ var _styleDictionary = {
         "attributes": {
           "value": "#f7f6f5",
           "type": "color",
-          "filePath": "alle/ref-colors.json",
+          "filePath": "tokens/ref-colors.json",
           "isSource": true,
           "original": {
             "value": "#f7f6f5",
@@ -416,7 +416,7 @@ var _styleDictionary = {
       "98": {
         "value": "#fafafa",
         "type": "color",
-        "filePath": "alle/ref-colors.json",
+        "filePath": "tokens/ref-colors.json",
         "isSource": true,
         "original": {
           "value": "#fafafa",
@@ -426,7 +426,7 @@ var _styleDictionary = {
         "attributes": {
           "value": "#fafafa",
           "type": "color",
-          "filePath": "alle/ref-colors.json",
+          "filePath": "tokens/ref-colors.json",
           "isSource": true,
           "original": {
             "value": "#fafafa",
@@ -453,7 +453,7 @@ var _styleDictionary = {
       "100 White": {
         "value": "#ffffff",
         "type": "color",
-        "filePath": "alle/ref-colors.json",
+        "filePath": "tokens/ref-colors.json",
         "isSource": true,
         "original": {
           "value": "#ffffff",
@@ -463,7 +463,7 @@ var _styleDictionary = {
         "attributes": {
           "value": "#ffffff",
           "type": "color",
-          "filePath": "alle/ref-colors.json",
+          "filePath": "tokens/ref-colors.json",
           "isSource": true,
           "original": {
             "value": "#ffffff",
@@ -490,7 +490,7 @@ var _styleDictionary = {
       "00 Black": {
         "value": "#090909",
         "type": "color",
-        "filePath": "alle/ref-colors.json",
+        "filePath": "tokens/ref-colors.json",
         "isSource": true,
         "original": {
           "value": "#090909",
@@ -500,7 +500,7 @@ var _styleDictionary = {
         "attributes": {
           "value": "#090909",
           "type": "color",
-          "filePath": "alle/ref-colors.json",
+          "filePath": "tokens/ref-colors.json",
           "isSource": true,
           "original": {
             "value": "#090909",
@@ -529,7 +529,7 @@ var _styleDictionary = {
       "10": {
         "value": "#130d0c",
         "type": "color",
-        "filePath": "alle/ref-colors.json",
+        "filePath": "tokens/ref-colors.json",
         "isSource": true,
         "original": {
           "value": "#130d0c",
@@ -539,7 +539,7 @@ var _styleDictionary = {
         "attributes": {
           "value": "#130d0c",
           "type": "color",
-          "filePath": "alle/ref-colors.json",
+          "filePath": "tokens/ref-colors.json",
           "isSource": true,
           "original": {
             "value": "#130d0c",
@@ -566,7 +566,7 @@ var _styleDictionary = {
       "20": {
         "value": "#30211e",
         "type": "color",
-        "filePath": "alle/ref-colors.json",
+        "filePath": "tokens/ref-colors.json",
         "isSource": true,
         "original": {
           "value": "#30211e",
@@ -576,7 +576,7 @@ var _styleDictionary = {
         "attributes": {
           "value": "#30211e",
           "type": "color",
-          "filePath": "alle/ref-colors.json",
+          "filePath": "tokens/ref-colors.json",
           "isSource": true,
           "original": {
             "value": "#30211e",
@@ -603,7 +603,7 @@ var _styleDictionary = {
       "30": {
         "value": "#60433b",
         "type": "color",
-        "filePath": "alle/ref-colors.json",
+        "filePath": "tokens/ref-colors.json",
         "isSource": true,
         "original": {
           "value": "#60433b",
@@ -613,7 +613,7 @@ var _styleDictionary = {
         "attributes": {
           "value": "#60433b",
           "type": "color",
-          "filePath": "alle/ref-colors.json",
+          "filePath": "tokens/ref-colors.json",
           "isSource": true,
           "original": {
             "value": "#60433b",
@@ -640,7 +640,7 @@ var _styleDictionary = {
       "40": {
         "value": "#7d574d",
         "type": "color",
-        "filePath": "alle/ref-colors.json",
+        "filePath": "tokens/ref-colors.json",
         "isSource": true,
         "original": {
           "value": "#7d574d",
@@ -650,7 +650,7 @@ var _styleDictionary = {
         "attributes": {
           "value": "#7d574d",
           "type": "color",
-          "filePath": "alle/ref-colors.json",
+          "filePath": "tokens/ref-colors.json",
           "isSource": true,
           "original": {
             "value": "#7d574d",
@@ -677,7 +677,7 @@ var _styleDictionary = {
       "50": {
         "value": "#9a6b5e",
         "type": "color",
-        "filePath": "alle/ref-colors.json",
+        "filePath": "tokens/ref-colors.json",
         "isSource": true,
         "original": {
           "value": "#9a6b5e",
@@ -687,7 +687,7 @@ var _styleDictionary = {
         "attributes": {
           "value": "#9a6b5e",
           "type": "color",
-          "filePath": "alle/ref-colors.json",
+          "filePath": "tokens/ref-colors.json",
           "isSource": true,
           "original": {
             "value": "#9a6b5e",
@@ -714,7 +714,7 @@ var _styleDictionary = {
       "60": {
         "value": "#c08676",
         "type": "color",
-        "filePath": "alle/ref-colors.json",
+        "filePath": "tokens/ref-colors.json",
         "isSource": true,
         "original": {
           "value": "#c08676",
@@ -724,7 +724,7 @@ var _styleDictionary = {
         "attributes": {
           "value": "#c08676",
           "type": "color",
-          "filePath": "alle/ref-colors.json",
+          "filePath": "tokens/ref-colors.json",
           "isSource": true,
           "original": {
             "value": "#c08676",
@@ -751,7 +751,7 @@ var _styleDictionary = {
       "70": {
         "value": "#d0a498",
         "type": "color",
-        "filePath": "alle/ref-colors.json",
+        "filePath": "tokens/ref-colors.json",
         "isSource": true,
         "original": {
           "value": "#d0a498",
@@ -761,7 +761,7 @@ var _styleDictionary = {
         "attributes": {
           "value": "#d0a498",
           "type": "color",
-          "filePath": "alle/ref-colors.json",
+          "filePath": "tokens/ref-colors.json",
           "isSource": true,
           "original": {
             "value": "#d0a498",
@@ -788,7 +788,7 @@ var _styleDictionary = {
       "80": {
         "value": "#dfc2bb",
         "type": "color",
-        "filePath": "alle/ref-colors.json",
+        "filePath": "tokens/ref-colors.json",
         "isSource": true,
         "original": {
           "value": "#dfc2bb",
@@ -798,7 +798,7 @@ var _styleDictionary = {
         "attributes": {
           "value": "#dfc2bb",
           "type": "color",
-          "filePath": "alle/ref-colors.json",
+          "filePath": "tokens/ref-colors.json",
           "isSource": true,
           "original": {
             "value": "#dfc2bb",
@@ -825,7 +825,7 @@ var _styleDictionary = {
       "85": {
         "value": "#e8d6d1",
         "type": "color",
-        "filePath": "alle/ref-colors.json",
+        "filePath": "tokens/ref-colors.json",
         "isSource": true,
         "original": {
           "value": "#e8d6d1",
@@ -835,7 +835,7 @@ var _styleDictionary = {
         "attributes": {
           "value": "#e8d6d1",
           "type": "color",
-          "filePath": "alle/ref-colors.json",
+          "filePath": "tokens/ref-colors.json",
           "isSource": true,
           "original": {
             "value": "#e8d6d1",
@@ -862,7 +862,7 @@ var _styleDictionary = {
       "90": {
         "value": "#efe1dd",
         "type": "color",
-        "filePath": "alle/ref-colors.json",
+        "filePath": "tokens/ref-colors.json",
         "isSource": true,
         "original": {
           "value": "#efe1dd",
@@ -872,7 +872,7 @@ var _styleDictionary = {
         "attributes": {
           "value": "#efe1dd",
           "type": "color",
-          "filePath": "alle/ref-colors.json",
+          "filePath": "tokens/ref-colors.json",
           "isSource": true,
           "original": {
             "value": "#efe1dd",
@@ -899,7 +899,7 @@ var _styleDictionary = {
       "95": {
         "value": "#f9f3f1",
         "type": "color",
-        "filePath": "alle/ref-colors.json",
+        "filePath": "tokens/ref-colors.json",
         "isSource": true,
         "original": {
           "value": "#f9f3f1",
@@ -909,7 +909,7 @@ var _styleDictionary = {
         "attributes": {
           "value": "#f9f3f1",
           "type": "color",
-          "filePath": "alle/ref-colors.json",
+          "filePath": "tokens/ref-colors.json",
           "isSource": true,
           "original": {
             "value": "#f9f3f1",
@@ -938,7 +938,7 @@ var _styleDictionary = {
       "10": {
         "value": "#000e03",
         "type": "color",
-        "filePath": "alle/ref-colors.json",
+        "filePath": "tokens/ref-colors.json",
         "isSource": true,
         "original": {
           "value": "#000e03",
@@ -948,7 +948,7 @@ var _styleDictionary = {
         "attributes": {
           "value": "#000e03",
           "type": "color",
-          "filePath": "alle/ref-colors.json",
+          "filePath": "tokens/ref-colors.json",
           "isSource": true,
           "original": {
             "value": "#000e03",
@@ -975,7 +975,7 @@ var _styleDictionary = {
       "20": {
         "value": "#002207",
         "type": "color",
-        "filePath": "alle/ref-colors.json",
+        "filePath": "tokens/ref-colors.json",
         "isSource": true,
         "original": {
           "value": "#002207",
@@ -985,7 +985,7 @@ var _styleDictionary = {
         "attributes": {
           "value": "#002207",
           "type": "color",
-          "filePath": "alle/ref-colors.json",
+          "filePath": "tokens/ref-colors.json",
           "isSource": true,
           "original": {
             "value": "#002207",
@@ -1012,7 +1012,7 @@ var _styleDictionary = {
       "30": {
         "value": "#00450d",
         "type": "color",
-        "filePath": "alle/ref-colors.json",
+        "filePath": "tokens/ref-colors.json",
         "isSource": true,
         "original": {
           "value": "#00450d",
@@ -1022,7 +1022,7 @@ var _styleDictionary = {
         "attributes": {
           "value": "#00450d",
           "type": "color",
-          "filePath": "alle/ref-colors.json",
+          "filePath": "tokens/ref-colors.json",
           "isSource": true,
           "original": {
             "value": "#00450d",
@@ -1049,7 +1049,7 @@ var _styleDictionary = {
       "40": {
         "value": "#006714",
         "type": "color",
-        "filePath": "alle/ref-colors.json",
+        "filePath": "tokens/ref-colors.json",
         "isSource": true,
         "original": {
           "value": "#006714",
@@ -1059,7 +1059,7 @@ var _styleDictionary = {
         "attributes": {
           "value": "#006714",
           "type": "color",
-          "filePath": "alle/ref-colors.json",
+          "filePath": "tokens/ref-colors.json",
           "isSource": true,
           "original": {
             "value": "#006714",
@@ -1086,7 +1086,7 @@ var _styleDictionary = {
       "50": {
         "value": "#008a1a",
         "type": "color",
-        "filePath": "alle/ref-colors.json",
+        "filePath": "tokens/ref-colors.json",
         "isSource": true,
         "original": {
           "value": "#008a1a",
@@ -1096,7 +1096,7 @@ var _styleDictionary = {
         "attributes": {
           "value": "#008a1a",
           "type": "color",
-          "filePath": "alle/ref-colors.json",
+          "filePath": "tokens/ref-colors.json",
           "isSource": true,
           "original": {
             "value": "#008a1a",
@@ -1123,7 +1123,7 @@ var _styleDictionary = {
       "60": {
         "value": "#40a753",
         "type": "color",
-        "filePath": "alle/ref-colors.json",
+        "filePath": "tokens/ref-colors.json",
         "isSource": true,
         "original": {
           "value": "#40a753",
@@ -1133,7 +1133,7 @@ var _styleDictionary = {
         "attributes": {
           "value": "#40a753",
           "type": "color",
-          "filePath": "alle/ref-colors.json",
+          "filePath": "tokens/ref-colors.json",
           "isSource": true,
           "original": {
             "value": "#40a753",
@@ -1160,7 +1160,7 @@ var _styleDictionary = {
       "70": {
         "value": "#80c48c",
         "type": "color",
-        "filePath": "alle/ref-colors.json",
+        "filePath": "tokens/ref-colors.json",
         "isSource": true,
         "original": {
           "value": "#80c48c",
@@ -1170,7 +1170,7 @@ var _styleDictionary = {
         "attributes": {
           "value": "#80c48c",
           "type": "color",
-          "filePath": "alle/ref-colors.json",
+          "filePath": "tokens/ref-colors.json",
           "isSource": true,
           "original": {
             "value": "#80c48c",
@@ -1197,7 +1197,7 @@ var _styleDictionary = {
       "75": {
         "value": "#a8d7b1",
         "type": "color",
-        "filePath": "alle/ref-colors.json",
+        "filePath": "tokens/ref-colors.json",
         "isSource": true,
         "original": {
           "value": "#a8d7b1",
@@ -1207,7 +1207,7 @@ var _styleDictionary = {
         "attributes": {
           "value": "#a8d7b1",
           "type": "color",
-          "filePath": "alle/ref-colors.json",
+          "filePath": "tokens/ref-colors.json",
           "isSource": true,
           "original": {
             "value": "#a8d7b1",
@@ -1234,7 +1234,7 @@ var _styleDictionary = {
       "80": {
         "value": "#b8debf",
         "type": "color",
-        "filePath": "alle/ref-colors.json",
+        "filePath": "tokens/ref-colors.json",
         "isSource": true,
         "original": {
           "value": "#b8debf",
@@ -1244,7 +1244,7 @@ var _styleDictionary = {
         "attributes": {
           "value": "#b8debf",
           "type": "color",
-          "filePath": "alle/ref-colors.json",
+          "filePath": "tokens/ref-colors.json",
           "isSource": true,
           "original": {
             "value": "#b8debf",
@@ -1271,7 +1271,7 @@ var _styleDictionary = {
       "90": {
         "value": "#e5f3e8",
         "type": "color",
-        "filePath": "alle/ref-colors.json",
+        "filePath": "tokens/ref-colors.json",
         "isSource": true,
         "original": {
           "value": "#e5f3e8",
@@ -1281,7 +1281,7 @@ var _styleDictionary = {
         "attributes": {
           "value": "#e5f3e8",
           "type": "color",
-          "filePath": "alle/ref-colors.json",
+          "filePath": "tokens/ref-colors.json",
           "isSource": true,
           "original": {
             "value": "#e5f3e8",
@@ -1310,7 +1310,7 @@ var _styleDictionary = {
       "10": {
         "value": "#140504",
         "type": "color",
-        "filePath": "alle/ref-colors.json",
+        "filePath": "tokens/ref-colors.json",
         "isSource": true,
         "original": {
           "value": "#140504",
@@ -1320,7 +1320,7 @@ var _styleDictionary = {
         "attributes": {
           "value": "#140504",
           "type": "color",
-          "filePath": "alle/ref-colors.json",
+          "filePath": "tokens/ref-colors.json",
           "isSource": true,
           "original": {
             "value": "#140504",
@@ -1347,7 +1347,7 @@ var _styleDictionary = {
       "20": {
         "value": "#310d09",
         "type": "color",
-        "filePath": "alle/ref-colors.json",
+        "filePath": "tokens/ref-colors.json",
         "isSource": true,
         "original": {
           "value": "#310d09",
@@ -1357,7 +1357,7 @@ var _styleDictionary = {
         "attributes": {
           "value": "#310d09",
           "type": "color",
-          "filePath": "alle/ref-colors.json",
+          "filePath": "tokens/ref-colors.json",
           "isSource": true,
           "original": {
             "value": "#310d09",
@@ -1384,7 +1384,7 @@ var _styleDictionary = {
       "30": {
         "value": "#621a13",
         "type": "color",
-        "filePath": "alle/ref-colors.json",
+        "filePath": "tokens/ref-colors.json",
         "isSource": true,
         "original": {
           "value": "#621a13",
@@ -1394,7 +1394,7 @@ var _styleDictionary = {
         "attributes": {
           "value": "#621a13",
           "type": "color",
-          "filePath": "alle/ref-colors.json",
+          "filePath": "tokens/ref-colors.json",
           "isSource": true,
           "original": {
             "value": "#621a13",
@@ -1421,7 +1421,7 @@ var _styleDictionary = {
       "40": {
         "value": "#94271c",
         "type": "color",
-        "filePath": "alle/ref-colors.json",
+        "filePath": "tokens/ref-colors.json",
         "isSource": true,
         "original": {
           "value": "#94271c",
@@ -1431,7 +1431,7 @@ var _styleDictionary = {
         "attributes": {
           "value": "#94271c",
           "type": "color",
-          "filePath": "alle/ref-colors.json",
+          "filePath": "tokens/ref-colors.json",
           "isSource": true,
           "original": {
             "value": "#94271c",
@@ -1458,7 +1458,7 @@ var _styleDictionary = {
       "50": {
         "value": "#c53425",
         "type": "color",
-        "filePath": "alle/ref-colors.json",
+        "filePath": "tokens/ref-colors.json",
         "isSource": true,
         "original": {
           "value": "#c53425",
@@ -1468,7 +1468,7 @@ var _styleDictionary = {
         "attributes": {
           "value": "#c53425",
           "type": "color",
-          "filePath": "alle/ref-colors.json",
+          "filePath": "tokens/ref-colors.json",
           "isSource": true,
           "original": {
             "value": "#c53425",
@@ -1495,7 +1495,7 @@ var _styleDictionary = {
       "60": {
         "value": "#d3675c",
         "type": "color",
-        "filePath": "alle/ref-colors.json",
+        "filePath": "tokens/ref-colors.json",
         "isSource": true,
         "original": {
           "value": "#d3675c",
@@ -1505,7 +1505,7 @@ var _styleDictionary = {
         "attributes": {
           "value": "#d3675c",
           "type": "color",
-          "filePath": "alle/ref-colors.json",
+          "filePath": "tokens/ref-colors.json",
           "isSource": true,
           "original": {
             "value": "#d3675c",
@@ -1532,7 +1532,7 @@ var _styleDictionary = {
       "70": {
         "value": "#e29a92",
         "type": "color",
-        "filePath": "alle/ref-colors.json",
+        "filePath": "tokens/ref-colors.json",
         "isSource": true,
         "original": {
           "value": "#e29a92",
@@ -1542,7 +1542,7 @@ var _styleDictionary = {
         "attributes": {
           "value": "#e29a92",
           "type": "color",
-          "filePath": "alle/ref-colors.json",
+          "filePath": "tokens/ref-colors.json",
           "isSource": true,
           "original": {
             "value": "#e29a92",
@@ -1569,7 +1569,7 @@ var _styleDictionary = {
       "80": {
         "value": "#f1ccc8",
         "type": "color",
-        "filePath": "alle/ref-colors.json",
+        "filePath": "tokens/ref-colors.json",
         "isSource": true,
         "original": {
           "value": "#f1ccc8",
@@ -1579,7 +1579,7 @@ var _styleDictionary = {
         "attributes": {
           "value": "#f1ccc8",
           "type": "color",
-          "filePath": "alle/ref-colors.json",
+          "filePath": "tokens/ref-colors.json",
           "isSource": true,
           "original": {
             "value": "#f1ccc8",
@@ -1606,7 +1606,7 @@ var _styleDictionary = {
       "90": {
         "value": "#f9ebe9",
         "type": "color",
-        "filePath": "alle/ref-colors.json",
+        "filePath": "tokens/ref-colors.json",
         "isSource": true,
         "original": {
           "value": "#f9ebe9",
@@ -1616,7 +1616,7 @@ var _styleDictionary = {
         "attributes": {
           "value": "#f9ebe9",
           "type": "color",
-          "filePath": "alle/ref-colors.json",
+          "filePath": "tokens/ref-colors.json",
           "isSource": true,
           "original": {
             "value": "#f9ebe9",
@@ -1645,7 +1645,7 @@ var _styleDictionary = {
       "10": {
         "value": "#181000",
         "type": "color",
-        "filePath": "alle/ref-colors.json",
+        "filePath": "tokens/ref-colors.json",
         "isSource": true,
         "original": {
           "value": "#181000",
@@ -1655,7 +1655,7 @@ var _styleDictionary = {
         "attributes": {
           "value": "#181000",
           "type": "color",
-          "filePath": "alle/ref-colors.json",
+          "filePath": "tokens/ref-colors.json",
           "isSource": true,
           "original": {
             "value": "#181000",
@@ -1682,7 +1682,7 @@ var _styleDictionary = {
       "20": {
         "value": "#3c2800",
         "type": "color",
-        "filePath": "alle/ref-colors.json",
+        "filePath": "tokens/ref-colors.json",
         "isSource": true,
         "original": {
           "value": "#3c2800",
@@ -1692,7 +1692,7 @@ var _styleDictionary = {
         "attributes": {
           "value": "#3c2800",
           "type": "color",
-          "filePath": "alle/ref-colors.json",
+          "filePath": "tokens/ref-colors.json",
           "isSource": true,
           "original": {
             "value": "#3c2800",
@@ -1719,7 +1719,7 @@ var _styleDictionary = {
       "30": {
         "value": "#855001",
         "type": "color",
-        "filePath": "alle/ref-colors.json",
+        "filePath": "tokens/ref-colors.json",
         "isSource": true,
         "original": {
           "value": "#855001",
@@ -1729,7 +1729,7 @@ var _styleDictionary = {
         "attributes": {
           "value": "#855001",
           "type": "color",
-          "filePath": "alle/ref-colors.json",
+          "filePath": "tokens/ref-colors.json",
           "isSource": true,
           "original": {
             "value": "#855001",
@@ -1756,7 +1756,7 @@ var _styleDictionary = {
       "40": {
         "value": "#be7302",
         "type": "color",
-        "filePath": "alle/ref-colors.json",
+        "filePath": "tokens/ref-colors.json",
         "isSource": true,
         "original": {
           "value": "#be7302",
@@ -1766,7 +1766,7 @@ var _styleDictionary = {
         "attributes": {
           "value": "#be7302",
           "type": "color",
-          "filePath": "alle/ref-colors.json",
+          "filePath": "tokens/ref-colors.json",
           "isSource": true,
           "original": {
             "value": "#be7302",
@@ -1793,7 +1793,7 @@ var _styleDictionary = {
       "50": {
         "value": "#ef8f00",
         "type": "color",
-        "filePath": "alle/ref-colors.json",
+        "filePath": "tokens/ref-colors.json",
         "isSource": true,
         "original": {
           "value": "#ef8f00",
@@ -1803,7 +1803,7 @@ var _styleDictionary = {
         "attributes": {
           "value": "#ef8f00",
           "type": "color",
-          "filePath": "alle/ref-colors.json",
+          "filePath": "tokens/ref-colors.json",
           "isSource": true,
           "original": {
             "value": "#ef8f00",
@@ -1830,7 +1830,7 @@ var _styleDictionary = {
       "60": {
         "value": "#f3b940",
         "type": "color",
-        "filePath": "alle/ref-colors.json",
+        "filePath": "tokens/ref-colors.json",
         "isSource": true,
         "original": {
           "value": "#f3b940",
@@ -1840,7 +1840,7 @@ var _styleDictionary = {
         "attributes": {
           "value": "#f3b940",
           "type": "color",
-          "filePath": "alle/ref-colors.json",
+          "filePath": "tokens/ref-colors.json",
           "isSource": true,
           "original": {
             "value": "#f3b940",
@@ -1867,7 +1867,7 @@ var _styleDictionary = {
       "70": {
         "value": "#f7d080",
         "type": "color",
-        "filePath": "alle/ref-colors.json",
+        "filePath": "tokens/ref-colors.json",
         "isSource": true,
         "original": {
           "value": "#f7d080",
@@ -1877,7 +1877,7 @@ var _styleDictionary = {
         "attributes": {
           "value": "#f7d080",
           "type": "color",
-          "filePath": "alle/ref-colors.json",
+          "filePath": "tokens/ref-colors.json",
           "isSource": true,
           "original": {
             "value": "#f7d080",
@@ -1904,7 +1904,7 @@ var _styleDictionary = {
       "80": {
         "value": "#fbe8bf",
         "type": "color",
-        "filePath": "alle/ref-colors.json",
+        "filePath": "tokens/ref-colors.json",
         "isSource": true,
         "original": {
           "value": "#fbe8bf",
@@ -1914,7 +1914,7 @@ var _styleDictionary = {
         "attributes": {
           "value": "#fbe8bf",
           "type": "color",
-          "filePath": "alle/ref-colors.json",
+          "filePath": "tokens/ref-colors.json",
           "isSource": true,
           "original": {
             "value": "#fbe8bf",
@@ -1941,7 +1941,7 @@ var _styleDictionary = {
       "90": {
         "value": "#fdf6e5",
         "type": "color",
-        "filePath": "alle/ref-colors.json",
+        "filePath": "tokens/ref-colors.json",
         "isSource": true,
         "original": {
           "value": "#fdf6e5",
@@ -1951,7 +1951,7 @@ var _styleDictionary = {
         "attributes": {
           "value": "#fdf6e5",
           "type": "color",
-          "filePath": "alle/ref-colors.json",
+          "filePath": "tokens/ref-colors.json",
           "isSource": true,
           "original": {
             "value": "#fdf6e5",
@@ -1983,7 +1983,7 @@ var _styleDictionary = {
         "Black": {
           "value": "#090909",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Neutral.00 Black}",
@@ -1993,7 +1993,7 @@ var _styleDictionary = {
           "attributes": {
             "value": "#090909",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Neutral.00 Black}",
@@ -2023,7 +2023,7 @@ var _styleDictionary = {
         "White": {
           "value": "#ffffff",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Neutral.100 White}",
@@ -2033,7 +2033,7 @@ var _styleDictionary = {
           "attributes": {
             "value": "#ffffff",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Neutral.100 White}",
@@ -2063,17 +2063,17 @@ var _styleDictionary = {
         "Extra light": {
           "value": "#f7f6f5",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Neutral.95}",
             "type": "color"
           },
-          "name": "color.sectionbg.neutral.extra light",
+          "name": "color.sectionbg.neutral.extralight",
           "attributes": {
             "value": "#f7f6f5",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Neutral.95}",
@@ -2103,7 +2103,7 @@ var _styleDictionary = {
         "Light": {
           "value": "#eceae7",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Neutral.90}",
@@ -2113,7 +2113,7 @@ var _styleDictionary = {
           "attributes": {
             "value": "#eceae7",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Neutral.90}",
@@ -2145,17 +2145,17 @@ var _styleDictionary = {
         "Extra light": {
           "value": "#f9f3f1",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Primary.95}",
             "type": "color"
           },
-          "name": "color.sectionbg.primary.extra light",
+          "name": "color.sectionbg.primary.extralight",
           "attributes": {
             "value": "#f9f3f1",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Primary.95}",
@@ -2185,7 +2185,7 @@ var _styleDictionary = {
         "Light": {
           "value": "#efe1dd",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Primary.90}",
@@ -2195,7 +2195,7 @@ var _styleDictionary = {
           "attributes": {
             "value": "#efe1dd",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Primary.90}",
@@ -2230,7 +2230,7 @@ var _styleDictionary = {
           "Enable": {
             "value": "#9a6b5e",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Primary.50}",
@@ -2240,7 +2240,7 @@ var _styleDictionary = {
             "attributes": {
               "value": "#9a6b5e",
               "type": "color",
-              "filePath": "alle/sem-colors.json",
+              "filePath": "tokens/sem-colors.json",
               "isSource": true,
               "original": {
                 "value": "{Palette.Primary.50}",
@@ -2273,7 +2273,7 @@ var _styleDictionary = {
           "Hover": {
             "value": "#d0a498",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Primary.70}",
@@ -2283,7 +2283,7 @@ var _styleDictionary = {
             "attributes": {
               "value": "#d0a498",
               "type": "color",
-              "filePath": "alle/sem-colors.json",
+              "filePath": "tokens/sem-colors.json",
               "isSource": true,
               "original": {
                 "value": "{Palette.Primary.70}",
@@ -2316,7 +2316,7 @@ var _styleDictionary = {
           "Pressed": {
             "value": "#e8d6d1",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Primary.85}",
@@ -2326,7 +2326,7 @@ var _styleDictionary = {
             "attributes": {
               "value": "#e8d6d1",
               "type": "color",
-              "filePath": "alle/sem-colors.json",
+              "filePath": "tokens/sem-colors.json",
               "isSource": true,
               "original": {
                 "value": "{Palette.Primary.85}",
@@ -2360,7 +2360,7 @@ var _styleDictionary = {
         "Medium": {
           "value": "#9a6b5e",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Primary.50}",
@@ -2370,7 +2370,7 @@ var _styleDictionary = {
           "attributes": {
             "value": "#9a6b5e",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Primary.50}",
@@ -2400,7 +2400,7 @@ var _styleDictionary = {
         "Dark": {
           "value": "#60433b",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Primary.30}",
@@ -2410,7 +2410,7 @@ var _styleDictionary = {
           "attributes": {
             "value": "#60433b",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Primary.30}",
@@ -2443,7 +2443,7 @@ var _styleDictionary = {
           "Enable": {
             "value": "#090909",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Neutral.00 Black}",
@@ -2453,7 +2453,7 @@ var _styleDictionary = {
             "attributes": {
               "value": "#090909",
               "type": "color",
-              "filePath": "alle/sem-colors.json",
+              "filePath": "tokens/sem-colors.json",
               "isSource": true,
               "original": {
                 "value": "{Palette.Neutral.00 Black}",
@@ -2486,7 +2486,7 @@ var _styleDictionary = {
           "Hover": {
             "value": "#787676",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Neutral.50}",
@@ -2496,7 +2496,7 @@ var _styleDictionary = {
             "attributes": {
               "value": "#787676",
               "type": "color",
-              "filePath": "alle/sem-colors.json",
+              "filePath": "tokens/sem-colors.json",
               "isSource": true,
               "original": {
                 "value": "{Palette.Neutral.50}",
@@ -2529,7 +2529,7 @@ var _styleDictionary = {
           "Pressed": {
             "value": "#b3b0ae",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Neutral.70}",
@@ -2539,7 +2539,7 @@ var _styleDictionary = {
             "attributes": {
               "value": "#b3b0ae",
               "type": "color",
-              "filePath": "alle/sem-colors.json",
+              "filePath": "tokens/sem-colors.json",
               "isSource": true,
               "original": {
                 "value": "{Palette.Neutral.70}",
@@ -2573,7 +2573,7 @@ var _styleDictionary = {
         "Black": {
           "value": "#090909",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Neutral.00 Black}",
@@ -2583,7 +2583,7 @@ var _styleDictionary = {
           "attributes": {
             "value": "#090909",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Neutral.00 Black}",
@@ -2613,7 +2613,7 @@ var _styleDictionary = {
         "White": {
           "value": "#ffffff",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Neutral.100 White}",
@@ -2623,7 +2623,7 @@ var _styleDictionary = {
           "attributes": {
             "value": "#ffffff",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Neutral.100 White}",
@@ -2653,17 +2653,17 @@ var _styleDictionary = {
         "Secondary over dark": {
           "value": "#b3b0ae",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Neutral.70}",
             "type": "color"
           },
-          "name": "color.text.neutral.secondaryover dark",
+          "name": "color.text.neutral.secondaryoverdark",
           "attributes": {
             "value": "#b3b0ae",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Neutral.70}",
@@ -2693,17 +2693,17 @@ var _styleDictionary = {
         "Secondary over light": {
           "value": "#787676",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Neutral.50}",
             "type": "color"
           },
-          "name": "color.text.neutral.secondaryover light",
+          "name": "color.text.neutral.secondaryoverlight",
           "attributes": {
             "value": "#787676",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Neutral.50}",
@@ -2733,7 +2733,7 @@ var _styleDictionary = {
         "Place holder": {
           "value": "#787676",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Neutral.50}",
@@ -2743,7 +2743,7 @@ var _styleDictionary = {
           "attributes": {
             "value": "#787676",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Neutral.50}",
@@ -2773,7 +2773,7 @@ var _styleDictionary = {
         "Disabled": {
           "value": "#cfcbca",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Neutral.80}",
@@ -2783,7 +2783,7 @@ var _styleDictionary = {
           "attributes": {
             "value": "#cfcbca",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Neutral.80}",
@@ -2815,7 +2815,7 @@ var _styleDictionary = {
         "Success": {
           "value": "#006714",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Success.40}",
@@ -2825,7 +2825,7 @@ var _styleDictionary = {
           "attributes": {
             "value": "#006714",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Success.40}",
@@ -2855,7 +2855,7 @@ var _styleDictionary = {
         "Error": {
           "value": "#c53425",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Error.50}",
@@ -2865,7 +2865,7 @@ var _styleDictionary = {
           "attributes": {
             "value": "#c53425",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Error.50}",
@@ -2895,7 +2895,7 @@ var _styleDictionary = {
         "Warning medium": {
           "value": "#ef8f00",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Warning.50}",
@@ -2905,7 +2905,7 @@ var _styleDictionary = {
           "attributes": {
             "value": "#ef8f00",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Warning.50}",
@@ -2935,7 +2935,7 @@ var _styleDictionary = {
         "Warning dark": {
           "value": "#855001",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Warning.30}",
@@ -2945,7 +2945,7 @@ var _styleDictionary = {
           "attributes": {
             "value": "#855001",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Warning.30}",
@@ -2980,7 +2980,7 @@ var _styleDictionary = {
           "Enable": {
             "value": "#9a6b5e",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Primary.50}",
@@ -2990,7 +2990,7 @@ var _styleDictionary = {
             "attributes": {
               "value": "#9a6b5e",
               "type": "color",
-              "filePath": "alle/sem-colors.json",
+              "filePath": "tokens/sem-colors.json",
               "isSource": true,
               "original": {
                 "value": "{Palette.Primary.50}",
@@ -3023,7 +3023,7 @@ var _styleDictionary = {
           "Hover": {
             "value": "#7d574d",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Primary.40}",
@@ -3033,7 +3033,7 @@ var _styleDictionary = {
             "attributes": {
               "value": "#7d574d",
               "type": "color",
-              "filePath": "alle/sem-colors.json",
+              "filePath": "tokens/sem-colors.json",
               "isSource": true,
               "original": {
                 "value": "{Palette.Primary.40}",
@@ -3066,7 +3066,7 @@ var _styleDictionary = {
           "Pressed": {
             "value": "#60433b",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Primary.30}",
@@ -3076,7 +3076,7 @@ var _styleDictionary = {
             "attributes": {
               "value": "#60433b",
               "type": "color",
-              "filePath": "alle/sem-colors.json",
+              "filePath": "tokens/sem-colors.json",
               "isSource": true,
               "original": {
                 "value": "{Palette.Primary.30}",
@@ -3109,7 +3109,7 @@ var _styleDictionary = {
           "Selection": {
             "value": "#9a6b5e",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Primary.50}",
@@ -3119,7 +3119,7 @@ var _styleDictionary = {
             "attributes": {
               "value": "#9a6b5e",
               "type": "color",
-              "filePath": "alle/sem-colors.json",
+              "filePath": "tokens/sem-colors.json",
               "isSource": true,
               "original": {
                 "value": "{Palette.Primary.50}",
@@ -3159,12 +3159,12 @@ var _styleDictionary = {
                     "type": "alpha",
                     "value": "0",
                     "space": "lch",
-                    "filePath": "alle/sem-colors.json",
+                    "filePath": "tokens/sem-colors.json",
                     "isSource": true
                   }
                 }
               },
-              "filePath": "alle/sem-colors.json",
+              "filePath": "tokens/sem-colors.json",
               "isSource": true,
               "original": {
                 "value": "{Palette.Primary.60}",
@@ -3175,7 +3175,7 @@ var _styleDictionary = {
                       "type": "alpha",
                       "value": "0",
                       "space": "lch",
-                      "filePath": "alle/sem-colors.json",
+                      "filePath": "tokens/sem-colors.json",
                       "isSource": true
                     }
                   }
@@ -3191,12 +3191,12 @@ var _styleDictionary = {
                       "type": "alpha",
                       "value": "0",
                       "space": "lch",
-                      "filePath": "alle/sem-colors.json",
+                      "filePath": "tokens/sem-colors.json",
                       "isSource": true
                     }
                   }
                 },
-                "filePath": "alle/sem-colors.json",
+                "filePath": "tokens/sem-colors.json",
                 "isSource": true,
                 "original": {
                   "value": "{Palette.Primary.60}",
@@ -3207,7 +3207,7 @@ var _styleDictionary = {
                         "type": "alpha",
                         "value": "0",
                         "space": "lch",
-                        "filePath": "alle/sem-colors.json",
+                        "filePath": "tokens/sem-colors.json",
                         "isSource": true
                       }
                     }
@@ -3248,12 +3248,12 @@ var _styleDictionary = {
                     "type": "alpha",
                     "value": "0.2",
                     "space": "lch",
-                    "filePath": "alle/sem-colors.json",
+                    "filePath": "tokens/sem-colors.json",
                     "isSource": true
                   }
                 }
               },
-              "filePath": "alle/sem-colors.json",
+              "filePath": "tokens/sem-colors.json",
               "isSource": true,
               "original": {
                 "value": "{Palette.Primary.60}",
@@ -3264,7 +3264,7 @@ var _styleDictionary = {
                       "type": "alpha",
                       "value": "0.2",
                       "space": "lch",
-                      "filePath": "alle/sem-colors.json",
+                      "filePath": "tokens/sem-colors.json",
                       "isSource": true
                     }
                   }
@@ -3280,12 +3280,12 @@ var _styleDictionary = {
                       "type": "alpha",
                       "value": "0.2",
                       "space": "lch",
-                      "filePath": "alle/sem-colors.json",
+                      "filePath": "tokens/sem-colors.json",
                       "isSource": true
                     }
                   }
                 },
-                "filePath": "alle/sem-colors.json",
+                "filePath": "tokens/sem-colors.json",
                 "isSource": true,
                 "original": {
                   "value": "{Palette.Primary.60}",
@@ -3296,7 +3296,7 @@ var _styleDictionary = {
                         "type": "alpha",
                         "value": "0.2",
                         "space": "lch",
-                        "filePath": "alle/sem-colors.json",
+                        "filePath": "tokens/sem-colors.json",
                         "isSource": true
                       }
                     }
@@ -3337,12 +3337,12 @@ var _styleDictionary = {
                     "type": "alpha",
                     "value": "0.42",
                     "space": "lch",
-                    "filePath": "alle/sem-colors.json",
+                    "filePath": "tokens/sem-colors.json",
                     "isSource": true
                   }
                 }
               },
-              "filePath": "alle/sem-colors.json",
+              "filePath": "tokens/sem-colors.json",
               "isSource": true,
               "original": {
                 "value": "{Palette.Primary.60}",
@@ -3353,7 +3353,7 @@ var _styleDictionary = {
                       "type": "alpha",
                       "value": "0.42",
                       "space": "lch",
-                      "filePath": "alle/sem-colors.json",
+                      "filePath": "tokens/sem-colors.json",
                       "isSource": true
                     }
                   }
@@ -3369,12 +3369,12 @@ var _styleDictionary = {
                       "type": "alpha",
                       "value": "0.42",
                       "space": "lch",
-                      "filePath": "alle/sem-colors.json",
+                      "filePath": "tokens/sem-colors.json",
                       "isSource": true
                     }
                   }
                 },
-                "filePath": "alle/sem-colors.json",
+                "filePath": "tokens/sem-colors.json",
                 "isSource": true,
                 "original": {
                   "value": "{Palette.Primary.60}",
@@ -3385,7 +3385,7 @@ var _styleDictionary = {
                         "type": "alpha",
                         "value": "0.42",
                         "space": "lch",
-                        "filePath": "alle/sem-colors.json",
+                        "filePath": "tokens/sem-colors.json",
                         "isSource": true
                       }
                     }
@@ -3422,7 +3422,7 @@ var _styleDictionary = {
         "Extra light": {
           "value": "#f9f3f1",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Primary.95}",
@@ -3432,7 +3432,7 @@ var _styleDictionary = {
           "attributes": {
             "value": "#f9f3f1",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Primary.95}",
@@ -3462,7 +3462,7 @@ var _styleDictionary = {
         "Light": {
           "value": "#efe1dd",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Primary.90}",
@@ -3472,7 +3472,7 @@ var _styleDictionary = {
           "attributes": {
             "value": "#efe1dd",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Primary.90}",
@@ -3502,7 +3502,7 @@ var _styleDictionary = {
         "Medium light": {
           "value": "#c08676",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Primary.60}",
@@ -3512,7 +3512,7 @@ var _styleDictionary = {
           "attributes": {
             "value": "#c08676",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Primary.60}",
@@ -3542,7 +3542,7 @@ var _styleDictionary = {
         "Medium": {
           "value": "#9a6b5e",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Primary.50}",
@@ -3552,7 +3552,7 @@ var _styleDictionary = {
           "attributes": {
             "value": "#9a6b5e",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Primary.50}",
@@ -3582,7 +3582,7 @@ var _styleDictionary = {
         "Medium dark": {
           "value": "#7d574d",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Primary.40}",
@@ -3592,7 +3592,7 @@ var _styleDictionary = {
           "attributes": {
             "value": "#7d574d",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Primary.40}",
@@ -3622,7 +3622,7 @@ var _styleDictionary = {
         "Dark": {
           "value": "#60433b",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Primary.30}",
@@ -3632,7 +3632,7 @@ var _styleDictionary = {
           "attributes": {
             "value": "#60433b",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Primary.30}",
@@ -3666,7 +3666,7 @@ var _styleDictionary = {
             "Enable": {
               "value": "#090909",
               "type": "color",
-              "filePath": "alle/sem-colors.json",
+              "filePath": "tokens/sem-colors.json",
               "isSource": true,
               "original": {
                 "value": "{Palette.Neutral.00 Black}",
@@ -3676,7 +3676,7 @@ var _styleDictionary = {
               "attributes": {
                 "value": "#090909",
                 "type": "color",
-                "filePath": "alle/sem-colors.json",
+                "filePath": "tokens/sem-colors.json",
                 "isSource": true,
                 "original": {
                   "value": "{Palette.Neutral.00 Black}",
@@ -3711,7 +3711,7 @@ var _styleDictionary = {
             "Hover": {
               "value": "#787676",
               "type": "color",
-              "filePath": "alle/sem-colors.json",
+              "filePath": "tokens/sem-colors.json",
               "isSource": true,
               "original": {
                 "value": "{Palette.Neutral.50}",
@@ -3721,7 +3721,7 @@ var _styleDictionary = {
               "attributes": {
                 "value": "#787676",
                 "type": "color",
-                "filePath": "alle/sem-colors.json",
+                "filePath": "tokens/sem-colors.json",
                 "isSource": true,
                 "original": {
                   "value": "{Palette.Neutral.50}",
@@ -3756,7 +3756,7 @@ var _styleDictionary = {
             "Pressed": {
               "value": "#b3b0ae",
               "type": "color",
-              "filePath": "alle/sem-colors.json",
+              "filePath": "tokens/sem-colors.json",
               "isSource": true,
               "original": {
                 "value": "{Palette.Neutral.70}",
@@ -3766,7 +3766,7 @@ var _styleDictionary = {
               "attributes": {
                 "value": "#b3b0ae",
                 "type": "color",
-                "filePath": "alle/sem-colors.json",
+                "filePath": "tokens/sem-colors.json",
                 "isSource": true,
                 "original": {
                   "value": "{Palette.Neutral.70}",
@@ -3808,12 +3808,12 @@ var _styleDictionary = {
                       "type": "alpha",
                       "value": "0.0",
                       "space": "lch",
-                      "filePath": "alle/sem-colors.json",
+                      "filePath": "tokens/sem-colors.json",
                       "isSource": true
                     }
                   }
                 },
-                "filePath": "alle/sem-colors.json",
+                "filePath": "tokens/sem-colors.json",
                 "isSource": true,
                 "original": {
                   "value": "{Palette.Neutral.00 Black}",
@@ -3824,7 +3824,7 @@ var _styleDictionary = {
                         "type": "alpha",
                         "value": "0.0",
                         "space": "lch",
-                        "filePath": "alle/sem-colors.json",
+                        "filePath": "tokens/sem-colors.json",
                         "isSource": true
                       }
                     }
@@ -3840,12 +3840,12 @@ var _styleDictionary = {
                         "type": "alpha",
                         "value": "0.0",
                         "space": "lch",
-                        "filePath": "alle/sem-colors.json",
+                        "filePath": "tokens/sem-colors.json",
                         "isSource": true
                       }
                     }
                   },
-                  "filePath": "alle/sem-colors.json",
+                  "filePath": "tokens/sem-colors.json",
                   "isSource": true,
                   "original": {
                     "value": "{Palette.Neutral.00 Black}",
@@ -3856,7 +3856,7 @@ var _styleDictionary = {
                           "type": "alpha",
                           "value": "0.0",
                           "space": "lch",
-                          "filePath": "alle/sem-colors.json",
+                          "filePath": "tokens/sem-colors.json",
                           "isSource": true
                         }
                       }
@@ -3899,12 +3899,12 @@ var _styleDictionary = {
                       "type": "alpha",
                       "value": "0.08",
                       "space": "lch",
-                      "filePath": "alle/sem-colors.json",
+                      "filePath": "tokens/sem-colors.json",
                       "isSource": true
                     }
                   }
                 },
-                "filePath": "alle/sem-colors.json",
+                "filePath": "tokens/sem-colors.json",
                 "isSource": true,
                 "original": {
                   "value": "{Palette.Neutral.00 Black}",
@@ -3915,7 +3915,7 @@ var _styleDictionary = {
                         "type": "alpha",
                         "value": "0.08",
                         "space": "lch",
-                        "filePath": "alle/sem-colors.json",
+                        "filePath": "tokens/sem-colors.json",
                         "isSource": true
                       }
                     }
@@ -3931,12 +3931,12 @@ var _styleDictionary = {
                         "type": "alpha",
                         "value": "0.08",
                         "space": "lch",
-                        "filePath": "alle/sem-colors.json",
+                        "filePath": "tokens/sem-colors.json",
                         "isSource": true
                       }
                     }
                   },
-                  "filePath": "alle/sem-colors.json",
+                  "filePath": "tokens/sem-colors.json",
                   "isSource": true,
                   "original": {
                     "value": "{Palette.Neutral.00 Black}",
@@ -3947,7 +3947,7 @@ var _styleDictionary = {
                           "type": "alpha",
                           "value": "0.08",
                           "space": "lch",
-                          "filePath": "alle/sem-colors.json",
+                          "filePath": "tokens/sem-colors.json",
                           "isSource": true
                         }
                       }
@@ -3990,12 +3990,12 @@ var _styleDictionary = {
                       "type": "alpha",
                       "value": "0.31",
                       "space": "lch",
-                      "filePath": "alle/sem-colors.json",
+                      "filePath": "tokens/sem-colors.json",
                       "isSource": true
                     }
                   }
                 },
-                "filePath": "alle/sem-colors.json",
+                "filePath": "tokens/sem-colors.json",
                 "isSource": true,
                 "original": {
                   "value": "{Palette.Neutral.00 Black}",
@@ -4006,7 +4006,7 @@ var _styleDictionary = {
                         "type": "alpha",
                         "value": "0.31",
                         "space": "lch",
-                        "filePath": "alle/sem-colors.json",
+                        "filePath": "tokens/sem-colors.json",
                         "isSource": true
                       }
                     }
@@ -4022,12 +4022,12 @@ var _styleDictionary = {
                         "type": "alpha",
                         "value": "0.31",
                         "space": "lch",
-                        "filePath": "alle/sem-colors.json",
+                        "filePath": "tokens/sem-colors.json",
                         "isSource": true
                       }
                     }
                   },
-                  "filePath": "alle/sem-colors.json",
+                  "filePath": "tokens/sem-colors.json",
                   "isSource": true,
                   "original": {
                     "value": "{Palette.Neutral.00 Black}",
@@ -4038,7 +4038,7 @@ var _styleDictionary = {
                           "type": "alpha",
                           "value": "0.31",
                           "space": "lch",
-                          "filePath": "alle/sem-colors.json",
+                          "filePath": "tokens/sem-colors.json",
                           "isSource": true
                         }
                       }
@@ -4077,7 +4077,7 @@ var _styleDictionary = {
           "Alpha 100": {
             "value": "#090909",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Neutral.00 Black}",
@@ -4087,7 +4087,7 @@ var _styleDictionary = {
             "attributes": {
               "value": "#090909",
               "type": "color",
-              "filePath": "alle/sem-colors.json",
+              "filePath": "tokens/sem-colors.json",
               "isSource": true,
               "original": {
                 "value": "{Palette.Neutral.00 Black}",
@@ -4123,7 +4123,7 @@ var _styleDictionary = {
             "Enable": {
               "value": "#ffffff",
               "type": "color",
-              "filePath": "alle/sem-colors.json",
+              "filePath": "tokens/sem-colors.json",
               "isSource": true,
               "original": {
                 "value": "{Palette.Neutral.100 White}",
@@ -4133,7 +4133,7 @@ var _styleDictionary = {
               "attributes": {
                 "value": "#ffffff",
                 "type": "color",
-                "filePath": "alle/sem-colors.json",
+                "filePath": "tokens/sem-colors.json",
                 "isSource": true,
                 "original": {
                   "value": "{Palette.Neutral.100 White}",
@@ -4168,7 +4168,7 @@ var _styleDictionary = {
             "Hover": {
               "value": "#eceae7",
               "type": "color",
-              "filePath": "alle/sem-colors.json",
+              "filePath": "tokens/sem-colors.json",
               "isSource": true,
               "original": {
                 "value": "{Palette.Neutral.90}",
@@ -4178,7 +4178,7 @@ var _styleDictionary = {
               "attributes": {
                 "value": "#eceae7",
                 "type": "color",
-                "filePath": "alle/sem-colors.json",
+                "filePath": "tokens/sem-colors.json",
                 "isSource": true,
                 "original": {
                   "value": "{Palette.Neutral.90}",
@@ -4213,7 +4213,7 @@ var _styleDictionary = {
             "Pressed": {
               "value": "#b3b0ae",
               "type": "color",
-              "filePath": "alle/sem-colors.json",
+              "filePath": "tokens/sem-colors.json",
               "isSource": true,
               "original": {
                 "value": "{Palette.Neutral.70}",
@@ -4223,7 +4223,7 @@ var _styleDictionary = {
               "attributes": {
                 "value": "#b3b0ae",
                 "type": "color",
-                "filePath": "alle/sem-colors.json",
+                "filePath": "tokens/sem-colors.json",
                 "isSource": true,
                 "original": {
                   "value": "{Palette.Neutral.70}",
@@ -4265,12 +4265,12 @@ var _styleDictionary = {
                       "type": "alpha",
                       "value": "0.0",
                       "space": "lch",
-                      "filePath": "alle/sem-colors.json",
+                      "filePath": "tokens/sem-colors.json",
                       "isSource": true
                     }
                   }
                 },
-                "filePath": "alle/sem-colors.json",
+                "filePath": "tokens/sem-colors.json",
                 "isSource": true,
                 "original": {
                   "value": "{Palette.Neutral.100 White}",
@@ -4281,7 +4281,7 @@ var _styleDictionary = {
                         "type": "alpha",
                         "value": "0.0",
                         "space": "lch",
-                        "filePath": "alle/sem-colors.json",
+                        "filePath": "tokens/sem-colors.json",
                         "isSource": true
                       }
                     }
@@ -4297,12 +4297,12 @@ var _styleDictionary = {
                         "type": "alpha",
                         "value": "0.0",
                         "space": "lch",
-                        "filePath": "alle/sem-colors.json",
+                        "filePath": "tokens/sem-colors.json",
                         "isSource": true
                       }
                     }
                   },
-                  "filePath": "alle/sem-colors.json",
+                  "filePath": "tokens/sem-colors.json",
                   "isSource": true,
                   "original": {
                     "value": "{Palette.Neutral.100 White}",
@@ -4313,7 +4313,7 @@ var _styleDictionary = {
                           "type": "alpha",
                           "value": "0.0",
                           "space": "lch",
-                          "filePath": "alle/sem-colors.json",
+                          "filePath": "tokens/sem-colors.json",
                           "isSource": true
                         }
                       }
@@ -4356,12 +4356,12 @@ var _styleDictionary = {
                       "type": "alpha",
                       "value": "0.08",
                       "space": "lch",
-                      "filePath": "alle/sem-colors.json",
+                      "filePath": "tokens/sem-colors.json",
                       "isSource": true
                     }
                   }
                 },
-                "filePath": "alle/sem-colors.json",
+                "filePath": "tokens/sem-colors.json",
                 "isSource": true,
                 "original": {
                   "value": "{Palette.Neutral.100 White}",
@@ -4372,7 +4372,7 @@ var _styleDictionary = {
                         "type": "alpha",
                         "value": "0.08",
                         "space": "lch",
-                        "filePath": "alle/sem-colors.json",
+                        "filePath": "tokens/sem-colors.json",
                         "isSource": true
                       }
                     }
@@ -4388,12 +4388,12 @@ var _styleDictionary = {
                         "type": "alpha",
                         "value": "0.08",
                         "space": "lch",
-                        "filePath": "alle/sem-colors.json",
+                        "filePath": "tokens/sem-colors.json",
                         "isSource": true
                       }
                     }
                   },
-                  "filePath": "alle/sem-colors.json",
+                  "filePath": "tokens/sem-colors.json",
                   "isSource": true,
                   "original": {
                     "value": "{Palette.Neutral.100 White}",
@@ -4404,7 +4404,7 @@ var _styleDictionary = {
                           "type": "alpha",
                           "value": "0.08",
                           "space": "lch",
-                          "filePath": "alle/sem-colors.json",
+                          "filePath": "tokens/sem-colors.json",
                           "isSource": true
                         }
                       }
@@ -4447,12 +4447,12 @@ var _styleDictionary = {
                       "type": "alpha",
                       "value": "0.12",
                       "space": "lch",
-                      "filePath": "alle/sem-colors.json",
+                      "filePath": "tokens/sem-colors.json",
                       "isSource": true
                     }
                   }
                 },
-                "filePath": "alle/sem-colors.json",
+                "filePath": "tokens/sem-colors.json",
                 "isSource": true,
                 "original": {
                   "value": "{Palette.Neutral.100 White}",
@@ -4463,7 +4463,7 @@ var _styleDictionary = {
                         "type": "alpha",
                         "value": "0.12",
                         "space": "lch",
-                        "filePath": "alle/sem-colors.json",
+                        "filePath": "tokens/sem-colors.json",
                         "isSource": true
                       }
                     }
@@ -4479,12 +4479,12 @@ var _styleDictionary = {
                         "type": "alpha",
                         "value": "0.12",
                         "space": "lch",
-                        "filePath": "alle/sem-colors.json",
+                        "filePath": "tokens/sem-colors.json",
                         "isSource": true
                       }
                     }
                   },
-                  "filePath": "alle/sem-colors.json",
+                  "filePath": "tokens/sem-colors.json",
                   "isSource": true,
                   "original": {
                     "value": "{Palette.Neutral.100 White}",
@@ -4495,7 +4495,7 @@ var _styleDictionary = {
                           "type": "alpha",
                           "value": "0.12",
                           "space": "lch",
-                          "filePath": "alle/sem-colors.json",
+                          "filePath": "tokens/sem-colors.json",
                           "isSource": true
                         }
                       }
@@ -4534,7 +4534,7 @@ var _styleDictionary = {
           "Alpha 100": {
             "value": "#ffffff",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Neutral.100 White}",
@@ -4544,7 +4544,7 @@ var _styleDictionary = {
             "attributes": {
               "value": "#ffffff",
               "type": "color",
-              "filePath": "alle/sem-colors.json",
+              "filePath": "tokens/sem-colors.json",
               "isSource": true,
               "original": {
                 "value": "{Palette.Neutral.100 White}",
@@ -4583,12 +4583,12 @@ var _styleDictionary = {
                   "type": "alpha",
                   "value": "0.0",
                   "space": "lch",
-                  "filePath": "alle/sem-colors.json",
+                  "filePath": "tokens/sem-colors.json",
                   "isSource": true
                 }
               }
             },
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Neutral.100 White}",
@@ -4599,7 +4599,7 @@ var _styleDictionary = {
                     "type": "alpha",
                     "value": "0.0",
                     "space": "lch",
-                    "filePath": "alle/sem-colors.json",
+                    "filePath": "tokens/sem-colors.json",
                     "isSource": true
                   }
                 }
@@ -4615,12 +4615,12 @@ var _styleDictionary = {
                     "type": "alpha",
                     "value": "0.0",
                     "space": "lch",
-                    "filePath": "alle/sem-colors.json",
+                    "filePath": "tokens/sem-colors.json",
                     "isSource": true
                   }
                 }
               },
-              "filePath": "alle/sem-colors.json",
+              "filePath": "tokens/sem-colors.json",
               "isSource": true,
               "original": {
                 "value": "{Palette.Neutral.100 White}",
@@ -4631,7 +4631,7 @@ var _styleDictionary = {
                       "type": "alpha",
                       "value": "0.0",
                       "space": "lch",
-                      "filePath": "alle/sem-colors.json",
+                      "filePath": "tokens/sem-colors.json",
                       "isSource": true
                     }
                   }
@@ -4665,7 +4665,7 @@ var _styleDictionary = {
         "Extra light": {
           "value": "#fafafa",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Neutral.98}",
@@ -4675,7 +4675,7 @@ var _styleDictionary = {
           "attributes": {
             "value": "#fafafa",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Neutral.98}",
@@ -4705,7 +4705,7 @@ var _styleDictionary = {
         "Light": {
           "value": "#f7f6f5",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Neutral.95}",
@@ -4715,7 +4715,7 @@ var _styleDictionary = {
           "attributes": {
             "value": "#f7f6f5",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Neutral.95}",
@@ -4745,7 +4745,7 @@ var _styleDictionary = {
         "Medium": {
           "value": "#b3b0ae",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Neutral.70}",
@@ -4755,7 +4755,7 @@ var _styleDictionary = {
           "attributes": {
             "value": "#b3b0ae",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Neutral.70}",
@@ -4785,7 +4785,7 @@ var _styleDictionary = {
         "Medium dark": {
           "value": "#626060",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Neutral.40}",
@@ -4795,7 +4795,7 @@ var _styleDictionary = {
           "attributes": {
             "value": "#626060",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Neutral.40}",
@@ -4825,7 +4825,7 @@ var _styleDictionary = {
         "Extra dark": {
           "value": "#2a2929",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Neutral.10}",
@@ -4835,7 +4835,7 @@ var _styleDictionary = {
           "attributes": {
             "value": "#2a2929",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Neutral.10}",
@@ -4871,12 +4871,12 @@ var _styleDictionary = {
                 "type": "alpha",
                 "value": "0.08",
                 "space": "lch",
-                "filePath": "alle/sem-colors.json",
+                "filePath": "tokens/sem-colors.json",
                 "isSource": true
               }
             }
           },
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Neutral.50}",
@@ -4887,7 +4887,7 @@ var _styleDictionary = {
                   "type": "alpha",
                   "value": "0.08",
                   "space": "lch",
-                  "filePath": "alle/sem-colors.json",
+                  "filePath": "tokens/sem-colors.json",
                   "isSource": true
                 }
               }
@@ -4903,12 +4903,12 @@ var _styleDictionary = {
                   "type": "alpha",
                   "value": "0.08",
                   "space": "lch",
-                  "filePath": "alle/sem-colors.json",
+                  "filePath": "tokens/sem-colors.json",
                   "isSource": true
                 }
               }
             },
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Neutral.50}",
@@ -4919,7 +4919,7 @@ var _styleDictionary = {
                     "type": "alpha",
                     "value": "0.08",
                     "space": "lch",
-                    "filePath": "alle/sem-colors.json",
+                    "filePath": "tokens/sem-colors.json",
                     "isSource": true
                   }
                 }
@@ -4951,7 +4951,7 @@ var _styleDictionary = {
         "Dark": {
           "value": "#959292",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Neutral.60}",
@@ -4961,7 +4961,7 @@ var _styleDictionary = {
           "attributes": {
             "value": "#959292",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Neutral.60}",
@@ -4991,7 +4991,7 @@ var _styleDictionary = {
         "Light": {
           "value": "#eceae7",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Neutral.90}",
@@ -5001,7 +5001,7 @@ var _styleDictionary = {
           "attributes": {
             "value": "#eceae7",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Neutral.90}",
@@ -5031,7 +5031,7 @@ var _styleDictionary = {
         "Extra light": {
           "value": "#fafafa",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Neutral.98}",
@@ -5041,7 +5041,7 @@ var _styleDictionary = {
           "attributes": {
             "value": "#fafafa",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Neutral.98}",
@@ -5071,7 +5071,7 @@ var _styleDictionary = {
         "Primary": {
           "value": "#efe1dd",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Primary.90}",
@@ -5081,7 +5081,7 @@ var _styleDictionary = {
           "attributes": {
             "value": "#efe1dd",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Primary.90}",
@@ -5117,12 +5117,12 @@ var _styleDictionary = {
                 "type": "alpha",
                 "value": "0.0",
                 "space": "lch",
-                "filePath": "alle/sem-colors.json",
+                "filePath": "tokens/sem-colors.json",
                 "isSource": true
               }
             }
           },
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Neutral.80}",
@@ -5133,7 +5133,7 @@ var _styleDictionary = {
                   "type": "alpha",
                   "value": "0.0",
                   "space": "lch",
-                  "filePath": "alle/sem-colors.json",
+                  "filePath": "tokens/sem-colors.json",
                   "isSource": true
                 }
               }
@@ -5149,12 +5149,12 @@ var _styleDictionary = {
                   "type": "alpha",
                   "value": "0.0",
                   "space": "lch",
-                  "filePath": "alle/sem-colors.json",
+                  "filePath": "tokens/sem-colors.json",
                   "isSource": true
                 }
               }
             },
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Neutral.80}",
@@ -5165,7 +5165,7 @@ var _styleDictionary = {
                     "type": "alpha",
                     "value": "0.0",
                     "space": "lch",
-                    "filePath": "alle/sem-colors.json",
+                    "filePath": "tokens/sem-colors.json",
                     "isSource": true
                   }
                 }
@@ -5197,7 +5197,7 @@ var _styleDictionary = {
         "Success light": {
           "value": "#e5f3e8",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Success.90}",
@@ -5207,7 +5207,7 @@ var _styleDictionary = {
           "attributes": {
             "value": "#e5f3e8",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Success.90}",
@@ -5237,7 +5237,7 @@ var _styleDictionary = {
         "Success medium": {
           "value": "#006714",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Success.40}",
@@ -5247,7 +5247,7 @@ var _styleDictionary = {
           "attributes": {
             "value": "#006714",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Success.40}",
@@ -5277,7 +5277,7 @@ var _styleDictionary = {
         "Error light": {
           "value": "#f9ebe9",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Error.90}",
@@ -5287,7 +5287,7 @@ var _styleDictionary = {
           "attributes": {
             "value": "#f9ebe9",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Error.90}",
@@ -5317,7 +5317,7 @@ var _styleDictionary = {
         "Error medium": {
           "value": "#c53425",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Error.50}",
@@ -5327,7 +5327,7 @@ var _styleDictionary = {
           "attributes": {
             "value": "#c53425",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Error.50}",
@@ -5357,7 +5357,7 @@ var _styleDictionary = {
         "Warning light": {
           "value": "#fdf6e5",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Warning.90}",
@@ -5367,7 +5367,7 @@ var _styleDictionary = {
           "attributes": {
             "value": "#fdf6e5",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Warning.90}",
@@ -5397,7 +5397,7 @@ var _styleDictionary = {
         "Warning medium": {
           "value": "#ef8f00",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Warning.50}",
@@ -5407,7 +5407,7 @@ var _styleDictionary = {
           "attributes": {
             "value": "#ef8f00",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Warning.50}",
@@ -5441,7 +5441,7 @@ var _styleDictionary = {
         "Medium": {
           "value": "#cfcbca",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Neutral.80}",
@@ -5451,7 +5451,7 @@ var _styleDictionary = {
           "attributes": {
             "value": "#cfcbca",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Neutral.80}",
@@ -5483,7 +5483,7 @@ var _styleDictionary = {
         "Light": {
           "value": "#e5e0dc",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Neutral.85}",
@@ -5493,7 +5493,7 @@ var _styleDictionary = {
           "attributes": {
             "value": "#e5e0dc",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Neutral.85}",
@@ -5523,7 +5523,7 @@ var _styleDictionary = {
         "Dark": {
           "value": "#626060",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Neutral.40}",
@@ -5533,7 +5533,7 @@ var _styleDictionary = {
           "attributes": {
             "value": "#626060",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Neutral.40}",
@@ -5564,7 +5564,7 @@ var _styleDictionary = {
           "Alpha 100": {
             "value": "#ffffff",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Neutral.100 White}",
@@ -5574,7 +5574,7 @@ var _styleDictionary = {
             "attributes": {
               "value": "#ffffff",
               "type": "color",
-              "filePath": "alle/sem-colors.json",
+              "filePath": "tokens/sem-colors.json",
               "isSource": true,
               "original": {
                 "value": "{Palette.Neutral.100 White}",
@@ -5613,12 +5613,12 @@ var _styleDictionary = {
                   "type": "alpha",
                   "value": "0.5",
                   "space": "lch",
-                  "filePath": "alle/sem-colors.json",
+                  "filePath": "tokens/sem-colors.json",
                   "isSource": true
                 }
               }
             },
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Neutral.100 White}",
@@ -5629,7 +5629,7 @@ var _styleDictionary = {
                     "type": "alpha",
                     "value": "0.5",
                     "space": "lch",
-                    "filePath": "alle/sem-colors.json",
+                    "filePath": "tokens/sem-colors.json",
                     "isSource": true
                   }
                 }
@@ -5645,12 +5645,12 @@ var _styleDictionary = {
                     "type": "alpha",
                     "value": "0.5",
                     "space": "lch",
-                    "filePath": "alle/sem-colors.json",
+                    "filePath": "tokens/sem-colors.json",
                     "isSource": true
                   }
                 }
               },
-              "filePath": "alle/sem-colors.json",
+              "filePath": "tokens/sem-colors.json",
               "isSource": true,
               "original": {
                 "value": "{Palette.Neutral.100 White}",
@@ -5661,7 +5661,7 @@ var _styleDictionary = {
                       "type": "alpha",
                       "value": "0.5",
                       "space": "lch",
-                      "filePath": "alle/sem-colors.json",
+                      "filePath": "tokens/sem-colors.json",
                       "isSource": true
                     }
                   }
@@ -5700,12 +5700,12 @@ var _styleDictionary = {
                   "type": "alpha",
                   "value": "0.2",
                   "space": "lch",
-                  "filePath": "alle/sem-colors.json",
+                  "filePath": "tokens/sem-colors.json",
                   "isSource": true
                 }
               }
             },
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Neutral.100 White}",
@@ -5716,7 +5716,7 @@ var _styleDictionary = {
                     "type": "alpha",
                     "value": "0.2",
                     "space": "lch",
-                    "filePath": "alle/sem-colors.json",
+                    "filePath": "tokens/sem-colors.json",
                     "isSource": true
                   }
                 }
@@ -5732,12 +5732,12 @@ var _styleDictionary = {
                     "type": "alpha",
                     "value": "0.2",
                     "space": "lch",
-                    "filePath": "alle/sem-colors.json",
+                    "filePath": "tokens/sem-colors.json",
                     "isSource": true
                   }
                 }
               },
-              "filePath": "alle/sem-colors.json",
+              "filePath": "tokens/sem-colors.json",
               "isSource": true,
               "original": {
                 "value": "{Palette.Neutral.100 White}",
@@ -5748,7 +5748,7 @@ var _styleDictionary = {
                       "type": "alpha",
                       "value": "0.2",
                       "space": "lch",
-                      "filePath": "alle/sem-colors.json",
+                      "filePath": "tokens/sem-colors.json",
                       "isSource": true
                     }
                   }
@@ -5783,7 +5783,7 @@ var _styleDictionary = {
           "Alpha 100": {
             "value": "#090909",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Neutral.00 Black}",
@@ -5793,7 +5793,7 @@ var _styleDictionary = {
             "attributes": {
               "value": "#090909",
               "type": "color",
-              "filePath": "alle/sem-colors.json",
+              "filePath": "tokens/sem-colors.json",
               "isSource": true,
               "original": {
                 "value": "{Palette.Neutral.00 Black}",
@@ -5832,12 +5832,12 @@ var _styleDictionary = {
                   "type": "alpha",
                   "value": "0.08",
                   "space": "lch",
-                  "filePath": "alle/sem-colors.json",
+                  "filePath": "tokens/sem-colors.json",
                   "isSource": true
                 }
               }
             },
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Neutral.00 Black}",
@@ -5848,7 +5848,7 @@ var _styleDictionary = {
                     "type": "alpha",
                     "value": "0.08",
                     "space": "lch",
-                    "filePath": "alle/sem-colors.json",
+                    "filePath": "tokens/sem-colors.json",
                     "isSource": true
                   }
                 }
@@ -5864,12 +5864,12 @@ var _styleDictionary = {
                     "type": "alpha",
                     "value": "0.08",
                     "space": "lch",
-                    "filePath": "alle/sem-colors.json",
+                    "filePath": "tokens/sem-colors.json",
                     "isSource": true
                   }
                 }
               },
-              "filePath": "alle/sem-colors.json",
+              "filePath": "tokens/sem-colors.json",
               "isSource": true,
               "original": {
                 "value": "{Palette.Neutral.00 Black}",
@@ -5880,7 +5880,7 @@ var _styleDictionary = {
                       "type": "alpha",
                       "value": "0.08",
                       "space": "lch",
-                      "filePath": "alle/sem-colors.json",
+                      "filePath": "tokens/sem-colors.json",
                       "isSource": true
                     }
                   }
@@ -5916,7 +5916,7 @@ var _styleDictionary = {
         "Success": {
           "value": "#006714",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Success.40}",
@@ -5926,7 +5926,7 @@ var _styleDictionary = {
           "attributes": {
             "value": "#006714",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Success.40}",
@@ -5956,7 +5956,7 @@ var _styleDictionary = {
         "Error": {
           "value": "#c53425",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Error.50}",
@@ -5966,7 +5966,7 @@ var _styleDictionary = {
           "attributes": {
             "value": "#c53425",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Error.50}",
@@ -5996,7 +5996,7 @@ var _styleDictionary = {
         "Warning": {
           "value": "#ef8f00",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Warning.50}",
@@ -6006,7 +6006,7 @@ var _styleDictionary = {
           "attributes": {
             "value": "#ef8f00",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Warning.50}",
@@ -6038,7 +6038,7 @@ var _styleDictionary = {
         "Enable": {
           "value": "#b3b0ae",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Neutral.70}",
@@ -6048,7 +6048,7 @@ var _styleDictionary = {
           "attributes": {
             "value": "#b3b0ae",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Neutral.70}",
@@ -6078,7 +6078,7 @@ var _styleDictionary = {
         "Hover": {
           "value": "#090909",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Neutral.00 Black}",
@@ -6088,7 +6088,7 @@ var _styleDictionary = {
           "attributes": {
             "value": "#090909",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Neutral.00 Black}",
@@ -6120,17 +6120,17 @@ var _styleDictionary = {
         "Over light": {
           "value": "#c08676",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Primary.60}",
             "type": "color"
           },
-          "name": "color.border.focusring.over light",
+          "name": "color.border.focusring.overlight",
           "attributes": {
             "value": "#c08676",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Primary.60}",
@@ -6160,17 +6160,17 @@ var _styleDictionary = {
         "Over dark": {
           "value": "#dfc2bb",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Primary.80}",
             "type": "color"
           },
-          "name": "color.border.focusring.over dark",
+          "name": "color.border.focusring.overdark",
           "attributes": {
             "value": "#dfc2bb",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Primary.80}",
@@ -6202,17 +6202,17 @@ var _styleDictionary = {
         "Medium alpha 100": {
           "value": "#9a6b5e",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Primary.50}",
             "type": "color"
           },
-          "name": "color.border.primary.mediumalpha 100",
+          "name": "color.border.primary.mediumalpha100",
           "attributes": {
             "value": "#9a6b5e",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Primary.50}",
@@ -6248,12 +6248,12 @@ var _styleDictionary = {
                 "type": "alpha",
                 "value": "0.5",
                 "space": "lch",
-                "filePath": "alle/sem-colors.json",
+                "filePath": "tokens/sem-colors.json",
                 "isSource": true
               }
             }
           },
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Primary.50}",
@@ -6264,13 +6264,13 @@ var _styleDictionary = {
                   "type": "alpha",
                   "value": "0.5",
                   "space": "lch",
-                  "filePath": "alle/sem-colors.json",
+                  "filePath": "tokens/sem-colors.json",
                   "isSource": true
                 }
               }
             }
           },
-          "name": "color.border.primary.mediumalpha 50",
+          "name": "color.border.primary.mediumalpha50",
           "attributes": {
             "value": "#9a6b5e",
             "type": "color",
@@ -6280,12 +6280,12 @@ var _styleDictionary = {
                   "type": "alpha",
                   "value": "0.5",
                   "space": "lch",
-                  "filePath": "alle/sem-colors.json",
+                  "filePath": "tokens/sem-colors.json",
                   "isSource": true
                 }
               }
             },
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Primary.50}",
@@ -6296,7 +6296,7 @@ var _styleDictionary = {
                     "type": "alpha",
                     "value": "0.5",
                     "space": "lch",
-                    "filePath": "alle/sem-colors.json",
+                    "filePath": "tokens/sem-colors.json",
                     "isSource": true
                   }
                 }
@@ -6330,7 +6330,7 @@ var _styleDictionary = {
         "Black": {
           "value": "#090909",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Neutral.00 Black}",
@@ -6340,7 +6340,7 @@ var _styleDictionary = {
           "attributes": {
             "value": "#090909",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Neutral.00 Black}",
@@ -6370,17 +6370,17 @@ var _styleDictionary = {
         "Secondary over dark": {
           "value": "#b3b0ae",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Neutral.70}",
             "type": "color"
           },
-          "name": "color.icon.neutral.secondaryover dark",
+          "name": "color.icon.neutral.secondaryoverdark",
           "attributes": {
             "value": "#b3b0ae",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Neutral.70}",
@@ -6410,17 +6410,17 @@ var _styleDictionary = {
         "Secondary over light": {
           "value": "#787676",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Neutral.50}",
             "type": "color"
           },
-          "name": "color.icon.neutral.secondaryover light",
+          "name": "color.icon.neutral.secondaryoverlight",
           "attributes": {
             "value": "#787676",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Neutral.50}",
@@ -6450,7 +6450,7 @@ var _styleDictionary = {
         "White": {
           "value": "#ffffff",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Neutral.100 White}",
@@ -6460,7 +6460,7 @@ var _styleDictionary = {
           "attributes": {
             "value": "#ffffff",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Neutral.100 White}",
@@ -6491,7 +6491,7 @@ var _styleDictionary = {
           "Enable": {
             "value": "#090909",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Neutral.00 Black}",
@@ -6501,7 +6501,7 @@ var _styleDictionary = {
             "attributes": {
               "value": "#090909",
               "type": "color",
-              "filePath": "alle/sem-colors.json",
+              "filePath": "tokens/sem-colors.json",
               "isSource": true,
               "original": {
                 "value": "{Palette.Neutral.00 Black}",
@@ -6534,7 +6534,7 @@ var _styleDictionary = {
           "Hover": {
             "value": "#787676",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Neutral.50}",
@@ -6544,7 +6544,7 @@ var _styleDictionary = {
             "attributes": {
               "value": "#787676",
               "type": "color",
-              "filePath": "alle/sem-colors.json",
+              "filePath": "tokens/sem-colors.json",
               "isSource": true,
               "original": {
                 "value": "{Palette.Neutral.50}",
@@ -6577,7 +6577,7 @@ var _styleDictionary = {
           "Pressed": {
             "value": "#b3b0ae",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Neutral.70}",
@@ -6587,7 +6587,7 @@ var _styleDictionary = {
             "attributes": {
               "value": "#b3b0ae",
               "type": "color",
-              "filePath": "alle/sem-colors.json",
+              "filePath": "tokens/sem-colors.json",
               "isSource": true,
               "original": {
                 "value": "{Palette.Neutral.70}",
@@ -6623,7 +6623,7 @@ var _styleDictionary = {
         "Medium": {
           "value": "#9a6b5e",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Primary.50}",
@@ -6633,7 +6633,7 @@ var _styleDictionary = {
           "attributes": {
             "value": "#9a6b5e",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Primary.50}",
@@ -6663,7 +6663,7 @@ var _styleDictionary = {
         "Dark": {
           "value": "#60433b",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Primary.30}",
@@ -6673,7 +6673,7 @@ var _styleDictionary = {
           "attributes": {
             "value": "#60433b",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Primary.30}",
@@ -6705,7 +6705,7 @@ var _styleDictionary = {
         "Medium": {
           "value": "#cfcbca",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Neutral.80}",
@@ -6715,7 +6715,7 @@ var _styleDictionary = {
           "attributes": {
             "value": "#cfcbca",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Neutral.80}",
@@ -6745,7 +6745,7 @@ var _styleDictionary = {
         "Over dark": {
           "value": "#959292",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Neutral.60}",
@@ -6755,7 +6755,7 @@ var _styleDictionary = {
           "attributes": {
             "value": "#959292",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Neutral.60}",
@@ -6787,7 +6787,7 @@ var _styleDictionary = {
         "Success": {
           "value": "#006714",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Success.40}",
@@ -6797,7 +6797,7 @@ var _styleDictionary = {
           "attributes": {
             "value": "#006714",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Success.40}",
@@ -6827,7 +6827,7 @@ var _styleDictionary = {
         "Error": {
           "value": "#c53425",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Error.50}",
@@ -6837,7 +6837,7 @@ var _styleDictionary = {
           "attributes": {
             "value": "#c53425",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Error.50}",
@@ -6867,7 +6867,7 @@ var _styleDictionary = {
         "Warning": {
           "value": "#ef8f00",
           "type": "color",
-          "filePath": "alle/sem-colors.json",
+          "filePath": "tokens/sem-colors.json",
           "isSource": true,
           "original": {
             "value": "{Palette.Warning.50}",
@@ -6877,7 +6877,7 @@ var _styleDictionary = {
           "attributes": {
             "value": "#ef8f00",
             "type": "color",
-            "filePath": "alle/sem-colors.json",
+            "filePath": "tokens/sem-colors.json",
             "isSource": true,
             "original": {
               "value": "{Palette.Warning.50}",
