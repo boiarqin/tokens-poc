@@ -1,6 +1,8 @@
 import React from 'react'
 import Head from 'next/head'
 import { Heading, Box, SimpleGrid } from '@chakra-ui/react'
+import {CheckboxIndeterminateIcon} from '../build/icons/CheckboxIndeterminate'
+import {CheckboxSelectedIcon} from '../build/icons/CheckboxSelected'
 
 export default function Home() {
   const nestedColors: string[] = []
@@ -20,6 +22,11 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
+        <Heading>Icons</Heading>
+        <CheckboxIndeterminateIcon fillRule="evenodd" color="green.400" height="40px" width="40px"/>
+        <CheckboxSelectedIcon fillRule="evenodd" color="blue.400" height="40px" width="40px"/>
+
+        <br /><br />
         <Heading>Change theme.ts to switch between nested and flattened colors</Heading>
         <Box bgColor="red.100">I am red.100 (Chakra default)</Box>
         <Box bgColor="Palette.Primary.50">I am Palette.Primary.50 (nested color names)</Box>

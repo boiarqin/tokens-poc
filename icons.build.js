@@ -1,6 +1,7 @@
 const path = require('path');
 const StyleDictionary = require('style-dictionary');
 const { globSync} = require('glob');
+const jsdom = require("jsdom");
 
 // Read in the SVG file
 StyleDictionary.registerParser({
@@ -28,6 +29,22 @@ StyleDictionary.registerTransform({
     }
   });
 
+  // custom formatter
+// to extract the path from the icon (assuming it is created correctly)
+// Note: CheckboxEnabled is an example element that needs to be exported differently
+  StyleDictionary.registerTransform({
+    name: 'attribute/svg-path',
+    type: 'attribute',
+    transformer: function(token) {
+        const _t = token;
+        const dom = new jsdom.JSDOM(token.value, "image/svg+xml");
+        const svgPath = dom.window.document.querySelector('path')?.getAttribute('d')
+        _t.svgPath = svgPath
+        return _t;
+    }
+  });
+
+
 // custom formatter
 // to transform the icon to a react component
   StyleDictionary.registerFormat({
@@ -35,13 +52,12 @@ StyleDictionary.registerTransform({
     formatter: function({dictionary, platform, options, file}) {
         return dictionary.allTokens.map(token => {
             return (
-`import React from 'react';
+`import { createIcon } from "@chakra-ui/icon"
 
-export const ${token.iconName}Icon = () => {
-    <div> 
-        ${token.value}
-    </div>
-};`
+export const ${token.iconName}Icon = createIcon({
+    d: "${token.svgPath}",
+    displayName: "${token.iconName}Icon",
+})`
             )
       }).join(`\n`)
   }})
@@ -55,7 +71,7 @@ iconFiles.map((iconFile) => {
         platforms: {
           // icons/jsx is arbitrary name
           'icons/jsx': {
-            transforms: ['attribute/icon-name'],
+            transforms: ['attribute/icon-name', 'attribute/svg-path'],
             buildPath: 'build/icons/',
             files: [
               {
